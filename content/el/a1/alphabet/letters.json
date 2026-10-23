@@ -1,0 +1,248 @@
+{
+  "key": "el.a1.alphabet.letters",
+  "kind": "letters",
+  "data": {
+    "letters": [
+      {
+        "upper": "Α",
+        "lower": "α",
+        "name": "άλφα",
+        "sound": "a in father",
+        "example": {
+          "word": "η αγάπη",
+          "translation": "love"
+        }
+      },
+      {
+        "upper": "Β",
+        "lower": "β",
+        "name": "βήτα",
+        "sound": "v in van",
+        "example": {
+          "word": "το βιβλίο",
+          "translation": "book"
+        }
+      },
+      {
+        "upper": "Γ",
+        "lower": "γ",
+        "name": "γάμμα",
+        "sound": "a soft gargled g; y in yes before e and i sounds",
+        "example": {
+          "word": "η γάτα",
+          "translation": "cat"
+        }
+      },
+      {
+        "upper": "Δ",
+        "lower": "δ",
+        "name": "δέλτα",
+        "sound": "th in this",
+        "example": {
+          "word": "το δέντρο",
+          "translation": "tree"
+        }
+      },
+      {
+        "upper": "Ε",
+        "lower": "ε",
+        "name": "έψιλον",
+        "sound": "e in bed",
+        "example": {
+          "word": "η ελιά",
+          "translation": "olive"
+        }
+      },
+      {
+        "upper": "Ζ",
+        "lower": "ζ",
+        "name": "ζήτα",
+        "sound": "z in zoo",
+        "example": {
+          "word": "η ζάχαρη",
+          "translation": "sugar"
+        }
+      },
+      {
+        "upper": "Η",
+        "lower": "η",
+        "name": "ήτα",
+        "sound": "ee in see",
+        "example": {
+          "word": "ο ήλιος",
+          "translation": "sun"
+        }
+      },
+      {
+        "upper": "Θ",
+        "lower": "θ",
+        "name": "θήτα",
+        "sound": "th in think",
+        "example": {
+          "word": "η θάλασσα",
+          "translation": "sea"
+        }
+      },
+      {
+        "upper": "Ι",
+        "lower": "ι",
+        "name": "γιώτα",
+        "sound": "ee in see",
+        "example": {
+          "word": "η ιστορία",
+          "translation": "story, history"
+        }
+      },
+      {
+        "upper": "Κ",
+        "lower": "κ",
+        "name": "κάππα",
+        "sound": "k in kite",
+        "example": {
+          "word": "το κλειδί",
+          "translation": "key"
+        }
+      },
+      {
+        "upper": "Λ",
+        "lower": "λ",
+        "name": "λάμδα",
+        "sound": "l in leaf",
+        "example": {
+          "word": "το λεμόνι",
+          "translation": "lemon"
+        }
+      },
+      {
+        "upper": "Μ",
+        "lower": "μ",
+        "name": "μι",
+        "sound": "m in moon",
+        "example": {
+          "word": "η μητέρα",
+          "translation": "mother"
+        }
+      },
+      {
+        "upper": "Ν",
+        "lower": "ν",
+        "name": "νι",
+        "sound": "n in nose",
+        "example": {
+          "word": "το νερό",
+          "translation": "water"
+        }
+      },
+      {
+        "upper": "Ξ",
+        "lower": "ξ",
+        "name": "ξι",
+        "sound": "ks in box",
+        "example": {
+          "word": "ο ξένος",
+          "translation": "stranger"
+        }
+      },
+      {
+        "upper": "Ο",
+        "lower": "ο",
+        "name": "όμικρον",
+        "sound": "o in more, short",
+        "example": {
+          "word": "το όνομα",
+          "translation": "name"
+        }
+      },
+      {
+        "upper": "Π",
+        "lower": "π",
+        "name": "πι",
+        "sound": "p in pen, without the puff of air",
+        "example": {
+          "word": "η πόλη",
+          "translation": "city"
+        }
+      },
+      {
+        "upper": "Ρ",
+        "lower": "ρ",
+        "name": "ρο",
+        "sound": "a lightly rolled r",
+        "example": {
+          "word": "το ρολόι",
+          "translation": "clock"
+        }
+      },
+      {
+        "upper": "Σ",
+        "lower": "σ",
+        "name": "σίγμα",
+        "sound": "s in sun; written ς at the end of a word",
+        "example": {
+          "word": "ο σκύλος",
+          "translation": "dog"
+        }
+      },
+      {
+        "upper": "Τ",
+        "lower": "τ",
+        "name": "ταυ",
+        "sound": "t in top, without the puff of air",
+        "example": {
+          "word": "το τραπέζι",
+          "translation": "table"
+        }
+      },
+      {
+        "upper": "Υ",
+        "lower": "υ",
+        "name": "ύψιλον",
+        "sound": "ee in see",
+        "example": {
+          "word": "ο ύπνος",
+          "translation": "sleep"
+        }
+      },
+      {
+        "upper": "Φ",
+        "lower": "φ",
+        "name": "φι",
+        "sound": "f in fish",
+        "example": {
+          "word": "το φως",
+          "translation": "light"
+        }
+      },
+      {
+        "upper": "Χ",
+        "lower": "χ",
+        "name": "χι",
+        "sound": "ch in Scottish loch",
+        "example": {
+          "word": "το χέρι",
+          "translation": "hand"
+        }
+      },
+      {
+        "upper": "Ψ",
+        "lower": "ψ",
+        "name": "ψι",
+        "sound": "ps in lips",
+        "example": {
+          "word": "το ψωμί",
+          "translation": "bread"
+        }
+      },
+      {
+        "upper": "Ω",
+        "lower": "ω",
+        "name": "ωμέγα",
+        "sound": "o in more, short; same as ο",
+        "example": {
+          "word": "η ώρα",
+          "translation": "hour"
+        }
+      }
+    ]
+  }
+}

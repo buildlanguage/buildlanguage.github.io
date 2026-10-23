@@ -1,0 +1,308 @@
+{
+  "key": "de.a1.alphabet.letters",
+  "kind": "letters",
+  "data": {
+    "letters": [
+      {
+        "upper": "A",
+        "lower": "a",
+        "name": "a",
+        "sound": "a in father",
+        "example": {
+          "word": "der Apfel",
+          "translation": "apple"
+        }
+      },
+      {
+        "upper": "B",
+        "lower": "b",
+        "name": "be",
+        "sound": "b in bed",
+        "example": {
+          "word": "das Brot",
+          "translation": "bread"
+        }
+      },
+      {
+        "upper": "C",
+        "lower": "c",
+        "name": "tse",
+        "sound": "k in kite, or ts before e and i; mostly in borrowed words",
+        "example": {
+          "word": "das Café",
+          "translation": "café"
+        }
+      },
+      {
+        "upper": "D",
+        "lower": "d",
+        "name": "de",
+        "sound": "d in day",
+        "example": {
+          "word": "das Dach",
+          "translation": "roof"
+        }
+      },
+      {
+        "upper": "E",
+        "lower": "e",
+        "name": "e",
+        "sound": "e in they when long, e in bed when short",
+        "example": {
+          "word": "der Esel",
+          "translation": "donkey"
+        }
+      },
+      {
+        "upper": "F",
+        "lower": "f",
+        "name": "ef",
+        "sound": "f in fish",
+        "example": {
+          "word": "der Fisch",
+          "translation": "fish"
+        }
+      },
+      {
+        "upper": "G",
+        "lower": "g",
+        "name": "ge",
+        "sound": "g in go",
+        "example": {
+          "word": "der Garten",
+          "translation": "garden"
+        }
+      },
+      {
+        "upper": "H",
+        "lower": "h",
+        "name": "ha",
+        "sound": "h in hat; silent after a vowel",
+        "example": {
+          "word": "das Haus",
+          "translation": "house"
+        }
+      },
+      {
+        "upper": "I",
+        "lower": "i",
+        "name": "i",
+        "sound": "ee in see",
+        "example": {
+          "word": "der Igel",
+          "translation": "hedgehog"
+        }
+      },
+      {
+        "upper": "J",
+        "lower": "j",
+        "name": "jot",
+        "sound": "y in yes",
+        "example": {
+          "word": "die Jacke",
+          "translation": "jacket"
+        }
+      },
+      {
+        "upper": "K",
+        "lower": "k",
+        "name": "ka",
+        "sound": "k in kite",
+        "example": {
+          "word": "die Katze",
+          "translation": "cat"
+        }
+      },
+      {
+        "upper": "L",
+        "lower": "l",
+        "name": "el",
+        "sound": "l in leaf",
+        "example": {
+          "word": "die Lampe",
+          "translation": "lamp"
+        }
+      },
+      {
+        "upper": "M",
+        "lower": "m",
+        "name": "em",
+        "sound": "m in moon",
+        "example": {
+          "word": "die Maus",
+          "translation": "mouse"
+        }
+      },
+      {
+        "upper": "N",
+        "lower": "n",
+        "name": "en",
+        "sound": "n in nose",
+        "example": {
+          "word": "die Nase",
+          "translation": "nose"
+        }
+      },
+      {
+        "upper": "O",
+        "lower": "o",
+        "name": "o",
+        "sound": "o in go, without the glide",
+        "example": {
+          "word": "das Obst",
+          "translation": "fruit"
+        }
+      },
+      {
+        "upper": "P",
+        "lower": "p",
+        "name": "pe",
+        "sound": "p in pen",
+        "example": {
+          "word": "der Park",
+          "translation": "park"
+        }
+      },
+      {
+        "upper": "Q",
+        "lower": "q",
+        "name": "ku",
+        "sound": "always written qu and said kv",
+        "example": {
+          "word": "die Qualle",
+          "translation": "jellyfish"
+        }
+      },
+      {
+        "upper": "R",
+        "lower": "r",
+        "name": "er",
+        "sound": "a soft gargle at the back of the throat",
+        "example": {
+          "word": "der Regen",
+          "translation": "rain"
+        }
+      },
+      {
+        "upper": "S",
+        "lower": "s",
+        "name": "es",
+        "sound": "z in zoo before a vowel, s in sun otherwise",
+        "example": {
+          "word": "die Sonne",
+          "translation": "sun"
+        }
+      },
+      {
+        "upper": "T",
+        "lower": "t",
+        "name": "te",
+        "sound": "t in top",
+        "example": {
+          "word": "der Tisch",
+          "translation": "table"
+        }
+      },
+      {
+        "upper": "U",
+        "lower": "u",
+        "name": "u",
+        "sound": "oo in moon",
+        "example": {
+          "word": "die Uhr",
+          "translation": "clock"
+        }
+      },
+      {
+        "upper": "V",
+        "lower": "v",
+        "name": "fau",
+        "sound": "f in fish; v in van in borrowed words",
+        "example": {
+          "word": "der Vogel",
+          "translation": "bird"
+        }
+      },
+      {
+        "upper": "W",
+        "lower": "w",
+        "name": "we",
+        "sound": "v in van",
+        "example": {
+          "word": "das Wasser",
+          "translation": "water"
+        }
+      },
+      {
+        "upper": "X",
+        "lower": "x",
+        "name": "iks",
+        "sound": "ks in box",
+        "example": {
+          "word": "das Xylofon",
+          "translation": "xylophone"
+        }
+      },
+      {
+        "upper": "Y",
+        "lower": "y",
+        "name": "ypsilon",
+        "sound": "like ü; y in yes in borrowed words",
+        "example": {
+          "word": "das Yoga",
+          "translation": "yoga"
+        }
+      },
+      {
+        "upper": "Z",
+        "lower": "z",
+        "name": "tset",
+        "sound": "ts in cats",
+        "example": {
+          "word": "der Zug",
+          "translation": "train"
+        }
+      },
+      {
+        "upper": "Ä",
+        "lower": "ä",
+        "name": "ä",
+        "sound": "e in bed",
+        "example": {
+          "word": "der Käse",
+          "translation": "cheese"
+        }
+      },
+      {
+        "upper": "Ö",
+        "lower": "ö",
+        "name": "ö",
+        "sound": "say e in bed with rounded lips",
+        "example": {
+          "word": "das Öl",
+          "translation": "oil"
+        }
+      },
+      {
+        "upper": "Ü",
+        "lower": "ü",
+        "name": "ü",
+        "sound": "say ee in see with rounded lips",
+        "example": {
+          "word": "die Tür",
+          "translation": "door"
+        }
+      },
+      {
+        "upper": "ẞ",
+        "lower": "ß",
+        "name": "eszett",
+        "sound": "s in sun, never z; never starts a word",
+        "example": {
+          "word": "die Straße",
+          "translation": "street"
+        }
+      }
+    ]
+  }
+}
