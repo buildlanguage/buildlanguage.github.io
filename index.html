@@ -4,12 +4,23 @@
     <meta charset="UTF-8" />
     <meta
       name="viewport"
-      content="viewport-fit=cover, width=device-width, initial-scale=1.0"
+      content="viewport-fit=cover, width=device-width, initial-scale=1.0, interactive-widget=resizes-content"
     />
     <title>Language Builder</title>
     <link href="/assets/favicon-C3aH8cG9.ico" rel="icon" />
-    <script type="module" crossorigin src="/assets/index-DcACxIN1.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-CrLentVe.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Commissioner:wght@400..700&family=Literata:opsz,wght@7..72,400..700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      // Follow the system theme until there's a setting for it.
+      if (matchMedia("(prefers-color-scheme: dark)").matches)
+        document.documentElement.classList.add("dark");
+    </script>
+    <script type="module" crossorigin src="/assets/index-BtwEFMwi.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BoVItJqV.css">
   </head>
   <body>
     <div id="root"></div>
