@@ -7,105 +7,105 @@
         "id": "family",
         "type": "noun",
         "english": "family",
-        "answer": "die Familie",
+        "answers": ["die Familie"],
         "context": "Meine Familie wohnt in Berlin."
       },
       {
         "id": "friend",
         "type": "noun",
         "english": "friend (male)",
-        "answer": "der Freund",
+        "answers": ["der Freund"],
         "context": "Das ist mein Freund Paul."
       },
       {
         "id": "apartment",
         "type": "noun",
         "english": "apartment",
-        "answer": "die Wohnung",
+        "answers": ["die Wohnung", "das Apartment"],
         "context": "Die Wohnung ist klein."
       },
       {
         "id": "breakfast",
         "type": "noun",
         "english": "breakfast",
-        "answer": "das Frühstück",
+        "answers": ["das Frühstück"],
         "context": "Das Frühstück ist um acht Uhr."
       },
       {
         "id": "ticket",
         "type": "noun",
         "english": "ticket",
-        "answer": "die Fahrkarte",
+        "answers": ["die Fahrkarte", "das Ticket", "der Fahrschein"],
         "context": "Ich kaufe eine Fahrkarte."
       },
       {
         "id": "weather",
         "type": "noun",
         "english": "weather",
-        "answer": "das Wetter",
+        "answers": ["das Wetter"],
         "context": "Das Wetter ist heute schön."
       },
       {
         "id": "learn",
         "type": "verb",
         "english": "to learn",
-        "answer": "lernen",
+        "answers": ["lernen"],
         "context": "Ich lerne jeden Tag Deutsch."
       },
       {
         "id": "help",
         "type": "verb",
         "english": "to help",
-        "answer": "helfen",
+        "answers": ["helfen"],
         "context": "Kannst du mir bitte helfen?"
       },
       {
         "id": "pay",
         "type": "verb",
         "english": "to pay",
-        "answer": "bezahlen",
+        "answers": ["bezahlen", "zahlen"],
         "context": "Ich bezahle mit Karte."
       },
       {
         "id": "get-up",
         "type": "verb",
         "english": "to get up",
-        "answer": "aufstehen",
+        "answers": ["aufstehen"],
         "context": "Ich stehe um sieben Uhr auf."
       },
       {
         "id": "arrive",
         "type": "verb",
         "english": "to arrive",
-        "answer": "ankommen",
+        "answers": ["ankommen"],
         "context": "Der Zug kommt um neun Uhr an."
       },
       {
         "id": "friendly",
         "type": "adjective",
         "english": "friendly",
-        "answer": "freundlich",
+        "answers": ["freundlich"],
         "context": "Die Verkäuferin ist sehr freundlich."
       },
       {
         "id": "affordable",
         "type": "adjective",
         "english": "affordable",
-        "answer": "günstig",
+        "answers": ["günstig", "preiswert"],
         "context": "Das Brot ist heute günstig."
       },
       {
         "id": "healthy",
         "type": "adjective",
         "english": "healthy",
-        "answer": "gesund",
+        "answers": ["gesund"],
         "context": "Gemüse ist gesund."
       },
       {
         "id": "quiet",
         "type": "adjective",
         "english": "quiet",
-        "answer": "ruhig",
+        "answers": ["ruhig", "leise"],
         "context": "Am Morgen ist es hier ruhig."
       }
     ]

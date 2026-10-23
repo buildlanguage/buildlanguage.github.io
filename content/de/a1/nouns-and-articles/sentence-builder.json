@@ -7,35 +7,38 @@
         "id": "family-friendly",
         "type": "sentence",
         "english": "The family is friendly.",
-        "answer": "Die Familie ist freundlich.",
+        "answers": ["Die Familie ist freundlich."],
         "context": "Wir besuchen sie gern."
       },
       {
         "id": "friend-friendly",
         "type": "sentence",
         "english": "The friend is friendly. (male)",
-        "answer": "Der Freund ist freundlich.",
+        "answers": ["Der Freund ist freundlich."],
         "context": "Er hilft seinen Nachbarn."
       },
       {
         "id": "apartment-quiet",
         "type": "sentence",
         "english": "The apartment is quiet.",
-        "answer": "Die Wohnung ist ruhig.",
+        "answers": ["Die Wohnung ist ruhig."],
         "context": "Sie liegt in einer kleinen Straße."
       },
       {
         "id": "breakfast-healthy",
         "type": "sentence",
         "english": "Breakfast is healthy.",
-        "answer": "Das Frühstück ist gesund.",
+        "answers": ["Das Frühstück ist gesund."],
         "context": "Dazu gibt es Obst und Tee."
       },
       {
         "id": "ticket-affordable",
         "type": "sentence",
         "english": "The ticket is affordable.",
-        "answer": "Die Fahrkarte ist günstig.",
+        "answers": [
+          "Die Fahrkarte ist günstig.",
+          "Die Fahrkarte ist preiswert."
+        ],
         "context": "Sie kostet nur drei Euro."
       }
     ]
