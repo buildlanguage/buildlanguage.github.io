@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.konjunktiv-ii.hoeflich-sprechen",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Formuliere Bitten und Fragen höflich und kooperativ.",
+    "items": [
+      {
+        "id": "konjunktiv-01",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} Sie das bitte wiederholen?",
+        "answer": "Könnten",
+        "options": ["Könnten", "Konnten", "Können"],
+        "completedText": "Könnten Sie das bitte wiederholen?",
+        "explanation": "Muster: Könnten Sie …? In diesem Zusammenhang passt „Könnten“."
+      },
+      {
+        "id": "konjunktiv-02",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} Sie vielleicht ein Beispiel nennen?",
+        "answer": "Könnten",
+        "options": ["Könnten", "Konnten", "Können"],
+        "completedText": "Könnten Sie vielleicht ein Beispiel nennen?",
+        "explanation": "Muster: Könnten Sie vielleicht …? In diesem Zusammenhang passt „Könnten“."
+      },
+      {
+        "id": "konjunktiv-03",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} Sie mir bitte helfen?",
+        "answer": "Würden",
+        "options": ["Würden", "Wurden", "Wären"],
+        "completedText": "Würden Sie mir bitte helfen?",
+        "explanation": "Muster: Würden Sie mir bitte …? In diesem Zusammenhang passt „Würden“."
+      },
+      {
+        "id": "konjunktiv-04",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} Sie kurz Zeit für mich?",
+        "answer": "Hätten",
+        "options": ["Hätten", "Wären", "Würden"],
+        "completedText": "Hätten Sie kurz Zeit für mich?",
+        "explanation": "Muster: Hätten Sie …? In diesem Zusammenhang passt „Hätten“."
+      },
+      {
+        "id": "konjunktiv-05",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} Sie bitte etwas langsamer sprechen?",
+        "answer": "Könnten",
+        "options": ["Könnten", "Konnten", "Müssen"],
+        "completedText": "Könnten Sie bitte etwas langsamer sprechen?",
+        "explanation": "Muster: Könnten Sie bitte + Infinitiv? In diesem Zusammenhang passt „Könnten“."
+      },
+      {
+        "id": "konjunktiv-06",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} ich noch eine Frage stellen?",
+        "answer": "Dürfte",
+        "options": ["Dürfte", "Durfte", "Müsste"],
+        "completedText": "Dürfte ich noch eine Frage stellen?",
+        "explanation": "Muster: Dürfte ich …? In diesem Zusammenhang passt „Dürfte“."
+      },
+      {
+        "id": "konjunktiv-07",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ich {{gap}} Ihnen dankbar, wenn Sie mir antworten könnten.",
+        "answer": "wäre",
+        "options": ["wäre", "hätte", "würde"],
+        "completedText": "Ich wäre Ihnen dankbar, wenn Sie mir antworten könnten.",
+        "explanation": "Muster: Ich wäre Ihnen dankbar, wenn … In diesem Zusammenhang passt „wäre“."
+      },
+      {
+        "id": "konjunktiv-08",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ich {{gap}} lieber am Vormittag kommen.",
+        "answer": "würde",
+        "options": ["würde", "wäre", "hätte"],
+        "completedText": "Ich würde lieber am Vormittag kommen.",
+        "explanation": "Muster: Ich würde lieber … In diesem Zusammenhang passt „würde“."
+      }
+    ]
+  }
+}

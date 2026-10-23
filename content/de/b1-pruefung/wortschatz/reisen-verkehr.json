@@ -1,0 +1,113 @@
+{
+  "key": "de.b1-pruefung.wortschatz.reisen-verkehr",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "reisen-verkehr-fahrkarte",
+        "type": "noun",
+        "english": "ticket",
+        "answers": ["die Fahrkarte"],
+        "context": "Die Fahrkarte kaufe ich am Automaten."
+      },
+      {
+        "id": "reisen-verkehr-umsteigen",
+        "type": "verb",
+        "english": "to change trains",
+        "answers": ["umsteigen"],
+        "context": "In Frankfurt müssen wir in einen anderen Zug umsteigen."
+      },
+      {
+        "id": "reisen-verkehr-bahnhof",
+        "type": "noun",
+        "english": "train station",
+        "answers": ["der Bahnhof"],
+        "context": "Der Bahnhof liegt direkt neben dem Hotel."
+      },
+      {
+        "id": "reisen-verkehr-abfahren",
+        "type": "verb",
+        "english": "to depart",
+        "answers": ["abfahren"],
+        "context": "Unser Zug soll um neun Uhr abfahren."
+      },
+      {
+        "id": "reisen-verkehr-verspatung",
+        "type": "noun",
+        "english": "delay",
+        "answers": ["die Verspätung"],
+        "context": "Wegen der Verspätung verpasse ich meinen Anschluss."
+      },
+      {
+        "id": "reisen-verkehr-ankommen",
+        "type": "verb",
+        "english": "to arrive",
+        "answers": ["ankommen"],
+        "context": "Wir möchten vor dem Abendessen im Hotel ankommen."
+      },
+      {
+        "id": "reisen-verkehr-unterkunft",
+        "type": "noun",
+        "english": "accommodation",
+        "answers": ["die Unterkunft"],
+        "context": "Unsere Unterkunft liegt nur fünf Minuten vom Strand entfernt."
+      },
+      {
+        "id": "reisen-verkehr-buchen",
+        "type": "verb",
+        "english": "to book",
+        "answers": ["buchen"],
+        "context": "Ich möchte ein Doppelzimmer für drei Nächte buchen."
+      },
+      {
+        "id": "reisen-verkehr-anschluss",
+        "type": "noun",
+        "english": "connection",
+        "answers": ["der Anschluss"],
+        "context": "Der nächste Anschluss fährt erst in einer Stunde."
+      },
+      {
+        "id": "reisen-verkehr-verkehrsmittel",
+        "type": "noun",
+        "english": "means of transport",
+        "answers": ["das Verkehrsmittel"],
+        "context": "Der Bus ist hier das wichtigste Verkehrsmittel."
+      },
+      {
+        "id": "reisen-verkehr-sehenswurdigkeit",
+        "type": "noun",
+        "english": "sight / tourist attraction",
+        "answers": ["die Sehenswürdigkeit"],
+        "context": "Der Reiseführer zeigt uns die wichtigste Sehenswürdigkeit."
+      },
+      {
+        "id": "reisen-verkehr-reisefuhrer",
+        "type": "noun",
+        "english": "tour guide / guidebook",
+        "answers": ["der Reiseführer"],
+        "context": "Unser Reiseführer erklärt die Geschichte der Stadt."
+      },
+      {
+        "id": "reisen-verkehr-umgebung",
+        "type": "noun",
+        "english": "surroundings / local area",
+        "answers": ["die Umgebung"],
+        "context": "In der Umgebung gibt es schöne Wanderwege."
+      },
+      {
+        "id": "reisen-verkehr-fahrgast",
+        "type": "noun",
+        "english": "passenger",
+        "answers": ["der Fahrgast"],
+        "context": "Jeder Fahrgast braucht eine gültige Fahrkarte."
+      },
+      {
+        "id": "reisen-verkehr-uberqueren",
+        "type": "verb",
+        "english": "to cross",
+        "answers": ["überqueren"],
+        "context": "Am Bahnhof müssen Sie die Straße überqueren."
+      }
+    ]
+  }
+}

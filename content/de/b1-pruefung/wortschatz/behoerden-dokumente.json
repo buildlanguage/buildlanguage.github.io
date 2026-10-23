@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.behoerden-dokumente",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "behoerden-dokumente-behorde",
+        "type": "noun",
+        "english": "public authority",
+        "answers": ["die Behörde"],
+        "context": "Die Behörde öffnet montags um acht Uhr."
+      },
+      {
+        "id": "behoerden-dokumente-beantragen",
+        "type": "verb",
+        "english": "to apply for / request",
+        "answers": ["beantragen"],
+        "context": "Den neuen Ausweis kann man im Rathaus beantragen."
+      },
+      {
+        "id": "behoerden-dokumente-antrag",
+        "type": "noun",
+        "english": "application / request",
+        "answers": ["der Antrag"],
+        "context": "Bitte schicken Sie den Antrag bis Freitag."
+      },
+      {
+        "id": "behoerden-dokumente-ausfullen",
+        "type": "verb",
+        "english": "to fill out",
+        "answers": ["ausfüllen"],
+        "context": "Sie müssen dieses Formular vollständig ausfüllen."
+      },
+      {
+        "id": "behoerden-dokumente-formular",
+        "type": "noun",
+        "english": "form",
+        "answers": ["das Formular"],
+        "context": "Das Formular liegt neben der Eingangstür."
+      },
+      {
+        "id": "behoerden-dokumente-verlangern",
+        "type": "verb",
+        "english": "to extend / renew",
+        "answers": ["verlängern"],
+        "context": "Ich muss meine Aufenthaltserlaubnis nächsten Monat verlängern."
+      },
+      {
+        "id": "behoerden-dokumente-ausweis",
+        "type": "noun",
+        "english": "identity card",
+        "answers": ["der Ausweis"],
+        "context": "Am Schalter muss ich meinen Ausweis zeigen."
+      },
+      {
+        "id": "behoerden-dokumente-einreichen",
+        "type": "verb",
+        "english": "to submit",
+        "answers": ["einreichen"],
+        "context": "Sie können alle Dokumente zusammen einreichen."
+      },
+      {
+        "id": "behoerden-dokumente-aufenthaltserlaubnis",
+        "type": "noun",
+        "english": "residence permit",
+        "answers": ["die Aufenthaltserlaubnis"],
+        "context": "Meine Aufenthaltserlaubnis gilt noch bis Dezember."
+      },
+      {
+        "id": "behoerden-dokumente-bescheinigung",
+        "type": "noun",
+        "english": "certificate / confirmation",
+        "answers": ["die Bescheinigung"],
+        "context": "Die Schule gibt mir eine Bescheinigung für den Kurs."
+      }
+    ]
+  }
+}

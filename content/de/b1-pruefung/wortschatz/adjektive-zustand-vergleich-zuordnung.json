@@ -1,0 +1,64 @@
+{
+  "key": "de.b1-pruefung.wortschatz.adjektive-zustand-vergleich-zuordnung",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-abhangig-von",
+        "type": "adjective",
+        "english": "dependent on",
+        "answers": ["abhängig von"],
+        "context": "Viele Familien sind von öffentlichen Verkehrsmitteln abhängig."
+      },
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-bekannt-fur",
+        "type": "adjective",
+        "english": "known for",
+        "answers": ["bekannt für"],
+        "context": "Die Stadt ist für ihren großen Markt bekannt."
+      },
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-uberzeugt-von",
+        "type": "adjective",
+        "english": "convinced of",
+        "answers": ["überzeugt von"],
+        "context": "Ich bin von diesem Vorschlag noch nicht überzeugt."
+      },
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-verwandt-mit",
+        "type": "adjective",
+        "english": "related to",
+        "answers": ["verwandt mit"],
+        "context": "Meine Mutter ist mit dieser Familie verwandt."
+      },
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-verbunden-mit",
+        "type": "adjective",
+        "english": "connected with",
+        "answers": ["verbunden mit"],
+        "context": "Die beiden Städte sind mit einer Bahnlinie verbunden."
+      },
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-typisch-fur",
+        "type": "adjective",
+        "english": "typical of",
+        "answers": ["typisch für"],
+        "context": "Diese Ruhe ist typisch für das kleine Dorf."
+      },
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-reich-an",
+        "type": "adjective",
+        "english": "rich in",
+        "answers": ["reich an"],
+        "context": "Die Region ist reich an schönen Seen."
+      },
+      {
+        "id": "adjektive-zustand-vergleich-zuordnung-arm-an",
+        "type": "adjective",
+        "english": "low in / poor in",
+        "answers": ["arm an"],
+        "context": "Dieses Essen ist arm an Vitaminen."
+      }
+    ]
+  }
+}

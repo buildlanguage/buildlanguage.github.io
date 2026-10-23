@@ -1,0 +1,235 @@
+{
+  "key": "de.b1-pruefung.sprachbausteine.ehrenamt-bewerbung-wortbank",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Setze passende Wörter in eine kurze Bewerbung für ein freiwilliges Projekt ein.",
+    "passage": "Sehr geehrte Frau König, Ihre Anzeige für das Lesepaten-Projekt hat sofort mein Interesse {{gap-01}}. Ich lese gern und arbeite seit mehreren Jahren {{gap-02}} Kindern. Besonders wichtig finde ich, dass junge Menschen Freude {{gap-03}} Büchern entwickeln. Bevor ich mich verbindlich anmelde, hätte ich noch einige {{gap-04}}. An welchen Wochentagen finden die Treffen {{gap-05}}? Muss man bereits pädagogische Erfahrung {{gap-06}}? Im vergangenen Jahr habe ich in einem Ferienprogramm {{gap-07}} und dort kleine Gruppen betreut. Ich bin zuverlässig und kann Aufgaben selbstständig {{gap-08}}. Gern würde ich Ihr Team persönlich {{gap-09}}. Über eine Einladung zu einem Gespräch würde ich mich sehr {{gap-10}}.",
+    "bank": [
+      "geweckt",
+      "mit",
+      "an",
+      "Fragen",
+      "statt",
+      "haben",
+      "mitgeholfen",
+      "übernehmen",
+      "kennenlernen",
+      "freuen",
+      "gegen",
+      "ohne",
+      "seit"
+    ],
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welches Wort aus der Wortbank passt?",
+        "answer": "geweckt",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„geweckt“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welches Wort aus der Wortbank passt?",
+        "answer": "mit",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„mit“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welches Wort aus der Wortbank passt?",
+        "answer": "an",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„an“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welches Wort aus der Wortbank passt?",
+        "answer": "Fragen",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„Fragen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welches Wort aus der Wortbank passt?",
+        "answer": "statt",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„statt“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welches Wort aus der Wortbank passt?",
+        "answer": "haben",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„haben“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welches Wort aus der Wortbank passt?",
+        "answer": "mitgeholfen",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„mitgeholfen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welches Wort aus der Wortbank passt?",
+        "answer": "übernehmen",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„übernehmen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welches Wort aus der Wortbank passt?",
+        "answer": "kennenlernen",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„kennenlernen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welches Wort aus der Wortbank passt?",
+        "answer": "freuen",
+        "options": [
+          "geweckt",
+          "mit",
+          "an",
+          "Fragen",
+          "statt",
+          "haben",
+          "mitgeholfen",
+          "übernehmen",
+          "kennenlernen",
+          "freuen",
+          "gegen",
+          "ohne",
+          "seit"
+        ],
+        "explanation": "„freuen“ passt hier grammatisch und inhaltlich."
+      }
+    ]
+  }
+}

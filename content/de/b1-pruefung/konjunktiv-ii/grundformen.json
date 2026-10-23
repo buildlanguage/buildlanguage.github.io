@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.konjunktiv-ii.grundformen",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Bilde hätte, wäre, würde und wichtige Modalverbformen.",
+    "items": [
+      {
+        "id": "konjunktiv-01",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Wenn ich mehr Zeit {{gap}}, würde ich jeden Tag Deutsch lernen.",
+        "answer": "hätte",
+        "options": ["hätte", "hatte", "würde haben"],
+        "completedText": "Wenn ich mehr Zeit hätte, würde ich jeden Tag Deutsch lernen.",
+        "explanation": "Muster: wenn + hätte, würde + Infinitiv. In diesem Zusammenhang passt „hätte“."
+      },
+      {
+        "id": "konjunktiv-02",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Wenn die Wohnung größer {{gap}}, könnten wir ein Arbeitszimmer haben.",
+        "answer": "wäre",
+        "options": ["wäre", "war", "würde sein"],
+        "completedText": "Wenn die Wohnung größer wäre, könnten wir ein Arbeitszimmer haben.",
+        "explanation": "Muster: wenn + wäre, könnte + Infinitiv. In diesem Zusammenhang passt „wäre“."
+      },
+      {
+        "id": "konjunktiv-03",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Mit einem Fahrrad {{gap}} ich schneller zur Arbeit fahren.",
+        "answer": "würde",
+        "options": ["würde", "werde", "wurde"],
+        "completedText": "Mit einem Fahrrad würde ich schneller zur Arbeit fahren.",
+        "explanation": "Muster: würde + Infinitiv. In diesem Zusammenhang passt „würde“."
+      },
+      {
+        "id": "konjunktiv-04",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ohne den Termin {{gap}} ich heute länger bleiben.",
+        "answer": "könnte",
+        "options": ["könnte", "konnte", "kann"],
+        "completedText": "Ohne den Termin könnte ich heute länger bleiben.",
+        "explanation": "Muster: könnte + Infinitiv. In diesem Zusammenhang passt „könnte“."
+      },
+      {
+        "id": "konjunktiv-05",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Du {{gap}} vor der Prüfung früher schlafen gehen.",
+        "answer": "solltest",
+        "options": ["solltest", "sollst", "solltest du"],
+        "completedText": "Du solltest vor der Prüfung früher schlafen gehen.",
+        "explanation": "Muster: sollte- + Infinitiv. In diesem Zusammenhang passt „solltest“."
+      },
+      {
+        "id": "konjunktiv-06",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Dann {{gap}} wir nicht so früh aufstehen.",
+        "answer": "müssten",
+        "options": ["müssten", "mussten", "müssen"],
+        "completedText": "Dann müssten wir nicht so früh aufstehen.",
+        "explanation": "Muster: müsste- + Infinitiv. In diesem Zusammenhang passt „müssten“."
+      },
+      {
+        "id": "konjunktiv-07",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "An deiner Stelle {{gap}} ich mit der Lehrerin sprechen.",
+        "answer": "würde",
+        "options": ["würde", "werde", "hätte"],
+        "completedText": "An deiner Stelle würde ich mit der Lehrerin sprechen.",
+        "explanation": "Muster: An deiner Stelle würde ich … In diesem Zusammenhang passt „würde“."
+      },
+      {
+        "id": "konjunktiv-08",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} ich Sie kurz etwas fragen?",
+        "answer": "Dürfte",
+        "options": ["Dürfte", "Durfte", "Darf"],
+        "completedText": "Dürfte ich Sie kurz etwas fragen?",
+        "explanation": "Muster: Dürfte ich …? In diesem Zusammenhang passt „Dürfte“."
+      }
+    ]
+  }
+}

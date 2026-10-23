@@ -1,0 +1,113 @@
+{
+  "key": "de.b1-pruefung.wortschatz.freizeit-verein",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "freizeit-verein-hobby",
+        "type": "noun",
+        "english": "hobby",
+        "answers": ["das Hobby"],
+        "context": "Mein liebstes Hobby ist das Fotografieren."
+      },
+      {
+        "id": "freizeit-verein-beitreten",
+        "type": "verb",
+        "english": "to join",
+        "answers": ["beitreten"],
+        "context": "Nächsten Monat möchte ich dem Sportverein beitreten."
+      },
+      {
+        "id": "freizeit-verein-verein",
+        "type": "noun",
+        "english": "club / association",
+        "answers": ["der Verein"],
+        "context": "Unser Verein organisiert jedes Jahr ein Sommerfest."
+      },
+      {
+        "id": "freizeit-verein-trainieren",
+        "type": "verb",
+        "english": "to train / practise",
+        "answers": ["trainieren"],
+        "context": "Für den Lauf muss ich regelmäßig trainieren."
+      },
+      {
+        "id": "freizeit-verein-veranstaltung",
+        "type": "noun",
+        "english": "event",
+        "answers": ["die Veranstaltung"],
+        "context": "Die Veranstaltung findet in der Stadthalle statt."
+      },
+      {
+        "id": "freizeit-verein-unternehmen",
+        "type": "verb",
+        "english": "to undertake / do",
+        "answers": ["unternehmen"],
+        "context": "Am Sonntag möchten wir etwas mit den Kindern unternehmen."
+      },
+      {
+        "id": "freizeit-verein-ausflug",
+        "type": "noun",
+        "english": "excursion",
+        "answers": ["der Ausflug"],
+        "context": "Unser Ausflug an den See war sehr schön."
+      },
+      {
+        "id": "freizeit-verein-teilnehmen",
+        "type": "verb",
+        "english": "to take part",
+        "answers": ["teilnehmen"],
+        "context": "Leider kann ich morgen nicht am Unterricht teilnehmen."
+      },
+      {
+        "id": "freizeit-verein-mitgliedschaft",
+        "type": "noun",
+        "english": "membership",
+        "answers": ["die Mitgliedschaft"],
+        "context": "Die Mitgliedschaft kostet zwanzig Euro im Monat."
+      },
+      {
+        "id": "freizeit-verein-training",
+        "type": "noun",
+        "english": "training session",
+        "answers": ["das Training"],
+        "context": "Das Training beginnt heute eine Stunde später."
+      },
+      {
+        "id": "freizeit-verein-mitglied",
+        "type": "noun",
+        "english": "member",
+        "answers": ["das Mitglied"],
+        "context": "Jedes Mitglied bezahlt einen monatlichen Beitrag."
+      },
+      {
+        "id": "freizeit-verein-gesellschaft",
+        "type": "noun",
+        "english": "company / companionship",
+        "answers": ["die Gesellschaft"],
+        "context": "Auf Gruppenreisen hat man immer nette Gesellschaft."
+      },
+      {
+        "id": "freizeit-verein-freizeitprogramm",
+        "type": "noun",
+        "english": "leisure programme",
+        "answers": ["das Freizeitprogramm"],
+        "context": "Das Hotel bietet ein Freizeitprogramm für Kinder an."
+      },
+      {
+        "id": "freizeit-verein-sportart",
+        "type": "noun",
+        "english": "type of sport",
+        "answers": ["die Sportart"],
+        "context": "Welche Sportart möchtest du gern ausprobieren?"
+      },
+      {
+        "id": "freizeit-verein-beschliessen",
+        "type": "verb",
+        "english": "to decide / pass a resolution",
+        "answers": ["beschließen"],
+        "context": "Der Verein möchte heute ein neues Programm beschließen."
+      }
+    ]
+  }
+}

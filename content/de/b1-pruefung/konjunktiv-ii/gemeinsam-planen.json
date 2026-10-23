@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.konjunktiv-ii.gemeinsam-planen",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Mache Vorschläge, biete Alternativen an und plane gemeinsam.",
+    "items": [
+      {
+        "id": "konjunktiv-01",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Wir {{gap}} die Feier im Garten machen.",
+        "answer": "könnten",
+        "options": ["könnten", "konnten", "können"],
+        "completedText": "Wir könnten die Feier im Garten machen.",
+        "explanation": "Muster: Wir könnten … In diesem Zusammenhang passt „könnten“."
+      },
+      {
+        "id": "konjunktiv-02",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Was {{gap}} du davon halten, wenn wir am Samstag feiern?",
+        "answer": "würdest",
+        "options": ["würdest", "wurdest", "wirst"],
+        "completedText": "Was würdest du davon halten, wenn wir am Samstag feiern?",
+        "explanation": "Muster: Was würdest du davon halten, wenn …? In diesem Zusammenhang passt „würdest“."
+      },
+      {
+        "id": "konjunktiv-03",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Vielleicht {{gap}} wir zuerst die Einladungen schreiben.",
+        "answer": "sollten",
+        "options": ["sollten", "sollen", "mussten"],
+        "completedText": "Vielleicht sollten wir zuerst die Einladungen schreiben.",
+        "explanation": "Muster: Vielleicht sollten wir … In diesem Zusammenhang passt „sollten“."
+      },
+      {
+        "id": "konjunktiv-04",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ich {{gap}} mich um die Getränke kümmern.",
+        "answer": "könnte",
+        "options": ["könnte", "konnte", "kann"],
+        "completedText": "Ich könnte mich um die Getränke kümmern.",
+        "explanation": "Muster: Ich könnte mich um … kümmern. In diesem Zusammenhang passt „könnte“."
+      },
+      {
+        "id": "konjunktiv-05",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Es {{gap}} besser, wenn wir mit dem Zug fahren.",
+        "answer": "wäre",
+        "options": ["wäre", "hätte", "würde"],
+        "completedText": "Es wäre besser, wenn wir mit dem Zug fahren.",
+        "explanation": "Muster: Es wäre besser, wenn … In diesem Zusammenhang passt „wäre“."
+      },
+      {
+        "id": "konjunktiv-06",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ich {{gap}} lieber einen Raum im Gemeindezentrum reservieren.",
+        "answer": "würde",
+        "options": ["würde", "wäre", "hätte"],
+        "completedText": "Ich würde lieber einen Raum im Gemeindezentrum reservieren.",
+        "explanation": "Muster: Ich würde lieber … In diesem Zusammenhang passt „würde“."
+      },
+      {
+        "id": "konjunktiv-07",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "{{gap}} wir uns schon um neun Uhr treffen?",
+        "answer": "Könnten",
+        "options": ["Könnten", "Konnten", "Können"],
+        "completedText": "Könnten wir uns schon um neun Uhr treffen?",
+        "explanation": "Muster: Könnten wir …? In diesem Zusammenhang passt „Könnten“."
+      },
+      {
+        "id": "konjunktiv-08",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Dann {{gap}} wir mehr Zeit für die Vorbereitung.",
+        "answer": "hätten",
+        "options": ["hätten", "wären", "würden"],
+        "completedText": "Dann hätten wir mehr Zeit für die Vorbereitung.",
+        "explanation": "Muster: Dann hätten wir … In diesem Zusammenhang passt „hätten“."
+      }
+    ]
+  }
+}

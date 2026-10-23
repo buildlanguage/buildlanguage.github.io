@@ -1,0 +1,64 @@
+{
+  "key": "de.b1-pruefung.wortschatz.adjektive-beziehungen-haltungen",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "adjektive-beziehungen-haltungen-interessiert-an",
+        "type": "adjective",
+        "english": "interested in",
+        "answers": ["interessiert an"],
+        "context": "Er ist an einem Deutschkurs interessiert."
+      },
+      {
+        "id": "adjektive-beziehungen-haltungen-freundlich-zu",
+        "type": "adjective",
+        "english": "friendly towards",
+        "answers": ["freundlich zu"],
+        "context": "Die Mitarbeiterin ist zu allen Kunden freundlich."
+      },
+      {
+        "id": "adjektive-beziehungen-haltungen-dankbar-fur",
+        "type": "adjective",
+        "english": "grateful for",
+        "answers": ["dankbar für"],
+        "context": "Ich bin dir für den guten Rat dankbar."
+      },
+      {
+        "id": "adjektive-beziehungen-haltungen-bose-auf",
+        "type": "adjective",
+        "english": "angry with",
+        "answers": ["böse auf"],
+        "context": "Lena ist auf ihren Bruder immer noch böse."
+      },
+      {
+        "id": "adjektive-beziehungen-haltungen-nett-zu",
+        "type": "adjective",
+        "english": "nice to",
+        "answers": ["nett zu"],
+        "context": "Unser Nachbar ist zu den Kindern immer nett."
+      },
+      {
+        "id": "adjektive-beziehungen-haltungen-verliebt-in",
+        "type": "adjective",
+        "english": "in love with",
+        "answers": ["verliebt in"],
+        "context": "Paul ist in seine Kollegin verliebt."
+      },
+      {
+        "id": "adjektive-beziehungen-haltungen-verheiratet-mit",
+        "type": "adjective",
+        "english": "married to",
+        "answers": ["verheiratet mit"],
+        "context": "Sara ist seit fünf Jahren mit ihrem Mann verheiratet."
+      },
+      {
+        "id": "adjektive-beziehungen-haltungen-einverstanden-mit",
+        "type": "adjective",
+        "english": "in agreement with",
+        "answers": ["einverstanden mit"],
+        "context": "Wir sind mit dem neuen Termin einverstanden."
+      }
+    ]
+  }
+}

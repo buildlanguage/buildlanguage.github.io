@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.geld-versicherung",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "geld-versicherung-konto",
+        "type": "noun",
+        "english": "bank account",
+        "answers": ["das Konto"],
+        "context": "Mein Gehalt kommt direkt auf mein Konto."
+      },
+      {
+        "id": "geld-versicherung-uberweisen",
+        "type": "verb",
+        "english": "to transfer money",
+        "answers": ["überweisen"],
+        "context": "Ich muss die Miete bis morgen überweisen."
+      },
+      {
+        "id": "geld-versicherung-bank",
+        "type": "noun",
+        "english": "bank",
+        "answers": ["die Bank"],
+        "context": "Die Bank schließt heute schon um vier Uhr."
+      },
+      {
+        "id": "geld-versicherung-abheben",
+        "type": "verb",
+        "english": "to withdraw",
+        "answers": ["abheben"],
+        "context": "Am Automaten kann ich kostenlos Geld abheben."
+      },
+      {
+        "id": "geld-versicherung-versicherung",
+        "type": "noun",
+        "english": "insurance",
+        "answers": ["die Versicherung"],
+        "context": "Diese Versicherung gilt auch im Ausland."
+      },
+      {
+        "id": "geld-versicherung-einzahlen",
+        "type": "verb",
+        "english": "to deposit",
+        "answers": ["einzahlen"],
+        "context": "Ich möchte dreihundert Euro auf mein Konto einzahlen."
+      },
+      {
+        "id": "geld-versicherung-beitrag",
+        "type": "noun",
+        "english": "contribution / premium",
+        "answers": ["der Beitrag"],
+        "context": "Der Beitrag für den Verein ist gestiegen."
+      },
+      {
+        "id": "geld-versicherung-versichern",
+        "type": "verb",
+        "english": "to insure",
+        "answers": ["versichern"],
+        "context": "Wir möchten unser neues Auto versichern."
+      },
+      {
+        "id": "geld-versicherung-gebuhr",
+        "type": "noun",
+        "english": "fee",
+        "answers": ["die Gebühr"],
+        "context": "Für die neue Karte fällt eine Gebühr an."
+      },
+      {
+        "id": "geld-versicherung-uberweisung",
+        "type": "noun",
+        "english": "bank transfer",
+        "answers": ["die Überweisung"],
+        "context": "Die Überweisung dauert höchstens zwei Werktage."
+      }
+    ]
+  }
+}

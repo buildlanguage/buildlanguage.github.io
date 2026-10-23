@@ -1,0 +1,120 @@
+{
+  "key": "de.b1-pruefung.wortschatz.arbeit-bewerbung",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "arbeit-bewerbung-bewerbung",
+        "type": "noun",
+        "english": "application",
+        "answers": ["die Bewerbung"],
+        "context": "Meine Bewerbung schicke ich heute per E-Mail."
+      },
+      {
+        "id": "arbeit-bewerbung-sich-bewerben",
+        "type": "verb",
+        "english": "to apply",
+        "answers": ["sich bewerben"],
+        "context": "Man kann sich online um diese Stelle bewerben."
+      },
+      {
+        "id": "arbeit-bewerbung-lebenslauf",
+        "type": "noun",
+        "english": "résumé / CV",
+        "answers": ["der Lebenslauf"],
+        "context": "Mein Lebenslauf ist nur zwei Seiten lang."
+      },
+      {
+        "id": "arbeit-bewerbung-einstellen",
+        "type": "verb",
+        "english": "to hire",
+        "answers": ["einstellen"],
+        "context": "Die Firma möchte im Mai drei Mitarbeiter einstellen."
+      },
+      {
+        "id": "arbeit-bewerbung-stelle",
+        "type": "noun",
+        "english": "job position",
+        "answers": ["die Stelle"],
+        "context": "Ich habe eine interessante Stelle im Hotel gefunden."
+      },
+      {
+        "id": "arbeit-bewerbung-kundigen",
+        "type": "verb",
+        "english": "to resign / give notice",
+        "answers": ["kündigen"],
+        "context": "Ich möchte meinen alten Vertrag bald kündigen."
+      },
+      {
+        "id": "arbeit-bewerbung-vorstellungsgesprach",
+        "type": "noun",
+        "english": "job interview",
+        "answers": ["das Vorstellungsgespräch"],
+        "context": "Morgen habe ich ein Vorstellungsgespräch bei einer Bank."
+      },
+      {
+        "id": "arbeit-bewerbung-unterschreiben",
+        "type": "verb",
+        "english": "to sign",
+        "answers": ["unterschreiben"],
+        "context": "Können Sie bitte hier unten unterschreiben?"
+      },
+      {
+        "id": "arbeit-bewerbung-berufserfahrung",
+        "type": "noun",
+        "english": "work experience",
+        "answers": ["die Berufserfahrung"],
+        "context": "Für diese Arbeit brauche ich zwei Jahre Berufserfahrung."
+      },
+      {
+        "id": "arbeit-bewerbung-arbeitsvertrag",
+        "type": "noun",
+        "english": "employment contract",
+        "answers": ["der Arbeitsvertrag"],
+        "context": "Der Arbeitsvertrag beginnt am ersten Oktober."
+      },
+      {
+        "id": "arbeit-bewerbung-ausbildung",
+        "type": "noun",
+        "english": "training / vocational education",
+        "answers": ["die Ausbildung"],
+        "context": "Nach meiner Ausbildung möchte ich im Büro arbeiten."
+      },
+      {
+        "id": "arbeit-bewerbung-praktikum",
+        "type": "noun",
+        "english": "internship",
+        "answers": ["das Praktikum"],
+        "context": "Während des Praktikums habe ich viel gelernt."
+      },
+      {
+        "id": "arbeit-bewerbung-abteilung",
+        "type": "noun",
+        "english": "department",
+        "answers": ["die Abteilung"],
+        "context": "Ich arbeite seit März in einer anderen Abteilung."
+      },
+      {
+        "id": "arbeit-bewerbung-vermitteln",
+        "type": "verb",
+        "english": "to place / find a position for",
+        "answers": ["vermitteln"],
+        "context": "Die Agentur konnte ihm eine passende Stelle vermitteln."
+      },
+      {
+        "id": "arbeit-bewerbung-verpflichten",
+        "type": "verb",
+        "english": "to oblige / require",
+        "answers": ["verpflichten"],
+        "context": "Das Gesetz kann Firmen zur Zahlung verpflichten."
+      },
+      {
+        "id": "arbeit-bewerbung-umsetzen",
+        "type": "verb",
+        "english": "to put into practice",
+        "answers": ["umsetzen"],
+        "context": "Wir müssen das Gelernte im Alltag umsetzen."
+      }
+    ]
+  }
+}

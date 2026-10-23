@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.gesundheit-arzt",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "gesundheit-arzt-arzt",
+        "type": "noun",
+        "english": "doctor",
+        "answers": ["der Arzt"],
+        "context": "Der Arzt erklärt mir die Behandlung genau."
+      },
+      {
+        "id": "gesundheit-arzt-untersuchen",
+        "type": "verb",
+        "english": "to examine",
+        "answers": ["untersuchen"],
+        "context": "Die Ärztin muss meinen verletzten Fuß untersuchen."
+      },
+      {
+        "id": "gesundheit-arzt-krankenversicherung",
+        "type": "noun",
+        "english": "health insurance",
+        "answers": ["die Krankenversicherung"],
+        "context": "Meine Krankenversicherung bezahlt diese Untersuchung."
+      },
+      {
+        "id": "gesundheit-arzt-sich-verletzen",
+        "type": "verb",
+        "english": "to injure oneself",
+        "answers": ["sich verletzen"],
+        "context": "Beim Sport kann man sich leicht verletzen."
+      },
+      {
+        "id": "gesundheit-arzt-rezept",
+        "type": "noun",
+        "english": "prescription",
+        "answers": ["das Rezept"],
+        "context": "Mit dem Rezept hole ich die Medikamente ab."
+      },
+      {
+        "id": "gesundheit-arzt-sich-erholen",
+        "type": "verb",
+        "english": "to recover",
+        "answers": ["sich erholen"],
+        "context": "Nach der Krankheit muss ich mich zu Hause erholen."
+      },
+      {
+        "id": "gesundheit-arzt-untersuchung",
+        "type": "noun",
+        "english": "examination",
+        "answers": ["die Untersuchung"],
+        "context": "Vor der Untersuchung darf ich nichts essen."
+      },
+      {
+        "id": "gesundheit-arzt-verschreiben",
+        "type": "verb",
+        "english": "to prescribe",
+        "answers": ["verschreiben"],
+        "context": "Der Arzt kann mir ein anderes Medikament verschreiben."
+      },
+      {
+        "id": "gesundheit-arzt-termin",
+        "type": "noun",
+        "english": "appointment",
+        "answers": ["der Termin"],
+        "context": "Ich habe morgen einen Termin beim Zahnarzt."
+      },
+      {
+        "id": "gesundheit-arzt-krankheit",
+        "type": "noun",
+        "english": "illness",
+        "answers": ["die Krankheit"],
+        "context": "Wegen meiner Krankheit bleibe ich heute zu Hause."
+      }
+    ]
+  }
+}

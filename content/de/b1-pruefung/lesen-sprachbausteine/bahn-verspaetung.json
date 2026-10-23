@@ -1,0 +1,115 @@
+{
+  "key": "de.b1-pruefung.lesen-sprachbausteine.bahn-verspaetung",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Durchsage über eine Verspätung und mögliche Alternativen.",
+    "passage": "Sehr geehrte Fahrgäste, der Zug nach München hat heute leider 40 Minuten {{gap-01}}. Wegen einer {{gap-02}} auf der Strecke können wir die Verspätung im Moment nicht aufholen. Fahrgäste, die einen Anschluss {{gap-03}}, sollen sich bitte am Servicepunkt melden. Dort erhalten Sie eine {{gap-04}} über die nächsten Verbindungen. Wir bitten alle Reisenden um {{gap-05}}. Alternativ können Sie auch den Bus {{gap-06}}, der in zehn Minuten abfährt. Bitte {{gap-07}} Sie auf Ihre persönlichen Gegenstände. Wir wünschen Ihnen eine gute {{gap-08}}. Für Fahrgäste mit einer Fahrkarte erstatten wir den {{gap-09}} selbstverständlich. Wenn Sie Ihr Ziel heute nicht mehr {{gap-10}}, können Sie die Reise morgen fortsetzen. Beachten Sie bitte, dass sich die Abfahrtszeiten kurzfristig {{gap-11}} können. Informationen dazu finden Sie auch auf unserer {{gap-12}}. Unser Personal am Schalter beantwortet Ihnen gerne alle {{gap-13}}. Wir entschuldigen uns für die {{gap-14}} und danken Ihnen für Ihr {{gap-15}}.",
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welche Lösung passt in den Text?",
+        "answer": "Verspätung",
+        "options": ["Verspätung", "Versprechung", "Verzögerung"],
+        "explanation": "„Verspätung“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welche Lösung passt in den Text?",
+        "answer": "Baustelle",
+        "options": ["Baustelle", "Batterie", "Bescheinigung"],
+        "explanation": "„Baustelle“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welche Lösung passt in den Text?",
+        "answer": "verpassen",
+        "options": ["verpassen", "verlassen", "verzeihen"],
+        "explanation": "„verpassen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welche Lösung passt in den Text?",
+        "answer": "Auskunft",
+        "options": ["Auskunft", "Ausnahme", "Auswahl"],
+        "explanation": "„Auskunft“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welche Lösung passt in den Text?",
+        "answer": "Geduld",
+        "options": ["Geduld", "Gedächtnis", "Gebäude"],
+        "explanation": "„Geduld“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welche Lösung passt in den Text?",
+        "answer": "nehmen",
+        "options": ["nehmen", "holen", "führen"],
+        "explanation": "„nehmen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welche Lösung passt in den Text?",
+        "answer": "achten",
+        "options": ["achten", "warten", "hoffen"],
+        "explanation": "„achten“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welche Lösung passt in den Text?",
+        "answer": "Fahrt",
+        "options": ["Fahrt", "Feier", "Freude"],
+        "explanation": "„Fahrt“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welche Lösung passt in den Text?",
+        "answer": "Fahrpreis",
+        "options": ["Fahrpreis", "Fahrplan", "Fahrrad"],
+        "explanation": "„Fahrpreis“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welche Lösung passt in den Text?",
+        "answer": "erreichen",
+        "options": ["erreichen", "verlassen", "errechnen"],
+        "explanation": "„erreichen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-11",
+        "prompt": "Lücke 11: Welche Lösung passt in den Text?",
+        "answer": "ändern",
+        "options": ["ändern", "beenden", "buchen"],
+        "explanation": "„ändern“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-12",
+        "prompt": "Lücke 12: Welche Lösung passt in den Text?",
+        "answer": "Internetseite",
+        "options": ["Internetseite", "Internat", "Interesse"],
+        "explanation": "„Internetseite“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-13",
+        "prompt": "Lücke 13: Welche Lösung passt in den Text?",
+        "answer": "Fragen",
+        "options": ["Fragen", "Aufgaben", "Absichten"],
+        "explanation": "„Fragen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-14",
+        "prompt": "Lücke 14: Welche Lösung passt in den Text?",
+        "answer": "Unannehmlichkeiten",
+        "options": ["Unannehmlichkeiten", "Unabhängigkeiten", "Unsicherheiten"],
+        "explanation": "„Unannehmlichkeiten“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-15",
+        "prompt": "Lücke 15: Welche Lösung passt in den Text?",
+        "answer": "Verständnis",
+        "options": ["Verständnis", "Verständigung", "Verstand"],
+        "explanation": "„Verständnis“ passt zur Grammatik und zum Zusammenhang des Textes."
+      }
+    ]
+  }
+}

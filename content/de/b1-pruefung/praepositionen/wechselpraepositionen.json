@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.praepositionen.wechselpraepositionen",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Unterscheide Ort im Dativ und Richtung im Akkusativ.",
+    "items": [
+      {
+        "id": "praeposition-01",
+        "prompt": "Wo befinden sich die Batterien? Wähle die Form für einen festen Ort.",
+        "text": "Die Ersatzbatterien liegen {{gap}} Küchenschublade.",
+        "answer": "in der",
+        "options": ["in der", "in die", "an die"],
+        "completedText": "Die Ersatzbatterien liegen in der Küchenschublade.",
+        "explanation": "Die Frage „Wo?“ verlangt bei „in“ den Dativ: in der Küchenschublade."
+      },
+      {
+        "id": "praeposition-02",
+        "prompt": "Wohin sollen die Gläser? Ergänze die Form für eine Richtung.",
+        "text": "Räum die sauberen Gläser bitte {{gap}} Vitrine.",
+        "answer": "in die",
+        "options": ["in die", "in der", "auf der"],
+        "completedText": "Räum die sauberen Gläser bitte in die Vitrine.",
+        "explanation": "Die Frage „Wohin?“ verlangt bei „in“ den Akkusativ: in die Vitrine."
+      },
+      {
+        "id": "praeposition-03",
+        "prompt": "Wo wartet der Paketbote? Setze „vor“ im richtigen Fall ein.",
+        "text": "Der Paketbote wartet {{gap}} Gartentor.",
+        "answer": "vor dem",
+        "options": ["vor dem", "vor das", "hinter das"],
+        "completedText": "Der Paketbote wartet vor dem Gartentor.",
+        "explanation": "Der Paketbote bleibt an einem Ort; deshalb steht „vor“ mit Dativ: vor dem Gartentor."
+      },
+      {
+        "id": "praeposition-04",
+        "prompt": "Wohin soll die Kiste gestellt werden? Wähle die passende Form.",
+        "text": "Stell die leere Kiste bitte {{gap}} Gartentor.",
+        "answer": "vor das",
+        "options": ["vor das", "vor dem", "neben dem"],
+        "completedText": "Stell die leere Kiste bitte vor das Gartentor.",
+        "explanation": "Das Stellen bezeichnet eine Bewegung zu einem Ziel; „vor“ steht daher mit Akkusativ."
+      },
+      {
+        "id": "praeposition-05",
+        "prompt": "Wo sitzt Lian? Ergänze die Wechselpräposition.",
+        "text": "Beim Workshop sitzt Lian {{gap}} einem erfahrenen Kollegen.",
+        "answer": "neben",
+        "options": ["neben", "gegen", "durch"],
+        "completedText": "Beim Workshop sitzt Lian neben einem erfahrenen Kollegen.",
+        "explanation": "„sitzen“ beschreibt eine Position; „neben“ steht hier mit Dativ: neben einem Kollegen."
+      },
+      {
+        "id": "praeposition-06",
+        "prompt": "Wohin setzt sich Lian für das Foto?",
+        "text": "Für das Gruppenfoto setzt sich Lian {{gap}} seinen Kollegen.",
+        "answer": "neben",
+        "options": ["neben", "bei", "von"],
+        "completedText": "Für das Gruppenfoto setzt sich Lian neben seinen Kollegen.",
+        "explanation": "„sich setzen“ beschreibt eine Bewegung; „neben“ verlangt hier den Akkusativ."
+      },
+      {
+        "id": "praeposition-07",
+        "prompt": "Wo hängt der Rauchmelder? Wähle die Form für eine Position.",
+        "text": "Der Rauchmelder hängt {{gap}} Türrahmen.",
+        "answer": "über dem",
+        "options": ["über dem", "über den", "unter den"],
+        "completedText": "Der Rauchmelder hängt über dem Türrahmen.",
+        "explanation": "Bei einer festen Position steht „über“ mit Dativ: über dem Türrahmen."
+      },
+      {
+        "id": "praeposition-08",
+        "prompt": "Wohin bringt die Technikerin den Sensor? Ergänze die passende Form.",
+        "text": "Die Technikerin hängt den neuen Sensor {{gap}} Türrahmen.",
+        "answer": "über den",
+        "options": ["über den", "über dem", "unter dem"],
+        "completedText": "Die Technikerin hängt den neuen Sensor über den Türrahmen.",
+        "explanation": "Die Handlung schafft eine neue Position; „über“ steht deshalb mit Akkusativ: über den Türrahmen."
+      }
+    ]
+  }
+}

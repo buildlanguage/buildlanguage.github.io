@@ -1,0 +1,64 @@
+{
+  "key": "de.b1-pruefung.wortschatz.adjektive-faehigkeit-bereitschaft",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-bereit-zu",
+        "type": "adjective",
+        "english": "ready to / for a specific action",
+        "answers": ["bereit zu"],
+        "context": "Ich bin zu einem persönlichen Gespräch bereit."
+      },
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-bereit-fur",
+        "type": "adjective",
+        "english": "ready for",
+        "answers": ["bereit für"],
+        "context": "Die Teilnehmer sind für die nächste Aufgabe bereit."
+      },
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-fahig-zu",
+        "type": "adjective",
+        "english": "capable of",
+        "answers": ["fähig zu"],
+        "context": "Sie ist zu dieser schwierigen Arbeit fähig."
+      },
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-verantwortlich-fur",
+        "type": "adjective",
+        "english": "responsible for",
+        "answers": ["verantwortlich für"],
+        "context": "Herr Klein ist für den Kundenservice verantwortlich."
+      },
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-zustandig-fur",
+        "type": "adjective",
+        "english": "in charge of",
+        "answers": ["zuständig für"],
+        "context": "Frau Weber ist für die Anmeldung zuständig."
+      },
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-geeignet-fur",
+        "type": "adjective",
+        "english": "suitable for",
+        "answers": ["geeignet für"],
+        "context": "Dieser Kurs ist für neue Mitarbeitende geeignet."
+      },
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-offen-fur",
+        "type": "adjective",
+        "english": "open to",
+        "answers": ["offen für"],
+        "context": "Unser Team ist für neue Ideen offen."
+      },
+      {
+        "id": "adjektive-faehigkeit-bereitschaft-entschlossen-zu",
+        "type": "adjective",
+        "english": "determined to",
+        "answers": ["entschlossen zu"],
+        "context": "Sie ist zu einem beruflichen Wechsel entschlossen."
+      }
+    ]
+  }
+}

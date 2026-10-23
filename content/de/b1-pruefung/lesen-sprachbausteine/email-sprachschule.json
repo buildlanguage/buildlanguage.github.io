@@ -1,0 +1,115 @@
+{
+  "key": "de.b1-pruefung.lesen-sprachbausteine.email-sprachschule",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "E-Mail über einen verpassten Unterrichtstermin und den nächsten Kurs.",
+    "passage": "Liebe Frau Weber,\n\nleider kann ich am Montag nicht {{gap-01}} Unterricht kommen, {{gap-02}} ich einen Termin beim Bürgeramt habe. Ich muss meinen Aufenthaltstitel {{gap-03}}. Können Sie mir bitte sagen, {{gap-04}} ich die Stunde nachholen kann? Ich habe gehört, {{gap-05}} es am Mittwoch eine Wiederholungsstunde gibt. Ich wäre Ihnen sehr {{gap-06}}, wenn Sie mir die Materialien per E-Mail schicken könnten. Vielen Dank für Ihr {{gap-07}}!\n\nAußerdem habe ich noch eine Frage {{gap-08}} dem nächsten Kurs. Wann genau beginnt er, und wie viel kostet die {{gap-09}}? Ich möchte den Kurs auf jeden Fall {{gap-10}}, weil ich mich im Oktober auf die Prüfung {{gap-11}} möchte. Könnten Sie mir auch sagen, {{gap-12}} man sich für die Prüfung anmelden muss? {{gap-13}} ich die Anmeldebestätigung rechtzeitig bekomme, kann ich besser planen. Falls noch Plätze frei sind, würde ich mich sehr {{gap-14}}. Bitte schicken Sie mir die Antwort {{gap-15}} Ende der Woche.\n\nMit freundlichen Grüßen\nSofia Almeida",
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welche Lösung passt in den Text?",
+        "answer": "zum",
+        "options": ["zum", "zur", "beim"],
+        "explanation": "„zum“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welche Lösung passt in den Text?",
+        "answer": "weil",
+        "options": ["weil", "deshalb", "trotzdem"],
+        "explanation": "„weil“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welche Lösung passt in den Text?",
+        "answer": "verlängern",
+        "options": ["verlängern", "verlieren", "verstehen"],
+        "explanation": "„verlängern“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welche Lösung passt in den Text?",
+        "answer": "ob",
+        "options": ["ob", "dass", "wenn"],
+        "explanation": "„ob“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welche Lösung passt in den Text?",
+        "answer": "dass",
+        "options": ["dass", "ob", "damit"],
+        "explanation": "„dass“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welche Lösung passt in den Text?",
+        "answer": "dankbar",
+        "options": ["dankbar", "stolz", "zufrieden"],
+        "explanation": "„dankbar“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welche Lösung passt in den Text?",
+        "answer": "Verständnis",
+        "options": ["Verständnis", "Verständigung", "Verstand"],
+        "explanation": "„Verständnis“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welche Lösung passt in den Text?",
+        "answer": "zu",
+        "options": ["zu", "über", "für"],
+        "explanation": "„zu“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welche Lösung passt in den Text?",
+        "answer": "Kursgebühr",
+        "options": ["Kursgebühr", "Kursleiter", "Kursplan"],
+        "explanation": "„Kursgebühr“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welche Lösung passt in den Text?",
+        "answer": "besuchen",
+        "options": ["besuchen", "besichtigen", "beginnen"],
+        "explanation": "„besuchen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-11",
+        "prompt": "Lücke 11: Welche Lösung passt in den Text?",
+        "answer": "vorbereiten",
+        "options": ["vorbereiten", "vorstellen", "vorschlagen"],
+        "explanation": "„vorbereiten“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-12",
+        "prompt": "Lücke 12: Welche Lösung passt in den Text?",
+        "answer": "wann",
+        "options": ["wann", "ob", "dass"],
+        "explanation": "„wann“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-13",
+        "prompt": "Lücke 13: Welche Lösung passt in den Text?",
+        "answer": "Falls",
+        "options": ["Falls", "Obwohl", "Während"],
+        "explanation": "„Falls“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-14",
+        "prompt": "Lücke 14: Welche Lösung passt in den Text?",
+        "answer": "freuen",
+        "options": ["freuen", "beschweren", "entschuldigen"],
+        "explanation": "„freuen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-15",
+        "prompt": "Lücke 15: Welche Lösung passt in den Text?",
+        "answer": "bis",
+        "options": ["bis", "seit", "ab"],
+        "explanation": "„bis“ passt zur Grammatik und zum Zusammenhang des Textes."
+      }
+    ]
+  }
+}

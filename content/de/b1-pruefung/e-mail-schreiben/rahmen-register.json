@@ -1,0 +1,83 @@
+{
+  "key": "de.b1-pruefung.e-mail-schreiben.rahmen-register",
+  "kind": "typed-production",
+  "data": {
+    "intro": "Übe Anrede, Reaktion, Schreibgrund und Grußformel im passenden Register.",
+    "items": [
+      {
+        "id": "formulierung-01",
+        "label": "Anrede · informell",
+        "prompt": "Begrüße deine Freundin Sofia herzlich.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Liebe Sofia,"],
+        "pattern": "Liebe/Lieber + Vorname,",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-02",
+        "label": "Anrede · halbformell",
+        "prompt": "Begrüße deine Kursleiterin Frau Neumann höflich.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Guten Tag, Frau Neumann,"],
+        "pattern": "Guten Tag, Frau/Herr + Nachname,",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-03",
+        "label": "Danken · informell",
+        "prompt": "Bedanke dich bei einer Freundin für ihre Nachricht.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Vielen Dank für deine Nachricht."],
+        "pattern": "Vielen Dank für deine/deinen …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-04",
+        "label": "Danken · halbformell",
+        "prompt": "Bedanke dich bei einer Kursleiterin für ihre E-Mail.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Vielen Dank für Ihre E-Mail."],
+        "pattern": "Vielen Dank für Ihre/Ihren …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-05",
+        "label": "Reagieren · informell",
+        "prompt": "Sage, dass du dich sehr über die Einladung gefreut hast.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich habe mich sehr über deine Einladung gefreut."],
+        "pattern": "sich über + Akkusativ freuen",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-06",
+        "label": "Schreibgrund · halbformell",
+        "prompt": "Erkläre höflich, dass du wegen einer Frage zum Kurs schreibst.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Ich schreibe Ihnen, weil ich noch eine Frage zum Kurs habe."
+        ],
+        "pattern": "Ich schreibe Ihnen, weil …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-07",
+        "label": "Schlusssatz · halbformell",
+        "prompt": "Sage höflich, dass du dich auf eine Antwort freust.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich freue mich auf Ihre Antwort."],
+        "pattern": "sich auf + Akkusativ freuen",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-08",
+        "label": "Grußformel · halbformell",
+        "prompt": "Beende eine freundliche halbformelle E-Mail.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Viele Grüße"],
+        "pattern": "Viele Grüße",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      }
+    ]
+  }
+}

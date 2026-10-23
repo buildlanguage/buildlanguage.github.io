@@ -1,0 +1,64 @@
+{
+  "key": "de.b1-pruefung.wortschatz.adjektive-gefuehle-reaktionen",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "adjektive-gefuehle-reaktionen-stolz-auf",
+        "type": "adjective",
+        "english": "proud of",
+        "answers": ["stolz auf"],
+        "context": "Mira ist stolz auf ihren neuen Arbeitsplatz."
+      },
+      {
+        "id": "adjektive-gefuehle-reaktionen-zufrieden-mit",
+        "type": "adjective",
+        "english": "satisfied with",
+        "answers": ["zufrieden mit"],
+        "context": "Wir sind mit dem neuen Kurs sehr zufrieden."
+      },
+      {
+        "id": "adjektive-gefuehle-reaktionen-enttauscht-von",
+        "type": "adjective",
+        "english": "disappointed by / in",
+        "answers": ["enttäuscht von"],
+        "context": "Ich bin von dem Ergebnis wirklich enttäuscht."
+      },
+      {
+        "id": "adjektive-gefuehle-reaktionen-enttauscht-uber",
+        "type": "adjective",
+        "english": "disappointed about",
+        "answers": ["enttäuscht über"],
+        "context": "Sie ist über den schlechten Service enttäuscht."
+      },
+      {
+        "id": "adjektive-gefuehle-reaktionen-gespannt-auf",
+        "type": "adjective",
+        "english": "excited / curious about",
+        "answers": ["gespannt auf"],
+        "context": "Die Kinder sind auf den Ausflug sehr gespannt."
+      },
+      {
+        "id": "adjektive-gefuehle-reaktionen-neugierig-auf",
+        "type": "adjective",
+        "english": "curious about",
+        "answers": ["neugierig auf"],
+        "context": "Alle sind auf das Ergebnis neugierig."
+      },
+      {
+        "id": "adjektive-gefuehle-reaktionen-froh-uber",
+        "type": "adjective",
+        "english": "glad about",
+        "answers": ["froh über"],
+        "context": "Ich bin froh über den Besuch meiner Schwester."
+      },
+      {
+        "id": "adjektive-gefuehle-reaktionen-begeistert-von",
+        "type": "adjective",
+        "english": "enthusiastic about",
+        "answers": ["begeistert von"],
+        "context": "Die Gäste sind von dem Freizeitprogramm begeistert."
+      }
+    ]
+  }
+}

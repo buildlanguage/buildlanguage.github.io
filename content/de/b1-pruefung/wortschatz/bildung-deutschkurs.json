@@ -1,0 +1,113 @@
+{
+  "key": "de.b1-pruefung.wortschatz.bildung-deutschkurs",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "bildung-deutschkurs-deutschkurs",
+        "type": "noun",
+        "english": "German course",
+        "answers": ["der Deutschkurs"],
+        "context": "Der Deutschkurs findet zweimal pro Woche statt."
+      },
+      {
+        "id": "bildung-deutschkurs-sich-anmelden",
+        "type": "verb",
+        "english": "to register",
+        "answers": ["sich anmelden"],
+        "context": "Sie können sich noch heute für den Kurs anmelden."
+      },
+      {
+        "id": "bildung-deutschkurs-prufung",
+        "type": "noun",
+        "english": "exam",
+        "answers": ["die Prüfung"],
+        "context": "Die Prüfung beginnt am Freitag um neun Uhr."
+      },
+      {
+        "id": "bildung-deutschkurs-teilnehmen",
+        "type": "verb",
+        "english": "to participate",
+        "answers": ["teilnehmen"],
+        "context": "Leider kann ich morgen nicht am Unterricht teilnehmen."
+      },
+      {
+        "id": "bildung-deutschkurs-anmeldung",
+        "type": "noun",
+        "english": "registration",
+        "answers": ["die Anmeldung"],
+        "context": "Für die Anmeldung brauche ich meinen Ausweis."
+      },
+      {
+        "id": "bildung-deutschkurs-bestehen",
+        "type": "verb",
+        "english": "to pass",
+        "answers": ["bestehen"],
+        "context": "Mit guter Vorbereitung kann ich die Prüfung bestehen."
+      },
+      {
+        "id": "bildung-deutschkurs-zertifikat",
+        "type": "noun",
+        "english": "certificate",
+        "answers": ["das Zertifikat"],
+        "context": "Nach dem Kurs bekomme ich ein Zertifikat."
+      },
+      {
+        "id": "bildung-deutschkurs-lernen",
+        "type": "verb",
+        "english": "to learn / study",
+        "answers": ["lernen"],
+        "context": "Jeden Abend möchte ich zehn neue Wörter lernen."
+      },
+      {
+        "id": "bildung-deutschkurs-aufgabe",
+        "type": "noun",
+        "english": "task / exercise",
+        "answers": ["die Aufgabe"],
+        "context": "Diese Aufgabe ist einfacher als die letzte."
+      },
+      {
+        "id": "bildung-deutschkurs-unterricht",
+        "type": "noun",
+        "english": "lesson / instruction",
+        "answers": ["der Unterricht"],
+        "context": "Im Unterricht sprechen wir heute nur Deutsch."
+      },
+      {
+        "id": "bildung-deutschkurs-schulabschluss",
+        "type": "noun",
+        "english": "school-leaving qualification",
+        "answers": ["der Schulabschluss"],
+        "context": "Für diese Ausbildung braucht man einen guten Schulabschluss."
+      },
+      {
+        "id": "bildung-deutschkurs-nachhilfe",
+        "type": "noun",
+        "english": "private tutoring",
+        "answers": ["die Nachhilfe"],
+        "context": "Mein Sohn bekommt zweimal pro Woche Nachhilfe."
+      },
+      {
+        "id": "bildung-deutschkurs-sich-vorbereiten",
+        "type": "verb",
+        "english": "to prepare oneself for",
+        "answers": ["sich vorbereiten"],
+        "context": "Vor der Prüfung muss ich mich gründlich vorbereiten."
+      },
+      {
+        "id": "bildung-deutschkurs-unterrichten",
+        "type": "verb",
+        "english": "to teach",
+        "answers": ["unterrichten"],
+        "context": "Sie möchte später an einer Schule unterrichten."
+      },
+      {
+        "id": "bildung-deutschkurs-bestehen-aus",
+        "type": "verb",
+        "english": "to consist of",
+        "answers": ["bestehen aus"],
+        "context": "Die mündliche Prüfung kann aus drei Teilen bestehen."
+      }
+    ]
+  }
+}

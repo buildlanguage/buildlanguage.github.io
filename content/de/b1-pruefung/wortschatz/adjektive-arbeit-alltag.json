@@ -1,0 +1,71 @@
+{
+  "key": "de.b1-pruefung.wortschatz.adjektive-arbeit-alltag",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "adjektive-arbeit-alltag-freundlich",
+        "type": "adjective",
+        "english": "friendly",
+        "answers": ["freundlich"],
+        "context": "Die Mitarbeiterin am Schalter war sehr freundlich."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-kostenlos",
+        "type": "adjective",
+        "english": "free of charge",
+        "answers": ["kostenlos"],
+        "context": "Der Beratungstermin ist für Teilnehmende kostenlos."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-gunstig",
+        "type": "adjective",
+        "english": "affordable / favorable",
+        "answers": ["günstig"],
+        "context": "Das neue Monatsticket ist wirklich günstig."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-praktisch",
+        "type": "adjective",
+        "english": "practical",
+        "answers": ["praktisch"],
+        "context": "Eine Checkliste ist für die Prüfungsvorbereitung praktisch."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-notwendig",
+        "type": "adjective",
+        "english": "necessary",
+        "answers": ["notwendig"],
+        "context": "Für die Anmeldung ist eine Ausweiskopie notwendig."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-schwierig",
+        "type": "adjective",
+        "english": "difficult",
+        "answers": ["schwierig"],
+        "context": "Die letzte Aufgabe im Modelltest war ziemlich schwierig."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-spannend",
+        "type": "adjective",
+        "english": "exciting",
+        "answers": ["spannend"],
+        "context": "Die Diskussion über nachhaltige Reisen war spannend."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-unterschiedlich",
+        "type": "adjective",
+        "english": "different / varying",
+        "answers": ["unterschiedlich"],
+        "context": "Die Öffnungszeiten sind an jedem Wochentag unterschiedlich."
+      },
+      {
+        "id": "adjektive-arbeit-alltag-zuverlassig",
+        "type": "adjective",
+        "english": "reliable",
+        "answers": ["zuverlässig"],
+        "context": "Unsere neue Kollegin arbeitet schnell und zuverlässig."
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "key": "de.b1-pruefung.wortschatz.essen-restaurant",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "essen-restaurant-gericht",
+        "type": "noun",
+        "english": "dish / meal",
+        "answers": ["das Gericht"],
+        "context": "Dieses Gericht wird mit Reis und Gemüse serviert."
+      },
+      {
+        "id": "essen-restaurant-reservieren",
+        "type": "verb",
+        "english": "to reserve",
+        "answers": ["reservieren"],
+        "context": "Für heute Abend möchte ich einen Tisch reservieren."
+      },
+      {
+        "id": "essen-restaurant-speisekarte",
+        "type": "noun",
+        "english": "menu",
+        "answers": ["die Speisekarte"],
+        "context": "Auf der Speisekarte gibt es auch vegetarische Gerichte."
+      },
+      {
+        "id": "essen-restaurant-empfehlen",
+        "type": "verb",
+        "english": "to recommend",
+        "answers": ["empfehlen"],
+        "context": "Können Sie mir ein leichtes Gericht empfehlen?"
+      },
+      {
+        "id": "essen-restaurant-bestellung",
+        "type": "noun",
+        "english": "order",
+        "answers": ["die Bestellung"],
+        "context": "Unsere Bestellung ist noch nicht gekommen."
+      },
+      {
+        "id": "essen-restaurant-bezahlen",
+        "type": "verb",
+        "english": "to pay",
+        "answers": ["bezahlen"],
+        "context": "Kann ich die Rechnung mit Karte bezahlen?"
+      },
+      {
+        "id": "essen-restaurant-reservierung",
+        "type": "noun",
+        "english": "reservation",
+        "answers": ["die Reservierung"],
+        "context": "Die Reservierung läuft auf den Namen García."
+      },
+      {
+        "id": "essen-restaurant-schmecken",
+        "type": "verb",
+        "english": "to taste",
+        "answers": ["schmecken"],
+        "context": "Die Suppe soll frisch und würzig schmecken."
+      },
+      {
+        "id": "essen-restaurant-kellner",
+        "type": "noun",
+        "english": "waiter",
+        "answers": ["der Kellner"],
+        "context": "Der Kellner bringt uns zwei Gläser Wasser."
+      },
+      {
+        "id": "essen-restaurant-getrank",
+        "type": "noun",
+        "english": "beverage",
+        "answers": ["das Getränk"],
+        "context": "Zu diesem Essen passt ein kaltes Getränk."
+      },
+      {
+        "id": "essen-restaurant-imbiss",
+        "type": "noun",
+        "english": "snack / light meal",
+        "answers": ["der Imbiss"],
+        "context": "Im Zug kann man einen kleinen Imbiss kaufen."
+      }
+    ]
+  }
+}

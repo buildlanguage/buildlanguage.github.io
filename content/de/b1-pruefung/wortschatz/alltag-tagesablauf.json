@@ -1,0 +1,127 @@
+{
+  "key": "de.b1-pruefung.wortschatz.alltag-tagesablauf",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "alltag-tagesablauf-alltag",
+        "type": "noun",
+        "english": "everyday life",
+        "answers": ["der Alltag"],
+        "context": "Sport gehört einfach zu meinem Alltag."
+      },
+      {
+        "id": "alltag-tagesablauf-tagesablauf",
+        "type": "noun",
+        "english": "daily routine",
+        "answers": ["der Tagesablauf"],
+        "context": "Mein Tagesablauf ist jeden Tag sehr ähnlich."
+      },
+      {
+        "id": "alltag-tagesablauf-wecker",
+        "type": "noun",
+        "english": "alarm clock",
+        "answers": ["der Wecker"],
+        "context": "Der Wecker klingelt um sechs Uhr."
+      },
+      {
+        "id": "alltag-tagesablauf-fruhstuck",
+        "type": "noun",
+        "english": "breakfast",
+        "answers": ["das Frühstück"],
+        "context": "Zum Frühstück trinke ich gern Kaffee."
+      },
+      {
+        "id": "alltag-tagesablauf-pause",
+        "type": "noun",
+        "english": "break / pause",
+        "answers": ["die Pause"],
+        "context": "In der Pause gehe ich kurz hinaus."
+      },
+      {
+        "id": "alltag-tagesablauf-feierabend",
+        "type": "noun",
+        "english": "end of the working day",
+        "answers": ["der Feierabend"],
+        "context": "Nach Feierabend treffe ich meine Freunde."
+      },
+      {
+        "id": "alltag-tagesablauf-aufstehen",
+        "type": "verb",
+        "english": "to get up",
+        "answers": ["aufstehen"],
+        "context": "Ich muss morgen sehr früh aufstehen."
+      },
+      {
+        "id": "alltag-tagesablauf-fruhstucken",
+        "type": "verb",
+        "english": "to have breakfast",
+        "answers": ["frühstücken"],
+        "context": "Wir möchten um sieben Uhr frühstücken."
+      },
+      {
+        "id": "alltag-tagesablauf-aufraumen",
+        "type": "verb",
+        "english": "to tidy up",
+        "answers": ["aufräumen"],
+        "context": "Am Samstag möchte ich mein Zimmer aufräumen."
+      },
+      {
+        "id": "alltag-tagesablauf-sich-ausruhen",
+        "type": "verb",
+        "english": "to rest",
+        "answers": ["sich ausruhen"],
+        "context": "Nach der Arbeit muss ich mich ausruhen."
+      },
+      {
+        "id": "alltag-tagesablauf-haushalt",
+        "type": "noun",
+        "english": "household",
+        "answers": ["der Haushalt"],
+        "context": "Bei uns helfen alle im Haushalt mit."
+      },
+      {
+        "id": "alltag-tagesablauf-bugeln",
+        "type": "verb",
+        "english": "to iron",
+        "answers": ["bügeln"],
+        "context": "Am Sonntag muss ich noch die Hemden bügeln."
+      },
+      {
+        "id": "alltag-tagesablauf-putzen",
+        "type": "verb",
+        "english": "to clean",
+        "answers": ["putzen"],
+        "context": "Wir müssen die Wohnung gemeinsam putzen."
+      },
+      {
+        "id": "alltag-tagesablauf-aufteilen",
+        "type": "verb",
+        "english": "to divide up",
+        "answers": ["aufteilen"],
+        "context": "Wir müssen die Hausarbeit gerecht aufteilen."
+      },
+      {
+        "id": "alltag-tagesablauf-ubernehmen",
+        "type": "verb",
+        "english": "to take over / handle",
+        "answers": ["übernehmen"],
+        "context": "Heute kann ich den Einkauf übernehmen."
+      },
+      {
+        "id": "alltag-tagesablauf-zustandig-sein",
+        "type": "verb",
+        "english": "to be responsible for",
+        "answers": ["zuständig sein"],
+        "context": "Für die Getränke soll heute Lea zuständig sein."
+      },
+      {
+        "id": "alltag-tagesablauf-sich-an-etwas-halten",
+        "type": "verb",
+        "english": "to stick to / obey",
+        "answers": ["sich an etwas halten"],
+        "context": "Alle müssen sich an die vereinbarten Zeiten halten."
+      }
+    ]
+  }
+}

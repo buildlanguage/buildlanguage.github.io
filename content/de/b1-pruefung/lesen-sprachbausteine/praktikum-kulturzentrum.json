@@ -1,0 +1,80 @@
+{
+  "key": "de.b1-pruefung.lesen-sprachbausteine.praktikum-kulturzentrum",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Lückentext über Aufgaben und Erfahrungen im Praktikum.",
+    "passage": "Liebe Nora,\n\nseit drei Wochen mache ich ein Praktikum in einem Kulturzentrum, {{gap-01}} ich dir unbedingt erzählen möchte. Eigentlich hatte ich mich bei einem Museum beworben, {{gap-02}} dort waren schon alle Plätze vergeben. Im Kulturzentrum arbeite ich in {{gap-03}} kleinen Team. Morgens beantworte ich E-Mails, danach helfe ich bei der Vorbereitung {{gap-04}} Veranstaltungen. Die Arbeit ist manchmal anstrengend, macht mir {{gap-05}} viel Spaß. Besonders interessant finde ich die Gespräche mit den Künstlern, mit {{gap-06}} wir neue Projekte planen. In dieser kurzen Zeit habe ich schon viel {{gap-07}} und darf inzwischen eigene Aufgaben übernehmen. Nächste Woche begleite ich eine Schulklasse, {{gap-08}} das Haus zum ersten Mal besucht. Nach dem Praktikum fahre ich noch ein paar Tage zu {{gap-09}} Cousine nach Bremen. Davon berichte ich {{gap-10}} später.\n\nViele Grüße\nMila",
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welche Lösung passt in den Text?",
+        "answer": "von dem",
+        "options": ["von dem", "für den", "an das"],
+        "explanation": "„von dem“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welche Lösung passt in den Text?",
+        "answer": "aber",
+        "options": ["aber", "denn", "sondern"],
+        "explanation": "„aber“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welche Lösung passt in den Text?",
+        "answer": "einem",
+        "options": ["einem", "einen", "einer"],
+        "explanation": "„einem“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welche Lösung passt in den Text?",
+        "answer": "von",
+        "options": ["von", "bei", "nach"],
+        "explanation": "„von“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welche Lösung passt in den Text?",
+        "answer": "trotzdem",
+        "options": ["trotzdem", "deshalb", "wegen"],
+        "explanation": "„trotzdem“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welche Lösung passt in den Text?",
+        "answer": "denen",
+        "options": ["denen", "dessen", "die"],
+        "explanation": "„denen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welche Lösung passt in den Text?",
+        "answer": "gelernt",
+        "options": ["gelernt", "lernen", "lernte"],
+        "explanation": "„gelernt“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welche Lösung passt in den Text?",
+        "answer": "die",
+        "options": ["die", "der", "denen"],
+        "explanation": "„die“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welche Lösung passt in den Text?",
+        "answer": "meiner",
+        "options": ["meiner", "meine", "meinen"],
+        "explanation": "„meiner“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welche Lösung passt in den Text?",
+        "answer": "dir",
+        "options": ["dir", "dich", "du"],
+        "explanation": "„dir“ passt zur Grammatik und zum Zusammenhang des Textes."
+      }
+    ]
+  }
+}

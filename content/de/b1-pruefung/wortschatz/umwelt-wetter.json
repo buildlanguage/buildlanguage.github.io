@@ -1,0 +1,92 @@
+{
+  "key": "de.b1-pruefung.wortschatz.umwelt-wetter",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "umwelt-wetter-umwelt",
+        "type": "noun",
+        "english": "environment",
+        "answers": ["die Umwelt"],
+        "context": "Wir können gemeinsam mehr für die Umwelt tun."
+      },
+      {
+        "id": "umwelt-wetter-trennen",
+        "type": "verb",
+        "english": "to separate / sort",
+        "answers": ["trennen"],
+        "context": "Zu Hause müssen wir Papier und Plastik trennen."
+      },
+      {
+        "id": "umwelt-wetter-wetter",
+        "type": "noun",
+        "english": "weather",
+        "answers": ["das Wetter"],
+        "context": "Das Wetter soll am Wochenende besser werden."
+      },
+      {
+        "id": "umwelt-wetter-sparen",
+        "type": "verb",
+        "english": "to save",
+        "answers": ["sparen"],
+        "context": "Mit LED-Lampen kann man viel Strom sparen."
+      },
+      {
+        "id": "umwelt-wetter-mull",
+        "type": "noun",
+        "english": "rubbish / waste",
+        "answers": ["der Müll"],
+        "context": "Bitte werfen Sie den Müll in diesen Behälter."
+      },
+      {
+        "id": "umwelt-wetter-recyceln",
+        "type": "verb",
+        "english": "to recycle",
+        "answers": ["recyceln"],
+        "context": "Viele alte Flaschen kann man gut recyceln."
+      },
+      {
+        "id": "umwelt-wetter-energie",
+        "type": "noun",
+        "english": "energy",
+        "answers": ["die Energie"],
+        "context": "Unsere Schule möchte weniger Energie verbrauchen."
+      },
+      {
+        "id": "umwelt-wetter-schutzen",
+        "type": "verb",
+        "english": "to protect",
+        "answers": ["schützen"],
+        "context": "Wir müssen die Natur besser schützen."
+      },
+      {
+        "id": "umwelt-wetter-heizung",
+        "type": "noun",
+        "english": "heating",
+        "answers": ["die Heizung"],
+        "context": "Die Heizung funktioniert seit gestern nicht."
+      },
+      {
+        "id": "umwelt-wetter-strom",
+        "type": "noun",
+        "english": "electricity",
+        "answers": ["der Strom"],
+        "context": "Heute Morgen ist der Strom ausgefallen."
+      },
+      {
+        "id": "umwelt-wetter-jahreszeit",
+        "type": "noun",
+        "english": "season",
+        "answers": ["die Jahreszeit"],
+        "context": "Der Frühling ist die beste Jahreszeit für diese Reise."
+      },
+      {
+        "id": "umwelt-wetter-hitze",
+        "type": "noun",
+        "english": "heat",
+        "answers": ["die Hitze"],
+        "context": "Bei großer Hitze bleibe ich lieber im Schatten."
+      }
+    ]
+  }
+}

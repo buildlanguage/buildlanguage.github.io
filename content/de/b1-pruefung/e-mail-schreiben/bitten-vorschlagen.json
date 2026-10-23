@@ -1,0 +1,87 @@
+{
+  "key": "de.b1-pruefung.e-mail-schreiben.bitten-vorschlagen",
+  "kind": "typed-production",
+  "data": {
+    "intro": "Formuliere höfliche Bitten, Fragen, Vorschläge und Alternativen.",
+    "items": [
+      {
+        "id": "formulierung-01",
+        "label": "Information erfragen · halbformell",
+        "prompt": "Frage höflich, wann der Kurs beginnt.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Könnten Sie mir bitte sagen, wann der Kurs beginnt?"],
+        "pattern": "Könnten Sie mir bitte sagen, wann …?",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-02",
+        "label": "Höflich bitten · halbformell",
+        "prompt": "Bitte höflich darum, dass man dir die Unterlagen schickt.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Es wäre sehr nett, wenn Sie mir die Unterlagen schicken könnten."
+        ],
+        "pattern": "Es wäre sehr nett, wenn … könnten.",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-03",
+        "label": "Um Hilfe bitten · informell",
+        "prompt": "Bitte eine Freundin um Hilfe beim Einkaufen.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Kannst du mir bitte beim Einkaufen helfen?"],
+        "pattern": "Kannst du mir bitte …?",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-04",
+        "label": "Bestätigung erbitten · halbformell",
+        "prompt": "Bitte um eine kurze Bestätigung, ob der Termin möglich ist.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Bitte geben Sie mir kurz Bescheid, ob der Termin möglich ist."
+        ],
+        "pattern": "Bescheid geben, ob …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-05",
+        "label": "Vorschlag machen · informell",
+        "prompt": "Schlage einer Freundin ein Treffen am Freitag vor.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Wie wäre es, wenn wir uns am Freitag treffen?"],
+        "pattern": "Wie wäre es, wenn …?",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-06",
+        "label": "Vorschlag machen · flexibel",
+        "prompt": "Schlage vor, gemeinsam mit dem Zug zu fahren.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich schlage vor, dass wir gemeinsam mit dem Zug fahren."],
+        "pattern": "Ich schlage vor, dass …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-07",
+        "label": "Alternative anbieten · flexibel",
+        "prompt": "Biete Samstag als Alternative an, falls Freitag nicht passt.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Falls Freitag nicht passt, könnten wir uns am Samstag treffen."
+        ],
+        "pattern": "Falls …, könnten wir …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-08",
+        "label": "Präferenz erfragen · halbformell",
+        "prompt": "Frage höflich, welche Möglichkeit die andere Person lieber hätte.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Welche Möglichkeit wäre Ihnen lieber?"],
+        "pattern": "Welche … wäre Ihnen lieber?",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      }
+    ]
+  }
+}

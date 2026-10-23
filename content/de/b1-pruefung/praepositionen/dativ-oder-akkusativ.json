@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.praepositionen.dativ-oder-akkusativ",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Entscheide, welcher Fall nach der Präposition gebraucht wird.",
+    "items": [
+      {
+        "id": "praeposition-01",
+        "prompt": "Womit transportiert Nora die Einkäufe? Wähle die Präposition mit Dativ.",
+        "text": "Nora bringt die Einkäufe {{gap}} dem Lastenrad nach Hause.",
+        "answer": "mit",
+        "options": ["mit", "durch", "ohne"],
+        "completedText": "Nora bringt die Einkäufe mit dem Lastenrad nach Hause.",
+        "explanation": "„mit“ bezeichnet hier das Verkehrsmittel und verlangt den Dativ: mit dem Lastenrad."
+      },
+      {
+        "id": "praeposition-02",
+        "prompt": "Für welchen Zweck ist der Raum reserviert? Ergänze die passende Präposition.",
+        "text": "Der ruhige Raum ist {{gap}} unsere Besprechung reserviert.",
+        "answer": "für",
+        "options": ["für", "bei", "von"],
+        "completedText": "Der ruhige Raum ist für unsere Besprechung reserviert.",
+        "explanation": "„für“ nennt den Zweck und steht mit Akkusativ: für unsere Besprechung."
+      },
+      {
+        "id": "praeposition-03",
+        "prompt": "Wann räumt Samir auf? Ergänze die zeitliche Präposition.",
+        "text": "{{gap}} dem Abendessen räumt Samir die Küche auf.",
+        "answer": "Nach",
+        "options": ["Nach", "Durch", "Gegen"],
+        "completedText": "Nach dem Abendessen räumt Samir die Küche auf.",
+        "explanation": "„nach“ bezeichnet eine spätere Zeit und verlangt den Dativ: nach dem Abendessen."
+      },
+      {
+        "id": "praeposition-04",
+        "prompt": "Welchen Weg nimmt der Lieferdienst? Setze die passende Präposition ein.",
+        "text": "Der Lieferdienst nimmt den Weg {{gap}} den Innenhof.",
+        "answer": "durch",
+        "options": ["durch", "mit", "aus"],
+        "completedText": "Der Lieferdienst nimmt den Weg durch den Innenhof.",
+        "explanation": "„durch“ beschreibt einen Weg mitten durch einen Raum und steht mit Akkusativ."
+      },
+      {
+        "id": "praeposition-05",
+        "prompt": "Woher stammen die Kräuter? Ergänze die Präposition mit Dativ.",
+        "text": "Die frischen Kräuter sind {{gap}} einem Hof in der Region.",
+        "answer": "von",
+        "options": ["von", "gegen", "ohne"],
+        "completedText": "Die frischen Kräuter sind von einem Hof in der Region.",
+        "explanation": "„von“ gibt hier die Herkunft an und verlangt den Dativ: von einem Hof."
+      },
+      {
+        "id": "praeposition-06",
+        "prompt": "Welche Präposition beschreibt den Weg im Tunnel?",
+        "text": "Beim Rundgang gehen die Gäste {{gap}} den alten Tunnel.",
+        "answer": "durch",
+        "options": ["durch", "bei", "seit"],
+        "completedText": "Beim Rundgang gehen die Gäste durch den alten Tunnel.",
+        "explanation": "„durch“ beantwortet hier die Frage nach dem Weg und verlangt den Akkusativ: durch den Tunnel."
+      },
+      {
+        "id": "praeposition-07",
+        "prompt": "Bei wem wohnen wir vorübergehend? Wähle die passende Präposition.",
+        "text": "Während der Renovierung wohnen wir {{gap}} guten Freunden.",
+        "answer": "bei",
+        "options": ["bei", "gegen", "ohne"],
+        "completedText": "Während der Renovierung wohnen wir bei guten Freunden.",
+        "explanation": "„bei“ bezeichnet den Aufenthalt bei Personen und steht mit Dativ: bei guten Freunden."
+      },
+      {
+        "id": "praeposition-08",
+        "prompt": "Über welchen Weg verläuft die Route? Ergänze die richtige Präposition.",
+        "text": "Die Wanderroute führt {{gap}} einen schmalen Höhenweg.",
+        "answer": "über",
+        "options": ["über", "aus", "seit"],
+        "completedText": "Die Wanderroute führt über einen schmalen Höhenweg.",
+        "explanation": "„über“ bezeichnet hier den Verlauf einer Route und steht mit Akkusativ: über einen Höhenweg."
+      }
+    ]
+  }
+}

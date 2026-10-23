@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.praepositionen.zeit-und-raum",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Übe häufige Präpositionen für Zeit, Wege und Orte.",
+    "items": [
+      {
+        "id": "praeposition-01",
+        "prompt": "Welche Präposition steht vor der genauen Uhrzeit?",
+        "text": "Die Online-Sprechstunde beginnt {{gap}} 9:15 Uhr.",
+        "answer": "um",
+        "options": ["um", "am", "im"],
+        "completedText": "Die Online-Sprechstunde beginnt um 9:15 Uhr.",
+        "explanation": "Vor einer genauen Uhrzeit verwendet man „um“: um 9:15 Uhr."
+      },
+      {
+        "id": "praeposition-02",
+        "prompt": "Ergänze die passende Präposition vor dem Wochentag.",
+        "text": "{{gap}} Donnerstag liefert die Gärtnerei die neuen Pflanzen.",
+        "answer": "Am",
+        "options": ["Am", "Im", "Um"],
+        "completedText": "Am Donnerstag liefert die Gärtnerei die neuen Pflanzen.",
+        "explanation": "Bei Wochentagen steht „an“ mit Dativ; „an dem“ wird zu „am“."
+      },
+      {
+        "id": "praeposition-03",
+        "prompt": "Welche Präposition passt zu diesem Monat?",
+        "text": "Unser Straßenfest findet {{gap}} Juni statt.",
+        "answer": "im",
+        "options": ["im", "am", "seit"],
+        "completedText": "Unser Straßenfest findet im Juni statt.",
+        "explanation": "Monate stehen meist mit „in“ plus Dativ; „in dem Juni“ wird zu „im Juni“."
+      },
+      {
+        "id": "praeposition-04",
+        "prompt": "Ab welchem Zeitpunkt gilt die Öffnungszeit?",
+        "text": "Die neue Öffnungszeit gilt {{gap}} nächster Woche.",
+        "answer": "ab",
+        "options": ["ab", "seit", "bis"],
+        "completedText": "Die neue Öffnungszeit gilt ab nächster Woche.",
+        "explanation": "„ab“ markiert den Beginn eines Zeitraums, der in der Zukunft liegt."
+      },
+      {
+        "id": "praeposition-05",
+        "prompt": "Welche Präposition zeigt, dass die Tätigkeit bis heute andauert?",
+        "text": "Ruben arbeitet {{gap}} drei Jahren in dieser Buchhandlung.",
+        "answer": "seit",
+        "options": ["seit", "vor", "für"],
+        "completedText": "Ruben arbeitet seit drei Jahren in dieser Buchhandlung.",
+        "explanation": "„seit“ nennt einen Beginn in der Vergangenheit; die Handlung dauert bis in die Gegenwart."
+      },
+      {
+        "id": "praeposition-06",
+        "prompt": "Welche Richtungspräposition steht vor einer Stadt ohne Artikel?",
+        "text": "Am Wochenende fährt meine Schwester {{gap}} Leipzig.",
+        "answer": "nach",
+        "options": ["nach", "zu", "bei"],
+        "completedText": "Am Wochenende fährt meine Schwester nach Leipzig.",
+        "explanation": "Bei Städten ohne Artikel verwendet man für das Ziel „nach“: nach Leipzig."
+      },
+      {
+        "id": "praeposition-07",
+        "prompt": "Zu welcher Person gehen wir? Ergänze die Richtungspräposition.",
+        "text": "Wegen der defekten Heizung gehen wir {{gap}} unserem Vermieter.",
+        "answer": "zu",
+        "options": ["zu", "nach", "aus"],
+        "completedText": "Wegen der defekten Heizung gehen wir zu unserem Vermieter.",
+        "explanation": "Vor Personen verwendet man als Ziel meist „zu“ mit Dativ: zu unserem Vermieter."
+      },
+      {
+        "id": "praeposition-08",
+        "prompt": "Welche Präposition bezeichnet die Herkunft der Schale?",
+        "text": "Die Keramikschale stammt {{gap}} Portugal.",
+        "answer": "aus",
+        "options": ["aus", "nach", "gegen"],
+        "completedText": "Die Keramikschale stammt aus Portugal.",
+        "explanation": "„aus“ gibt die Herkunft aus einem Land an und verlangt den Dativ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "key": "de.b1-pruefung.nomen-verb-verbindungen.beruf-behoerden",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Trainiere formelle Verbindungen für Beruf und Behörden.",
+    "items": [
+      {
+        "id": "verbindung-01",
+        "prompt": "Welches Verb verwendet man, wenn man eine Leistung offiziell beantragt?",
+        "text": "Für den Bewohnerparkausweis können Sie online einen Antrag {{gap}}.",
+        "answer": "stellen",
+        "options": ["stellen", "treffen", "ziehen"],
+        "completedText": "Für den Bewohnerparkausweis können Sie online einen Antrag stellen.",
+        "explanation": "„Einen Antrag stellen“ bedeutet, eine Behörde oder Organisation formell um etwas zu bitten."
+      },
+      {
+        "id": "verbindung-02",
+        "prompt": "Welches Nomen bezeichnet den formellen Einspruch gegen eine Entscheidung?",
+        "text": "Gegen die falsche Gebührenrechnung möchte Herr Blum {{gap}} einlegen.",
+        "answer": "Widerspruch",
+        "options": ["Widerspruch", "Antrag", "Einfluss"],
+        "completedText": "Gegen die falsche Gebührenrechnung möchte Herr Blum Widerspruch einlegen.",
+        "explanation": "„Widerspruch einlegen“ heißt, einer behördlichen Entscheidung offiziell zu widersprechen."
+      },
+      {
+        "id": "verbindung-03",
+        "prompt": "Was bedeutet „für Fragen zur Verfügung stehen“ in dieser Situation?",
+        "text": "Während der Einarbeitung steht Ihnen Frau Vogt für Fragen zur Verfügung.",
+        "answer": "sie ist für Ihre Fragen erreichbar",
+        "options": [
+          "sie ist für Ihre Fragen erreichbar",
+          "sie trifft die Entscheidung für Sie",
+          "sie legt in Ihrem Namen Widerspruch ein"
+        ],
+        "completedText": "Während der Einarbeitung steht Ihnen Frau Vogt für Fragen zur Verfügung.",
+        "explanation": "Wer jemandem „zur Verfügung steht“, ist erreichbar und bereit zu unterstützen."
+      },
+      {
+        "id": "verbindung-04",
+        "prompt": "Welches Verb bildet die feste Verbindung mit „eine Entscheidung“?",
+        "text": "Nach den Vorstellungsgesprächen wird die Abteilungsleitung eine Entscheidung {{gap}}.",
+        "answer": "treffen",
+        "options": ["treffen", "nehmen", "geben"],
+        "completedText": "Nach den Vorstellungsgesprächen wird die Abteilungsleitung eine Entscheidung treffen.",
+        "explanation": "„Eine Entscheidung treffen“ bedeutet, sich nach dem Abwägen verbindlich festzulegen."
+      },
+      {
+        "id": "verbindung-05",
+        "prompt": "Welches Nomen zeigt, wer für das Ergebnis zuständig ist?",
+        "text": "Für den Umbau übernimmt das Architekturbüro die {{gap}}.",
+        "answer": "Verantwortung",
+        "options": ["Verantwortung", "Verfügung", "Erfahrung"],
+        "completedText": "Für den Umbau übernimmt das Architekturbüro die Verantwortung.",
+        "explanation": "„Verantwortung übernehmen“ heißt, für eine Aufgabe und ihre Folgen einzustehen."
+      },
+      {
+        "id": "verbindung-06",
+        "prompt": "Welches Verb passt zu konkreten Schritten zum Datenschutz?",
+        "text": "Der Betrieb muss zum Schutz der Daten zusätzliche Maßnahmen {{gap}}.",
+        "answer": "ergreifen",
+        "options": ["ergreifen", "erteilen", "knüpfen"],
+        "completedText": "Der Betrieb muss zum Schutz der Daten zusätzliche Maßnahmen ergreifen.",
+        "explanation": "„Maßnahmen ergreifen“ bedeutet, gezielte Schritte gegen ein Problem einzuleiten."
+      },
+      {
+        "id": "verbindung-07",
+        "prompt": "Welches Verb verwendet man, wenn eine Stelle Informationen erteilt?",
+        "text": "Kann die Personalstelle mir Auskunft über die Fortbildungskosten {{gap}}?",
+        "answer": "geben",
+        "options": ["geben", "machen", "stellen"],
+        "completedText": "Kann die Personalstelle mir Auskunft über die Fortbildungskosten geben?",
+        "explanation": "„Jemandem Auskunft geben“ bedeutet, eine konkrete Frage mit Informationen zu beantworten."
+      },
+      {
+        "id": "verbindung-08",
+        "prompt": "Was bedeutet „eine Genehmigung erteilen“ in diesem Beispiel?",
+        "text": "Die Bauaufsicht hat dem Café die Genehmigung für die Terrasse erteilt.",
+        "answer": "die Behörde hat etwas erlaubt",
+        "options": [
+          "die Behörde hat etwas erlaubt",
+          "die Behörde hat ein Formular verlangt",
+          "die Behörde hat einen Widerspruch zurückgezogen"
+        ],
+        "completedText": "Die Bauaufsicht hat dem Café die Genehmigung für die Terrasse erteilt.",
+        "explanation": "Wenn eine Behörde „eine Genehmigung erteilt“, erlaubt sie ein Vorhaben offiziell."
+      }
+    ]
+  }
+}

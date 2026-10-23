@@ -1,0 +1,235 @@
+{
+  "key": "de.b1-pruefung.sprachbausteine.bibliothekskurs-wortbank",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Vervollständige die Kursanfrage mit Wörtern aus der gemeinsamen Liste.",
+    "passage": "Guten Tag, auf Ihrer Internetseite habe ich einen Workshop zum digitalen Lernen {{gap-01}}. Da ich mich auf eine Prüfung vorbereite, würde ich gern daran {{gap-02}}. Leider ist mir nicht klar, {{gap-03}} eigene Geräte mitgebracht werden müssen. Ich besitze nur ein älteres Tablet, {{gap-04}} würde ich gern vorab wissen, ob es geeignet ist. Wie viele Personen nehmen normalerweise {{gap-05}} einem Termin teil? Gibt es noch freie Plätze {{gap-06}} den nächsten Mittwoch? Falls dieser Termin schon voll ist, {{gap-07}} auch der Freitag für mich möglich. Bitte schreiben Sie mir außerdem, {{gap-08}} der Workshop dauert. Ich wäre Ihnen dankbar, {{gap-09}} Sie mir kurz antworten könnten. Dann kann ich mich rechtzeitig {{gap-10}}.",
+    "bank": [
+      "gefunden",
+      "teilnehmen",
+      "ob",
+      "deshalb",
+      "an",
+      "für",
+      "wäre",
+      "wie lange",
+      "wenn",
+      "anmelden",
+      "trotzdem",
+      "seit",
+      "damit"
+    ],
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welches Wort aus der Wortbank passt?",
+        "answer": "gefunden",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„gefunden“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welches Wort aus der Wortbank passt?",
+        "answer": "teilnehmen",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„teilnehmen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welches Wort aus der Wortbank passt?",
+        "answer": "ob",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„ob“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welches Wort aus der Wortbank passt?",
+        "answer": "deshalb",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„deshalb“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welches Wort aus der Wortbank passt?",
+        "answer": "an",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„an“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welches Wort aus der Wortbank passt?",
+        "answer": "für",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„für“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welches Wort aus der Wortbank passt?",
+        "answer": "wäre",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„wäre“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welches Wort aus der Wortbank passt?",
+        "answer": "wie lange",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„wie lange“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welches Wort aus der Wortbank passt?",
+        "answer": "wenn",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„wenn“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welches Wort aus der Wortbank passt?",
+        "answer": "anmelden",
+        "options": [
+          "gefunden",
+          "teilnehmen",
+          "ob",
+          "deshalb",
+          "an",
+          "für",
+          "wäre",
+          "wie lange",
+          "wenn",
+          "anmelden",
+          "trotzdem",
+          "seit",
+          "damit"
+        ],
+        "explanation": "„anmelden“ passt hier grammatisch und inhaltlich."
+      }
+    ]
+  }
+}

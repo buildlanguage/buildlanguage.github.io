@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.konjunktiv-ii.wuensche-bedingungen",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Verbinde Wünsche und gedachte Bedingungen mit ihren Folgen.",
+    "items": [
+      {
+        "id": "konjunktiv-01",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Wenn ich in Berlin wohnen würde, {{gap}} ich öfter ins Museum gehen.",
+        "answer": "würde",
+        "options": ["würde", "werde", "wäre"],
+        "completedText": "Wenn ich in Berlin wohnen würde, würde ich öfter ins Museum gehen.",
+        "explanation": "Muster: Wenn … würde, würde … In diesem Zusammenhang passt „würde“."
+      },
+      {
+        "id": "konjunktiv-02",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Wenn wir ein Auto {{gap}}, könnten wir am Wochenende aufs Land fahren.",
+        "answer": "hätten",
+        "options": ["hätten", "wären", "würden"],
+        "completedText": "Wenn wir ein Auto hätten, könnten wir am Wochenende aufs Land fahren.",
+        "explanation": "Muster: Wenn wir … hätten, könnten wir … In diesem Zusammenhang passt „hätten“."
+      },
+      {
+        "id": "konjunktiv-03",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Wenn meine Familie hier {{gap}}, wäre ich sehr glücklich.",
+        "answer": "wäre",
+        "options": ["wäre", "hätte", "würde"],
+        "completedText": "Wenn meine Familie hier wäre, wäre ich sehr glücklich.",
+        "explanation": "Muster: Wenn … wäre, wäre … In diesem Zusammenhang passt „wäre“."
+      },
+      {
+        "id": "konjunktiv-04",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ich {{gap}} gern einmal in Hamburg arbeiten.",
+        "answer": "würde",
+        "options": ["würde", "wurde", "werde"],
+        "completedText": "Ich würde gern einmal in Hamburg arbeiten.",
+        "explanation": "Muster: Ich würde gern + Infinitiv. In diesem Zusammenhang passt „würde“."
+      },
+      {
+        "id": "konjunktiv-05",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ich {{gap}} jetzt gern am Meer.",
+        "answer": "wäre",
+        "options": ["wäre", "hätte", "würde"],
+        "completedText": "Ich wäre jetzt gern am Meer.",
+        "explanation": "Muster: Ich wäre gern … In diesem Zusammenhang passt „wäre“."
+      },
+      {
+        "id": "konjunktiv-06",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Ich {{gap}} gern mehr Ruhe zum Lernen.",
+        "answer": "hätte",
+        "options": ["hätte", "wäre", "würde"],
+        "completedText": "Ich hätte gern mehr Ruhe zum Lernen.",
+        "explanation": "Muster: Ich hätte gern … In diesem Zusammenhang passt „hätte“."
+      },
+      {
+        "id": "konjunktiv-07",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Mit besseren Deutschkenntnissen {{gap}} ich eine andere Stelle finden.",
+        "answer": "könnte",
+        "options": ["könnte", "konnte", "kann"],
+        "completedText": "Mit besseren Deutschkenntnissen könnte ich eine andere Stelle finden.",
+        "explanation": "Muster: Mit … könnte ich … In diesem Zusammenhang passt „könnte“."
+      },
+      {
+        "id": "konjunktiv-08",
+        "prompt": "Wähle die passende Form im Konjunktiv II.",
+        "text": "Wenn ich die Prüfung bestehen {{gap}}, würde ich feiern.",
+        "answer": "würde",
+        "options": ["würde", "wäre", "hätte"],
+        "completedText": "Wenn ich die Prüfung bestehen würde, würde ich feiern.",
+        "explanation": "Muster: wenn + Infinitiv + würde. In diesem Zusammenhang passt „würde“."
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "key": "de.b1-pruefung.sprachbausteine.bewerbung-wortbank",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Setze jedes Wort nur einmal ein. Drei Wörter bleiben übrig.",
+    "passage": "Für meine Bewerbung brauche ich einen aktuellen {{gap-01}}. Außerdem muss ich ein {{gap-02}} schreiben, in dem ich mich vorstelle. Meine Zeugnisse lege ich der Bewerbung {{gap-03}}. Wichtig ist, dass ich alle Angaben richtig {{gap-04}}. Vor dem Gespräch informiere ich mich gut über die {{gap-05}}. Zum Vorstellungsgespräch erscheine ich natürlich {{gap-06}}. Ich sollte mir vorher überlegen, welche Fragen ich {{gap-07}} möchte. Nach dem Gespräch schicke ich noch eine kurze {{gap-08}}. Ich hoffe, dass die Firma sich bald {{gap-09}}. Wenn ich die Stelle bekomme, muss ich den {{gap-10}} genau prüfen.",
+    "bank": [
+      "Lebenslauf",
+      "Anschreiben",
+      "bei",
+      "ausfülle",
+      "Firma",
+      "pünktlich",
+      "stellen",
+      "Rückmeldung",
+      "meldet",
+      "Vertrag",
+      "Absage",
+      "laut",
+      "kopiere"
+    ],
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welches Wort aus der Wortbank passt?",
+        "answer": "Lebenslauf",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„Lebenslauf“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welches Wort aus der Wortbank passt?",
+        "answer": "Anschreiben",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„Anschreiben“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welches Wort aus der Wortbank passt?",
+        "answer": "bei",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„bei“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welches Wort aus der Wortbank passt?",
+        "answer": "ausfülle",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„ausfülle“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welches Wort aus der Wortbank passt?",
+        "answer": "Firma",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„Firma“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welches Wort aus der Wortbank passt?",
+        "answer": "pünktlich",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„pünktlich“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welches Wort aus der Wortbank passt?",
+        "answer": "stellen",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„stellen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welches Wort aus der Wortbank passt?",
+        "answer": "Rückmeldung",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„Rückmeldung“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welches Wort aus der Wortbank passt?",
+        "answer": "meldet",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„meldet“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welches Wort aus der Wortbank passt?",
+        "answer": "Vertrag",
+        "options": [
+          "Lebenslauf",
+          "Anschreiben",
+          "bei",
+          "ausfülle",
+          "Firma",
+          "pünktlich",
+          "stellen",
+          "Rückmeldung",
+          "meldet",
+          "Vertrag",
+          "Absage",
+          "laut",
+          "kopiere"
+        ],
+        "explanation": "„Vertrag“ passt hier grammatisch und inhaltlich."
+      }
+    ]
+  }
+}

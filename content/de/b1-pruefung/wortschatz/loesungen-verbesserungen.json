@@ -1,0 +1,85 @@
+{
+  "key": "de.b1-pruefung.wortschatz.loesungen-verbesserungen",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "loesungen-verbesserungen-losung",
+        "type": "noun",
+        "english": "solution",
+        "answers": ["die Lösung"],
+        "context": "Wir brauchen eine einfache Lösung für dieses Problem."
+      },
+      {
+        "id": "loesungen-verbesserungen-massnahme",
+        "type": "noun",
+        "english": "measure / action",
+        "answers": ["die Maßnahme"],
+        "context": "Diese Maßnahme soll den Verkehr sicherer machen."
+      },
+      {
+        "id": "loesungen-verbesserungen-moglichkeit",
+        "type": "noun",
+        "english": "possibility",
+        "answers": ["die Möglichkeit"],
+        "context": "Es gibt eine Möglichkeit für einen späteren Termin."
+      },
+      {
+        "id": "loesungen-verbesserungen-verbesserung",
+        "type": "noun",
+        "english": "improvement",
+        "answers": ["die Verbesserung"],
+        "context": "Der neue Fahrplan ist eine echte Verbesserung."
+      },
+      {
+        "id": "loesungen-verbesserungen-alternative",
+        "type": "noun",
+        "english": "alternative",
+        "answers": ["die Alternative"],
+        "context": "Der Bus ist eine günstige Alternative zum Zug."
+      },
+      {
+        "id": "loesungen-verbesserungen-voraussetzung",
+        "type": "noun",
+        "english": "requirement / prerequisite",
+        "answers": ["die Voraussetzung"],
+        "context": "Gute Deutschkenntnisse sind eine wichtige Voraussetzung."
+      },
+      {
+        "id": "loesungen-verbesserungen-ermoglichen",
+        "type": "verb",
+        "english": "to enable",
+        "answers": ["ermöglichen"],
+        "context": "Flexible Zeiten können vielen Eltern die Teilnahme ermöglichen."
+      },
+      {
+        "id": "loesungen-verbesserungen-vermeiden",
+        "type": "verb",
+        "english": "to avoid",
+        "answers": ["vermeiden"],
+        "context": "Mit guter Planung können wir Stress vermeiden."
+      },
+      {
+        "id": "loesungen-verbesserungen-verbessern",
+        "type": "verb",
+        "english": "to improve",
+        "answers": ["verbessern"],
+        "context": "Mehr Busse können die Verbindung deutlich verbessern."
+      },
+      {
+        "id": "loesungen-verbesserungen-vorschlagen",
+        "type": "verb",
+        "english": "to suggest",
+        "answers": ["vorschlagen"],
+        "context": "Ich möchte einen anderen Termin vorschlagen."
+      },
+      {
+        "id": "loesungen-verbesserungen-klappen",
+        "type": "verb",
+        "english": "to work out / succeed",
+        "answers": ["klappen"],
+        "context": "Mit guter Planung kann die Reise problemlos klappen."
+      }
+    ]
+  }
+}

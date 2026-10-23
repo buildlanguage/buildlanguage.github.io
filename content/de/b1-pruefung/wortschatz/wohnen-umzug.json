@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.wohnen-umzug",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "wohnen-umzug-wohnung",
+        "type": "noun",
+        "english": "apartment",
+        "answers": ["die Wohnung"],
+        "context": "Unsere neue Wohnung hat einen kleinen Balkon."
+      },
+      {
+        "id": "wohnen-umzug-umziehen",
+        "type": "verb",
+        "english": "to move house",
+        "answers": ["umziehen"],
+        "context": "Wir möchten im nächsten Monat nach Köln umziehen."
+      },
+      {
+        "id": "wohnen-umzug-miete",
+        "type": "noun",
+        "english": "rent",
+        "answers": ["die Miete"],
+        "context": "Die Miete muss ich am Monatsanfang bezahlen."
+      },
+      {
+        "id": "wohnen-umzug-mieten",
+        "type": "verb",
+        "english": "to rent",
+        "answers": ["mieten"],
+        "context": "Meine Schwester möchte eine Wohnung im Zentrum mieten."
+      },
+      {
+        "id": "wohnen-umzug-vermieter",
+        "type": "noun",
+        "english": "landlord",
+        "answers": ["der Vermieter"],
+        "context": "Der Vermieter repariert morgen die kaputte Heizung."
+      },
+      {
+        "id": "wohnen-umzug-besichtigen",
+        "type": "verb",
+        "english": "to view / inspect",
+        "answers": ["besichtigen"],
+        "context": "Wir können die Wohnung am Samstag besichtigen."
+      },
+      {
+        "id": "wohnen-umzug-hausverwaltung",
+        "type": "noun",
+        "english": "property management",
+        "answers": ["die Hausverwaltung"],
+        "context": "Die Hausverwaltung ist morgens telefonisch erreichbar."
+      },
+      {
+        "id": "wohnen-umzug-renovieren",
+        "type": "verb",
+        "english": "to renovate",
+        "answers": ["renovieren"],
+        "context": "Vor dem Einzug müssen wir das Schlafzimmer renovieren."
+      },
+      {
+        "id": "wohnen-umzug-besichtigung",
+        "type": "noun",
+        "english": "viewing",
+        "answers": ["die Besichtigung"],
+        "context": "Die Besichtigung dauert ungefähr eine halbe Stunde."
+      },
+      {
+        "id": "wohnen-umzug-umzug",
+        "type": "noun",
+        "english": "move / relocation",
+        "answers": ["der Umzug"],
+        "context": "Beim Umzug helfen uns viele Freunde."
+      }
+    ]
+  }
+}

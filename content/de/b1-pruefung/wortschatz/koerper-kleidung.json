@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.koerper-kleidung",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "koerper-kleidung-korper",
+        "type": "noun",
+        "english": "body",
+        "answers": ["der Körper"],
+        "context": "Bewegung ist gut für den Körper."
+      },
+      {
+        "id": "koerper-kleidung-kleidung",
+        "type": "noun",
+        "english": "clothing",
+        "answers": ["die Kleidung"],
+        "context": "Die Kleidung ist heute im Angebot."
+      },
+      {
+        "id": "koerper-kleidung-hemd",
+        "type": "noun",
+        "english": "shirt",
+        "answers": ["das Hemd"],
+        "context": "Das Hemd muss ich noch bügeln."
+      },
+      {
+        "id": "koerper-kleidung-hose",
+        "type": "noun",
+        "english": "trousers",
+        "answers": ["die Hose"],
+        "context": "Diese Hose ist mir leider zu lang."
+      },
+      {
+        "id": "koerper-kleidung-schuh",
+        "type": "noun",
+        "english": "shoe",
+        "answers": ["der Schuh"],
+        "context": "Der Schuh drückt ein bisschen."
+      },
+      {
+        "id": "koerper-kleidung-grosse",
+        "type": "noun",
+        "english": "size",
+        "answers": ["die Größe"],
+        "context": "Diese Größe passt mir sehr gut."
+      },
+      {
+        "id": "koerper-kleidung-tragen",
+        "type": "verb",
+        "english": "to wear",
+        "answers": ["tragen"],
+        "context": "Im Winter möchte ich eine Jacke tragen."
+      },
+      {
+        "id": "koerper-kleidung-sich-anziehen",
+        "type": "verb",
+        "english": "to put on (clothes)",
+        "answers": ["sich anziehen"],
+        "context": "Ich muss mich jetzt warm anziehen."
+      },
+      {
+        "id": "koerper-kleidung-sich-ausziehen",
+        "type": "verb",
+        "english": "to take off (clothes)",
+        "answers": ["sich ausziehen"],
+        "context": "Zuerst muss ich die Jacke ausziehen."
+      },
+      {
+        "id": "koerper-kleidung-anprobieren",
+        "type": "verb",
+        "english": "to try on",
+        "answers": ["anprobieren"],
+        "context": "Ich möchte diese Hose gern anprobieren."
+      }
+    ]
+  }
+}

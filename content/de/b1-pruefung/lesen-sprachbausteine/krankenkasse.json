@@ -1,0 +1,115 @@
+{
+  "key": "de.b1-pruefung.lesen-sprachbausteine.krankenkasse",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Formeller Widerspruch gegen eine abgelehnte Kostenübernahme.",
+    "passage": "Sehr geehrte Damen und Herren,\n\nhiermit möchte ich gegen Ihren Bescheid vom 12. September {{gap-01}} einlegen. Sie haben meinen Antrag auf Kostenübernahme für die Physiotherapie {{gap-02}}. Mein Arzt hat mir diese Behandlung aber ausdrücklich {{gap-03}}. In Ihrem Schreiben {{gap-04}} Sie sich auf einen fehlenden Nachweis. Diesen habe ich Ihnen jedoch bereits {{gap-05}} drei Wochen per Post zugeschickt. Ich bitte Sie daher, meinen Fall erneut zu {{gap-06}} und mir das Ergebnis schriftlich {{gap-07}}. Für Rückfragen stehe ich Ihnen jederzeit gerne zur {{gap-08}}.\n\nErgänzend möchte ich {{gap-09}}, dass meine Beschwerden seit dem Unfall deutlich schlimmer geworden sind. Ohne die Behandlung kann ich meinen Beruf kaum noch {{gap-10}}. Meine Ärztin hat die Notwendigkeit der Therapie ausführlich {{gap-11}}. Sollten Sie weiterhin ablehnen, {{gap-12}} ich mich gezwungen sehen, rechtliche Schritte einzuleiten. Ich hoffe jedoch, dass wir eine gütliche {{gap-13}} finden können. Bitte teilen Sie mir innerhalb der nächsten zwei Wochen Ihre endgültige {{gap-14}} mit. Andernfalls müsste ich mich an die zuständige Aufsichtsbehörde {{gap-15}}.\n\nMit freundlichen Grüßen\nMehmet Yıldız",
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welche Lösung passt in den Text?",
+        "answer": "Widerspruch",
+        "options": ["Widerspruch", "Widerruf", "Einspruch"],
+        "explanation": "„Widerspruch“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welche Lösung passt in den Text?",
+        "answer": "abgelehnt",
+        "options": ["abgelehnt", "angenommen", "abgeholt"],
+        "explanation": "„abgelehnt“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welche Lösung passt in den Text?",
+        "answer": "verschrieben",
+        "options": ["verschrieben", "beschrieben", "versprochen"],
+        "explanation": "„verschrieben“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welche Lösung passt in den Text?",
+        "answer": "berufen",
+        "options": ["berufen", "verlassen", "erinnern"],
+        "explanation": "„berufen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welche Lösung passt in den Text?",
+        "answer": "vor",
+        "options": ["vor", "seit", "nach"],
+        "explanation": "„vor“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welche Lösung passt in den Text?",
+        "answer": "prüfen",
+        "options": ["prüfen", "proben", "beweisen"],
+        "explanation": "„prüfen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welche Lösung passt in den Text?",
+        "answer": "mitzuteilen",
+        "options": ["mitzuteilen", "mitzubringen", "mitzunehmen"],
+        "explanation": "„mitzuteilen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welche Lösung passt in den Text?",
+        "answer": "Verfügung",
+        "options": ["Verfügung", "Verantwortung", "Verabredung"],
+        "explanation": "„Verfügung“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welche Lösung passt in den Text?",
+        "answer": "hinzufügen",
+        "options": ["hinzufügen", "hinweisen", "zunehmen"],
+        "explanation": "„hinzufügen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welche Lösung passt in den Text?",
+        "answer": "ausüben",
+        "options": ["ausüben", "ausmachen", "ausgeben"],
+        "explanation": "„ausüben“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-11",
+        "prompt": "Lücke 11: Welche Lösung passt in den Text?",
+        "answer": "bestätigt",
+        "options": ["bestätigt", "bestritten", "bestellt"],
+        "explanation": "„bestätigt“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-12",
+        "prompt": "Lücke 12: Welche Lösung passt in den Text?",
+        "answer": "würde",
+        "options": ["würde", "werde", "wäre"],
+        "explanation": "„würde“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-13",
+        "prompt": "Lücke 13: Welche Lösung passt in den Text?",
+        "answer": "Lösung",
+        "options": ["Lösung", "Lesung", "Lockerung"],
+        "explanation": "„Lösung“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-14",
+        "prompt": "Lücke 14: Welche Lösung passt in den Text?",
+        "answer": "Entscheidung",
+        "options": ["Entscheidung", "Entschuldigung", "Entwicklung"],
+        "explanation": "„Entscheidung“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-15",
+        "prompt": "Lücke 15: Welche Lösung passt in den Text?",
+        "answer": "wenden",
+        "options": ["wenden", "wundern", "winden"],
+        "explanation": "„wenden“ passt zur Grammatik und zum Zusammenhang des Textes."
+      }
+    ]
+  }
+}

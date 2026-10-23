@@ -1,0 +1,92 @@
+{
+  "key": "de.b1-pruefung.wortschatz.ursachen-folgen",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "ursachen-folgen-ursache",
+        "type": "noun",
+        "english": "cause",
+        "answers": ["die Ursache"],
+        "context": "Die Ursache für den Fehler war ein altes Kabel."
+      },
+      {
+        "id": "ursachen-folgen-folge",
+        "type": "noun",
+        "english": "consequence",
+        "answers": ["die Folge"],
+        "context": "Eine Folge war die lange Wartezeit."
+      },
+      {
+        "id": "ursachen-folgen-auswirkung",
+        "type": "noun",
+        "english": "effect / impact",
+        "answers": ["die Auswirkung"],
+        "context": "Der Lärm hat eine schlechte Auswirkung auf meinen Schlaf."
+      },
+      {
+        "id": "ursachen-folgen-zusammenhang",
+        "type": "noun",
+        "english": "connection / relationship",
+        "answers": ["der Zusammenhang"],
+        "context": "Zwischen Bewegung und Gesundheit besteht ein klarer Zusammenhang."
+      },
+      {
+        "id": "ursachen-folgen-entwicklung",
+        "type": "noun",
+        "english": "development",
+        "answers": ["die Entwicklung"],
+        "context": "Diese Entwicklung finde ich sehr positiv."
+      },
+      {
+        "id": "ursachen-folgen-veranderung",
+        "type": "noun",
+        "english": "change",
+        "answers": ["die Veränderung"],
+        "context": "Die Veränderung spart uns jeden Tag Zeit."
+      },
+      {
+        "id": "ursachen-folgen-verursachen",
+        "type": "verb",
+        "english": "to cause",
+        "answers": ["verursachen"],
+        "context": "Zu viel Verkehr kann starken Lärm verursachen."
+      },
+      {
+        "id": "ursachen-folgen-beeinflussen",
+        "type": "verb",
+        "english": "to influence",
+        "answers": ["beeinflussen"],
+        "context": "Das Wetter kann unsere Reisepläne beeinflussen."
+      },
+      {
+        "id": "ursachen-folgen-zu-etwas-fuhren",
+        "type": "verb",
+        "english": "to lead to",
+        "answers": ["zu etwas führen"],
+        "context": "Ein Streit kann zu etwas Schlimmem führen."
+      },
+      {
+        "id": "ursachen-folgen-sich-auswirken",
+        "type": "verb",
+        "english": "to have an effect",
+        "answers": ["sich auswirken"],
+        "context": "Die neuen Zeiten können sich auf Familien auswirken."
+      },
+      {
+        "id": "ursachen-folgen-abhangen-von",
+        "type": "verb",
+        "english": "to depend on",
+        "answers": ["abhängen von"],
+        "context": "Der Erfolg kann von guter Vorbereitung abhängen."
+      },
+      {
+        "id": "ursachen-folgen-hervorgehen-aus",
+        "type": "verb",
+        "english": "to emerge / be evident from",
+        "answers": ["hervorgehen aus"],
+        "context": "Das Ergebnis kann klar aus der Umfrage hervorgehen."
+      }
+    ]
+  }
+}

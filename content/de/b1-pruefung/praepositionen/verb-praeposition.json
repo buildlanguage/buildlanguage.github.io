@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.praepositionen.verb-praeposition",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Übe feste Verbindungen aus Verb und Präposition.",
+    "items": [
+      {
+        "id": "praeposition-01",
+        "prompt": "Welche Präposition gehört zu „sich interessieren“?",
+        "text": "Jonas interessiert sich {{gap}} historische Stadtpläne.",
+        "answer": "für",
+        "options": ["für", "an", "über"],
+        "completedText": "Jonas interessiert sich für historische Stadtpläne.",
+        "explanation": "„sich interessieren für“ ist eine feste Verbindung; „für“ verlangt den Akkusativ."
+      },
+      {
+        "id": "praeposition-02",
+        "prompt": "Ergänze die feste Verbindung mit „teilnehmen“.",
+        "text": "Am Freitag nimmt unsere Gruppe {{gap}} einer Führung durch das Museum teil.",
+        "answer": "an",
+        "options": ["an", "auf", "bei"],
+        "completedText": "Am Freitag nimmt unsere Gruppe an einer Führung durch das Museum teil.",
+        "explanation": "„teilnehmen an“ steht mit Dativ: an einer Führung teilnehmen."
+      },
+      {
+        "id": "praeposition-03",
+        "prompt": "Wonach fragt Lea? Setze die Präposition des Verbs ein.",
+        "text": "Vor der Buchung erkundigt sich Lea {{gap}} den Stornobedingungen.",
+        "answer": "nach",
+        "options": ["nach", "über", "von"],
+        "completedText": "Vor der Buchung erkundigt sich Lea nach den Stornobedingungen.",
+        "explanation": "„sich erkundigen nach“ verlangt den Dativ: nach den Stornobedingungen."
+      },
+      {
+        "id": "praeposition-04",
+        "prompt": "Welche Präposition verbindet „sich beschweren“ mit dem Grund?",
+        "text": "Mehrere Anwohner beschweren sich {{gap}} den nächtlichen Baulärm.",
+        "answer": "über",
+        "options": ["über", "für", "gegen"],
+        "completedText": "Mehrere Anwohner beschweren sich über den nächtlichen Baulärm.",
+        "explanation": "„sich beschweren über“ steht mit Akkusativ: über den Baulärm."
+      },
+      {
+        "id": "praeposition-05",
+        "prompt": "Auf wen warten wir? Ergänze die Verb-Präposition.",
+        "text": "Vor dem Kino warten wir {{gap}} unsere Freunde.",
+        "answer": "auf",
+        "options": ["auf", "für", "an"],
+        "completedText": "Vor dem Kino warten wir auf unsere Freunde.",
+        "explanation": "„warten auf“ verlangt den Akkusativ: auf unsere Freunde."
+      },
+      {
+        "id": "praeposition-06",
+        "prompt": "Welche Präposition gehört zum gewünschten Ausbildungsplatz?",
+        "text": "David bewirbt sich {{gap}} einen Ausbildungsplatz in der Werkstatt.",
+        "answer": "um",
+        "options": ["um", "für", "auf"],
+        "completedText": "David bewirbt sich um einen Ausbildungsplatz in der Werkstatt.",
+        "explanation": "„sich bewerben um“ nennt die angestrebte Stelle und steht mit Akkusativ."
+      },
+      {
+        "id": "praeposition-07",
+        "prompt": "Ergänze die feste Verbindung mit „sich gewöhnen“.",
+        "text": "Nach dem Umzug muss sich Imani {{gap}} die längere Fahrzeit gewöhnen.",
+        "answer": "an",
+        "options": ["an", "mit", "auf"],
+        "completedText": "Nach dem Umzug muss sich Imani an die längere Fahrzeit gewöhnen.",
+        "explanation": "„sich gewöhnen an“ verlangt den Akkusativ: an die längere Fahrzeit."
+      },
+      {
+        "id": "praeposition-08",
+        "prompt": "Welche Präposition folgt auf „denken“, wenn man etwas nicht vergessen soll?",
+        "text": "Denk bitte {{gap}} die Pflanzen auf dem Balkon.",
+        "answer": "an",
+        "options": ["an", "über", "für"],
+        "completedText": "Denk bitte an die Pflanzen auf dem Balkon.",
+        "explanation": "„denken an“ steht mit Akkusativ: an die Pflanzen denken."
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "key": "de.b1-pruefung.e-mail-schreiben.einfache-schlusssaetze",
+  "kind": "typed-production",
+  "data": {
+    "intro": "Übe einfache Schlusssätze für informelle und halbformelle E-Mails.",
+    "items": [
+      {
+        "id": "formulierung-01",
+        "label": "Kontakt halten · informell",
+        "prompt": "Sage einer Freundin, dass du hoffst, bald von ihr zu hören.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich hoffe, bald von dir zu hören."],
+        "pattern": "Ich hoffe, bald von dir zu hören.",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-02",
+        "label": "Kontakt halten · halbformell",
+        "prompt": "Sage höflich, dass du hoffst, bald von der Person zu hören.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich hoffe, bald von Ihnen zu hören."],
+        "pattern": "Ich hoffe, bald von Ihnen zu hören.",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-03",
+        "label": "Guter Wunsch · informell",
+        "prompt": "Wünsche einer Freundin noch einen schönen Tag.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich wünsche dir noch einen schönen Tag."],
+        "pattern": "Ich wünsche dir noch einen schönen Tag.",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-04",
+        "label": "Guter Wunsch · halbformell",
+        "prompt": "Wünsche der angeschriebenen Person höflich noch einen schönen Tag.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich wünsche Ihnen noch einen schönen Tag."],
+        "pattern": "Ich wünsche Ihnen noch einen schönen Tag.",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-05",
+        "label": "Guter Wunsch · informell",
+        "prompt": "Wünsche einer Freundin alles Gute.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich wünsche dir alles Gute."],
+        "pattern": "jemandem alles Gute wünschen",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-06",
+        "label": "Guter Wunsch · halbformell",
+        "prompt": "Wünsche der angeschriebenen Person höflich alles Gute.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich wünsche Ihnen alles Gute."],
+        "pattern": "jemandem alles Gute wünschen",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-07",
+        "label": "Positiver Ausblick · flexibel",
+        "prompt": "Sage neutral, dass du hoffst, dass alles gut klappt.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich hoffe, dass alles gut klappt."],
+        "pattern": "Ich hoffe, dass …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-08",
+        "label": "Kontakt halten · flexibel",
+        "prompt": "Sage neutral, dass du gern in Kontakt bleiben möchtest.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich freue mich, wenn wir in Kontakt bleiben."],
+        "pattern": "Ich freue mich, wenn …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      }
+    ]
+  }
+}

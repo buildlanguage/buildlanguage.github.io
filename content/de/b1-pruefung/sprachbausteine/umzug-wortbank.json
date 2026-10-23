@@ -1,0 +1,235 @@
+{
+  "key": "de.b1-pruefung.sprachbausteine.umzug-wortbank",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Setze jedes Wort nur einmal ein. Drei Wörter bleiben übrig.",
+    "passage": "Ich ziehe nächsten Monat in eine neue Wohnung. Dafür muss ich viele Dinge {{gap-01}}. Zuerst muss ich meine alte Wohnung {{gap-02}}. Danach suche ich eine Firma, die den {{gap-03}} übernimmt. Die neuen Möbel bestelle ich im {{gap-04}}. Außerdem muss ich meine neue Adresse beim Einwohnermeldeamt {{gap-05}}. Meine Nachbarn habe ich schon über den Umzug {{gap-06}}. Am Umzugstag müssen die Kartons richtig {{gap-07}} sein, damit nichts kaputt geht. Ich hoffe, dass alles {{gap-08}} läuft. In der neuen Wohnung muss ich noch die Lampen {{gap-09}}. Meine Freunde haben mir ihre Hilfe {{gap-10}}.",
+    "bank": [
+      "organisieren",
+      "kündigen",
+      "Umzug",
+      "Internet",
+      "anmelden",
+      "informiert",
+      "beschriftet",
+      "gut",
+      "anschließen",
+      "angeboten",
+      "gemietet",
+      "vergessen",
+      "gekauft"
+    ],
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welches Wort aus der Wortbank passt?",
+        "answer": "organisieren",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„organisieren“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welches Wort aus der Wortbank passt?",
+        "answer": "kündigen",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„kündigen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welches Wort aus der Wortbank passt?",
+        "answer": "Umzug",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„Umzug“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welches Wort aus der Wortbank passt?",
+        "answer": "Internet",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„Internet“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welches Wort aus der Wortbank passt?",
+        "answer": "anmelden",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„anmelden“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welches Wort aus der Wortbank passt?",
+        "answer": "informiert",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„informiert“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welches Wort aus der Wortbank passt?",
+        "answer": "beschriftet",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„beschriftet“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welches Wort aus der Wortbank passt?",
+        "answer": "gut",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„gut“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welches Wort aus der Wortbank passt?",
+        "answer": "anschließen",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„anschließen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welches Wort aus der Wortbank passt?",
+        "answer": "angeboten",
+        "options": [
+          "organisieren",
+          "kündigen",
+          "Umzug",
+          "Internet",
+          "anmelden",
+          "informiert",
+          "beschriftet",
+          "gut",
+          "anschließen",
+          "angeboten",
+          "gemietet",
+          "vergessen",
+          "gekauft"
+        ],
+        "explanation": "„angeboten“ passt hier grammatisch und inhaltlich."
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "key": "de.b1-pruefung.wortschatz.einkaufen-reklamation",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "einkaufen-reklamation-rechnung",
+        "type": "noun",
+        "english": "invoice",
+        "answers": ["die Rechnung"],
+        "context": "Könnten Sie mir bitte die Rechnung bringen?"
+      },
+      {
+        "id": "einkaufen-reklamation-bestellen",
+        "type": "verb",
+        "english": "to order",
+        "answers": ["bestellen"],
+        "context": "Ich möchte ein neues Handy im Internet bestellen."
+      },
+      {
+        "id": "einkaufen-reklamation-lieferung",
+        "type": "noun",
+        "english": "delivery",
+        "answers": ["die Lieferung"],
+        "context": "Die Lieferung kommt wahrscheinlich am Dienstag."
+      },
+      {
+        "id": "einkaufen-reklamation-reklamieren",
+        "type": "verb",
+        "english": "to complain about a product",
+        "answers": ["reklamieren"],
+        "context": "Diese kaputte Kaffeemaschine möchte ich reklamieren."
+      },
+      {
+        "id": "einkaufen-reklamation-ruckerstattung",
+        "type": "noun",
+        "english": "refund",
+        "answers": ["die Rückerstattung"],
+        "context": "Sie erhalten die Rückerstattung in fünf Werktagen."
+      },
+      {
+        "id": "einkaufen-reklamation-zuruckgeben",
+        "type": "verb",
+        "english": "to return",
+        "answers": ["zurückgeben"],
+        "context": "Ohne Kassenbon kann ich die Jacke nicht zurückgeben."
+      },
+      {
+        "id": "einkaufen-reklamation-kundenservice",
+        "type": "noun",
+        "english": "customer service",
+        "answers": ["der Kundenservice"],
+        "context": "Der Kundenservice beantwortet meine Frage schnell."
+      },
+      {
+        "id": "einkaufen-reklamation-erstatten",
+        "type": "verb",
+        "english": "to reimburse",
+        "answers": ["erstatten"],
+        "context": "Das Geschäft muss mir den vollen Preis erstatten."
+      },
+      {
+        "id": "einkaufen-reklamation-betrag",
+        "type": "noun",
+        "english": "amount",
+        "answers": ["der Betrag"],
+        "context": "Bitte überweisen Sie den Betrag bis Montag."
+      },
+      {
+        "id": "einkaufen-reklamation-beschwerde",
+        "type": "noun",
+        "english": "complaint",
+        "answers": ["die Beschwerde"],
+        "context": "Meine Beschwerde betrifft eine verspätete Lieferung."
+      },
+      {
+        "id": "einkaufen-reklamation-angebot",
+        "type": "noun",
+        "english": "offer / range of services",
+        "answers": ["das Angebot"],
+        "context": "Dieses Angebot gilt nur bis Ende der Woche."
+      }
+    ]
+  }
+}

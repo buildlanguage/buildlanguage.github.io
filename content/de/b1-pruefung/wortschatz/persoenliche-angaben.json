@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.persoenliche-angaben",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "persoenliche-angaben-name",
+        "type": "noun",
+        "english": "name",
+        "answers": ["der Name"],
+        "context": "Wie ist Ihr voller Name bitte?"
+      },
+      {
+        "id": "persoenliche-angaben-adresse",
+        "type": "noun",
+        "english": "address",
+        "answers": ["die Adresse"],
+        "context": "Bitte schreiben Sie Ihre Adresse auf."
+      },
+      {
+        "id": "persoenliche-angaben-geburtsdatum",
+        "type": "noun",
+        "english": "date of birth",
+        "answers": ["das Geburtsdatum"],
+        "context": "Bitte geben Sie Ihr Geburtsdatum an."
+      },
+      {
+        "id": "persoenliche-angaben-nationalitat",
+        "type": "noun",
+        "english": "nationality",
+        "answers": ["die Nationalität"],
+        "context": "Welche Nationalität haben Sie denn?"
+      },
+      {
+        "id": "persoenliche-angaben-familienstand",
+        "type": "noun",
+        "english": "marital status",
+        "answers": ["der Familienstand"],
+        "context": "In dem Formular frage ich nach dem Familienstand."
+      },
+      {
+        "id": "persoenliche-angaben-herkunft",
+        "type": "noun",
+        "english": "origin",
+        "answers": ["die Herkunft"],
+        "context": "Über seine Herkunft spricht er gern."
+      },
+      {
+        "id": "persoenliche-angaben-sich-vorstellen",
+        "type": "verb",
+        "english": "to introduce oneself",
+        "answers": ["sich vorstellen"],
+        "context": "Ich möchte mich kurz vorstellen."
+      },
+      {
+        "id": "persoenliche-angaben-angeben",
+        "type": "verb",
+        "english": "to state / specify",
+        "answers": ["angeben"],
+        "context": "Sie müssen Ihre Adresse angeben."
+      },
+      {
+        "id": "persoenliche-angaben-heiraten",
+        "type": "verb",
+        "english": "to marry",
+        "answers": ["heiraten"],
+        "context": "Wir möchten im Sommer heiraten."
+      },
+      {
+        "id": "persoenliche-angaben-sich-ausweisen",
+        "type": "verb",
+        "english": "to identify oneself",
+        "answers": ["sich ausweisen"],
+        "context": "Am Schalter muss ich mich ausweisen."
+      }
+    ]
+  }
+}

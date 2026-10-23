@@ -1,0 +1,115 @@
+{
+  "key": "de.b1-pruefung.lesen-sprachbausteine.wohnung-berlin",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Lückentext über Wohnungssuche und Mietverträge.",
+    "passage": "Immer mehr Menschen ziehen nach Berlin, und die Mieten {{gap-01}} weiter. Wer eine Wohnung sucht, muss oft viele Monate {{gap-02}}. Besonders beliebt sind Wohnungen in der Nähe {{gap-03}} U-Bahn. Viele Vermieter verlangen eine Kaution von bis zu drei {{gap-04}}. Mieter sollten den Mietvertrag genau {{gap-05}}, bevor sie ihn unterschreiben. Bei Problemen mit dem Vermieter kann der Mieterverein {{gap-06}}. Eine gute Vorbereitung hilft, die richtige Wohnung schneller zu {{gap-07}}. Zu einer Besichtigung sollte man pünktlich {{gap-08}} und alle wichtigen Unterlagen mitbringen. Oft verlangen Vermieter außerdem einen {{gap-09}} vom letzten Arbeitgeber. Wer selbst keine Wohnung findet, kann sich bei einem {{gap-10}} anmelden. Dieser verlangt meist eine Gebühr, dafür bekommt man regelmäßig neue {{gap-11}}. In manchen Stadtteilen sind die Preise in den letzten Jahren stark {{gap-12}}. Deshalb entscheiden sich viele Familien für das {{gap-13}}, obwohl der Weg zur Arbeit dann länger ist. Trotzdem bleibt es schwierig, schnell eine Zusage zu {{gap-14}}. Wer Glück hat, unterschreibt den Vertrag schon nach kurzer {{gap-15}}.",
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welche Lösung passt in den Text?",
+        "answer": "steigen",
+        "options": ["steigen", "sinken", "bleiben"],
+        "explanation": "„steigen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welche Lösung passt in den Text?",
+        "answer": "warten",
+        "options": ["warten", "sparen", "arbeiten"],
+        "explanation": "„warten“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welche Lösung passt in den Text?",
+        "answer": "der",
+        "options": ["der", "des", "dem"],
+        "explanation": "„der“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welche Lösung passt in den Text?",
+        "answer": "Monatsmieten",
+        "options": ["Monatsmieten", "Monatslöhne", "Monatskarten"],
+        "explanation": "„Monatsmieten“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welche Lösung passt in den Text?",
+        "answer": "lesen",
+        "options": ["lesen", "schreiben", "bezahlen"],
+        "explanation": "„lesen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welche Lösung passt in den Text?",
+        "answer": "helfen",
+        "options": ["helfen", "helft", "geholfen"],
+        "explanation": "„helfen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welche Lösung passt in den Text?",
+        "answer": "finden",
+        "options": ["finden", "findet", "gefunden"],
+        "explanation": "„finden“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welche Lösung passt in den Text?",
+        "answer": "erscheinen",
+        "options": ["erscheinen", "verschwinden", "verschlafen"],
+        "explanation": "„erscheinen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welche Lösung passt in den Text?",
+        "answer": "Nachweis",
+        "options": ["Nachweis", "Nachteil", "Nachbar"],
+        "explanation": "„Nachweis“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welche Lösung passt in den Text?",
+        "answer": "Makler",
+        "options": ["Makler", "Mieter", "Vermieter"],
+        "explanation": "„Makler“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-11",
+        "prompt": "Lücke 11: Welche Lösung passt in den Text?",
+        "answer": "Angebote",
+        "options": ["Angebote", "Aufgaben", "Anträge"],
+        "explanation": "„Angebote“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-12",
+        "prompt": "Lücke 12: Welche Lösung passt in den Text?",
+        "answer": "gestiegen",
+        "options": ["gestiegen", "gesunken", "geblieben"],
+        "explanation": "„gestiegen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-13",
+        "prompt": "Lücke 13: Welche Lösung passt in den Text?",
+        "answer": "Umland",
+        "options": ["Umland", "Ausland", "Inland"],
+        "explanation": "„Umland“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-14",
+        "prompt": "Lücke 14: Welche Lösung passt in den Text?",
+        "answer": "bekommen",
+        "options": ["bekommen", "geben", "nehmen"],
+        "explanation": "„bekommen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-15",
+        "prompt": "Lücke 15: Welche Lösung passt in den Text?",
+        "answer": "Zeit",
+        "options": ["Zeit", "Zeitung", "Zeitplan"],
+        "explanation": "„Zeit“ passt zur Grammatik und zum Zusammenhang des Textes."
+      }
+    ]
+  }
+}

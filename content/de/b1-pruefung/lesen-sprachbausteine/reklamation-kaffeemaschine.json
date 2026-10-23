@@ -1,0 +1,115 @@
+{
+  "key": "de.b1-pruefung.lesen-sprachbausteine.reklamation-kaffeemaschine",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Sachliche Reklamation eines defekten Geräts.",
+    "passage": "Sehr geehrte Damen und Herren,\n\nam 3. September habe ich bei Ihnen eine Kaffeemaschine {{gap-01}}. Leider funktioniert das Gerät seit zwei Tagen nicht mehr {{gap-02}}. Das Wasser wird nicht mehr heiß, und die Maschine macht ein lautes {{gap-03}}. Da für das Gerät noch {{gap-04}} besteht, möchte ich es umtauschen. Ich habe den Kassenbon und die {{gap-05}} noch. Bitte teilen Sie mir mit, {{gap-06}} ich die Maschine zurückschicken soll. Ich erwarte eine Antwort innerhalb {{gap-07}} zwei Wochen. Sollten Sie nicht reagieren, sehe ich mich {{gap-08}}, einen Anwalt einzuschalten.\n\nAußerdem möchte ich darauf {{gap-09}}, dass ich die Maschine nur wenige Male benutzt habe. Das Gerät wurde mir damals als besonders {{gap-10}} empfohlen, aber es erfüllt meine Erwartungen leider nicht. Ich hoffe, dass Sie mir entweder ein neues Gerät {{gap-11}} oder mir den Kaufpreis zurückzahlen. Falls ein Umtausch nicht möglich ist, {{gap-12}} ich auf mein Recht auf Rückgabe. Bitte senden Sie mir dazu eine kurze {{gap-13}} mit den weiteren Schritten. Ich bin zuversichtlich, dass wir eine {{gap-14}} finden, die für beide Seiten akzeptabel ist. Vielen Dank im Voraus für Ihre {{gap-15}}.\n\nMit freundlichen Grüßen\nJonas Keller",
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welche Lösung passt in den Text?",
+        "answer": "gekauft",
+        "options": ["gekauft", "gekostet", "geklaut"],
+        "explanation": "„gekauft“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welche Lösung passt in den Text?",
+        "answer": "richtig",
+        "options": ["richtig", "rechtzeitig", "ruhig"],
+        "explanation": "„richtig“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welche Lösung passt in den Text?",
+        "answer": "Geräusch",
+        "options": ["Geräusch", "Geschmack", "Gewicht"],
+        "explanation": "„Geräusch“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welche Lösung passt in den Text?",
+        "answer": "Garantie",
+        "options": ["Garantie", "Garage", "Garnitur"],
+        "explanation": "„Garantie“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welche Lösung passt in den Text?",
+        "answer": "Verpackung",
+        "options": ["Verpackung", "Verpflegung", "Verspätung"],
+        "explanation": "„Verpackung“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welche Lösung passt in den Text?",
+        "answer": "ob",
+        "options": ["ob", "dass", "wenn"],
+        "explanation": "„ob“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welche Lösung passt in den Text?",
+        "answer": "von",
+        "options": ["von", "aus", "in"],
+        "explanation": "„von“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welche Lösung passt in den Text?",
+        "answer": "gezwungen",
+        "options": ["gezwungen", "gezwinkert", "gezweifelt"],
+        "explanation": "„gezwungen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welche Lösung passt in den Text?",
+        "answer": "hinweisen",
+        "options": ["hinweisen", "hinsetzen", "hinlegen"],
+        "explanation": "„hinweisen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welche Lösung passt in den Text?",
+        "answer": "zuverlässig",
+        "options": ["zuverlässig", "zuversichtlich", "zufrieden"],
+        "explanation": "„zuverlässig“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-11",
+        "prompt": "Lücke 11: Welche Lösung passt in den Text?",
+        "answer": "zuschicken",
+        "options": ["zuschicken", "abschicken", "zuschauen"],
+        "explanation": "„zuschicken“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-12",
+        "prompt": "Lücke 12: Welche Lösung passt in den Text?",
+        "answer": "beharre",
+        "options": ["beharre", "behalte", "behaupte"],
+        "explanation": "„beharre“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-13",
+        "prompt": "Lücke 13: Welche Lösung passt in den Text?",
+        "answer": "Nachricht",
+        "options": ["Nachricht", "Nachbarin", "Nachhilfe"],
+        "explanation": "„Nachricht“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-14",
+        "prompt": "Lücke 14: Welche Lösung passt in den Text?",
+        "answer": "Lösung",
+        "options": ["Lösung", "Lesung", "Lockerung"],
+        "explanation": "„Lösung“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-15",
+        "prompt": "Lücke 15: Welche Lösung passt in den Text?",
+        "answer": "Bemühungen",
+        "options": ["Bemühungen", "Bewegungen", "Beziehungen"],
+        "explanation": "„Bemühungen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      }
+    ]
+  }
+}

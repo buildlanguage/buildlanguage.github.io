@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.medien-technik",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "medien-technik-handy",
+        "type": "noun",
+        "english": "mobile phone",
+        "answers": ["das Handy"],
+        "context": "Mein Handy ist schon wieder ohne Strom."
+      },
+      {
+        "id": "medien-technik-herunterladen",
+        "type": "verb",
+        "english": "to download",
+        "answers": ["herunterladen"],
+        "context": "Die Datei können Sie kostenlos herunterladen."
+      },
+      {
+        "id": "medien-technik-computer",
+        "type": "noun",
+        "english": "computer",
+        "answers": ["der Computer"],
+        "context": "Mein Computer startet seit gestern nicht mehr."
+      },
+      {
+        "id": "medien-technik-hochladen",
+        "type": "verb",
+        "english": "to upload",
+        "answers": ["hochladen"],
+        "context": "Können Sie das Foto bitte heute hochladen?"
+      },
+      {
+        "id": "medien-technik-nachricht",
+        "type": "noun",
+        "english": "message",
+        "answers": ["die Nachricht"],
+        "context": "Ich schicke dir später eine Nachricht."
+      },
+      {
+        "id": "medien-technik-speichern",
+        "type": "verb",
+        "english": "to save",
+        "answers": ["speichern"],
+        "context": "Vergiss nicht, das Dokument zu speichern."
+      },
+      {
+        "id": "medien-technik-internet",
+        "type": "noun",
+        "english": "internet",
+        "answers": ["das Internet"],
+        "context": "Im Zug funktioniert das Internet leider nicht."
+      },
+      {
+        "id": "medien-technik-sich-informieren",
+        "type": "verb",
+        "english": "to obtain information",
+        "answers": ["sich informieren"],
+        "context": "Vor der Reise sollte man sich gut informieren."
+      },
+      {
+        "id": "medien-technik-verbindung",
+        "type": "noun",
+        "english": "connection",
+        "answers": ["die Verbindung"],
+        "context": "Die Verbindung ist heute besonders langsam."
+      },
+      {
+        "id": "medien-technik-datei",
+        "type": "noun",
+        "english": "file",
+        "answers": ["die Datei"],
+        "context": "Bitte senden Sie mir die Datei per E-Mail."
+      }
+    ]
+  }
+}

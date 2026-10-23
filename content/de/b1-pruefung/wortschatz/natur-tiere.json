@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.natur-tiere",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "natur-tiere-natur",
+        "type": "noun",
+        "english": "nature",
+        "answers": ["die Natur"],
+        "context": "Wir verbringen viel Zeit in der Natur."
+      },
+      {
+        "id": "natur-tiere-landschaft",
+        "type": "noun",
+        "english": "landscape",
+        "answers": ["die Landschaft"],
+        "context": "Die Landschaft hier ist wirklich wunderschön."
+      },
+      {
+        "id": "natur-tiere-berg",
+        "type": "noun",
+        "english": "mountain",
+        "answers": ["der Berg"],
+        "context": "Der Berg ist über tausend Meter hoch."
+      },
+      {
+        "id": "natur-tiere-see",
+        "type": "noun",
+        "english": "lake",
+        "answers": ["der See"],
+        "context": "Wir schwimmen heute im kalten See."
+      },
+      {
+        "id": "natur-tiere-wald",
+        "type": "noun",
+        "english": "forest",
+        "answers": ["der Wald"],
+        "context": "Im Wald gibt es viele kleine Wege."
+      },
+      {
+        "id": "natur-tiere-tier",
+        "type": "noun",
+        "english": "animal",
+        "answers": ["das Tier"],
+        "context": "Unser Tier frisst zweimal am Tag."
+      },
+      {
+        "id": "natur-tiere-wandern",
+        "type": "verb",
+        "english": "to hike",
+        "answers": ["wandern"],
+        "context": "Am Wochenende möchte ich im Wald wandern."
+      },
+      {
+        "id": "natur-tiere-spazieren-gehen",
+        "type": "verb",
+        "english": "to go for a walk",
+        "answers": ["spazieren gehen"],
+        "context": "Nach dem Essen möchten wir spazieren gehen."
+      },
+      {
+        "id": "natur-tiere-beobachten",
+        "type": "verb",
+        "english": "to observe",
+        "answers": ["beobachten"],
+        "context": "Man kann hier viele Vögel beobachten."
+      },
+      {
+        "id": "natur-tiere-pflanzen",
+        "type": "verb",
+        "english": "to plant",
+        "answers": ["pflanzen"],
+        "context": "Im Frühling möchte ich Blumen pflanzen."
+      }
+    ]
+  }
+}

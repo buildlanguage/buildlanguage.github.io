@@ -1,0 +1,113 @@
+{
+  "key": "de.b1-pruefung.wortschatz.meinung-argumentation",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "meinung-argumentation-meinung",
+        "type": "noun",
+        "english": "opinion",
+        "answers": ["die Meinung"],
+        "context": "Meiner Meinung nach brauchen wir mehr Fahrradwege."
+      },
+      {
+        "id": "meinung-argumentation-ansicht",
+        "type": "noun",
+        "english": "view / perspective",
+        "answers": ["die Ansicht"],
+        "context": "Nach meiner Ansicht ist der Plan zu teuer."
+      },
+      {
+        "id": "meinung-argumentation-standpunkt",
+        "type": "noun",
+        "english": "point of view",
+        "answers": ["der Standpunkt"],
+        "context": "Im Gespräch erkläre ich meinen Standpunkt ruhig."
+      },
+      {
+        "id": "meinung-argumentation-argument",
+        "type": "noun",
+        "english": "argument",
+        "answers": ["das Argument"],
+        "context": "Dieses Argument finde ich klar und überzeugend."
+      },
+      {
+        "id": "meinung-argumentation-vorteil",
+        "type": "noun",
+        "english": "advantage",
+        "answers": ["der Vorteil"],
+        "context": "Ein Vorteil ist die kurze Fahrzeit."
+      },
+      {
+        "id": "meinung-argumentation-nachteil",
+        "type": "noun",
+        "english": "disadvantage",
+        "answers": ["der Nachteil"],
+        "context": "Ein Nachteil ist der hohe Preis."
+      },
+      {
+        "id": "meinung-argumentation-begrunden",
+        "type": "verb",
+        "english": "to justify",
+        "answers": ["begründen"],
+        "context": "Können Sie Ihre Meinung bitte kurz begründen?"
+      },
+      {
+        "id": "meinung-argumentation-zustimmen",
+        "type": "verb",
+        "english": "to agree",
+        "answers": ["zustimmen"],
+        "context": "Diesem Vorschlag kann ich gern zustimmen."
+      },
+      {
+        "id": "meinung-argumentation-widersprechen",
+        "type": "verb",
+        "english": "to disagree / object",
+        "answers": ["widersprechen"],
+        "context": "Bei diesem Punkt muss ich Ihnen widersprechen."
+      },
+      {
+        "id": "meinung-argumentation-uberzeugen",
+        "type": "verb",
+        "english": "to convince",
+        "answers": ["überzeugen"],
+        "context": "Mit diesem Beispiel kann ich meine Leser überzeugen."
+      },
+      {
+        "id": "meinung-argumentation-erfahrung",
+        "type": "noun",
+        "english": "experience",
+        "answers": ["die Erfahrung"],
+        "context": "Ich möchte von meiner eigenen Erfahrung berichten."
+      },
+      {
+        "id": "meinung-argumentation-berichten-uber",
+        "type": "verb",
+        "english": "to report / talk about",
+        "answers": ["berichten über"],
+        "context": "Im Gespräch soll ich über meine Reise berichten."
+      },
+      {
+        "id": "meinung-argumentation-reagieren-auf",
+        "type": "verb",
+        "english": "to respond to",
+        "answers": ["reagieren auf"],
+        "context": "Bitte reagieren Sie direkt auf den Vorschlag Ihres Partners."
+      },
+      {
+        "id": "meinung-argumentation-sich-einigen-auf",
+        "type": "verb",
+        "english": "to agree on",
+        "answers": ["sich einigen auf"],
+        "context": "Wir müssen uns auf einen gemeinsamen Termin einigen."
+      },
+      {
+        "id": "meinung-argumentation-stellungnahme",
+        "type": "noun",
+        "english": "statement / expressed position",
+        "answers": ["die Stellungnahme"],
+        "context": "Seine Stellungnahme zum Thema war klar und verständlich."
+      }
+    ]
+  }
+}

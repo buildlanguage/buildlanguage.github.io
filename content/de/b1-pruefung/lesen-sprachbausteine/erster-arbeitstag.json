@@ -1,0 +1,115 @@
+{
+  "key": "de.b1-pruefung.lesen-sprachbausteine.erster-arbeitstag",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Erfahrungsbericht über den Einstieg in eine neue Stelle.",
+    "passage": "Gestern war mein erster Arbeitstag, und ich war ziemlich {{gap-01}}. Schon vor dem Frühstück habe ich mir meine Unterlagen noch einmal {{gap-02}}. Im Büro hat mich die Teamleiterin allen Kollegen {{gap-03}}. Danach habe ich mich an meinen neuen Arbeitsplatz {{gap-04}} und den Computer eingerichtet. Beim Mittagessen habe ich mich mit zwei Kollegen {{gap-05}} und viele nützliche Tipps bekommen. Am Nachmittag musste ich ein Formular für die Personalabteilung {{gap-06}}. Obwohl ich müde war, bin ich sehr {{gap-07}} nach Hause gefahren. Ich freue mich schon {{gap-08}} die nächsten Aufgaben. Meine Kollegin hat mir gezeigt, wie ich wichtige E-Mails richtig {{gap-09}}. Dabei muss ich darauf {{gap-10}}, dass ich immer eine passende Anrede verwende. Für die Buchhaltung musste ich außerdem meine Bankverbindung {{gap-11}}. Zum Glück hat mir ein Kollege bei den ersten Aufgaben tatkräftig {{gap-12}}. Am späten Nachmittag hatte ich noch ein kurzes {{gap-13}} mit meinem Chef. Er war sehr freundlich und hat mir für die Einarbeitung zwei Wochen {{gap-14}}. Ich glaube, dass ich mich in diesem Team gut {{gap-15}} werde.",
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welche Lösung passt in den Text?",
+        "answer": "aufgeregt",
+        "options": ["aufgeregt", "aufgerechnet", "aufgeräumt"],
+        "explanation": "„aufgeregt“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welche Lösung passt in den Text?",
+        "answer": "angeschaut",
+        "options": ["angeschaut", "angemeldet", "angezogen"],
+        "explanation": "„angeschaut“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welche Lösung passt in den Text?",
+        "answer": "vorgestellt",
+        "options": ["vorgestellt", "vorbereitet", "vorgeschlagen"],
+        "explanation": "„vorgestellt“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welche Lösung passt in den Text?",
+        "answer": "gesetzt",
+        "options": ["gesetzt", "gestellt", "gelegt"],
+        "explanation": "„gesetzt“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welche Lösung passt in den Text?",
+        "answer": "unterhalten",
+        "options": ["unterhalten", "verabredet", "beschwert"],
+        "explanation": "„unterhalten“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welche Lösung passt in den Text?",
+        "answer": "ausfüllen",
+        "options": ["ausfüllen", "abfüllen", "erfüllen"],
+        "explanation": "„ausfüllen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welche Lösung passt in den Text?",
+        "answer": "zufrieden",
+        "options": ["zufrieden", "stolz", "sicher"],
+        "explanation": "„zufrieden“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welche Lösung passt in den Text?",
+        "answer": "auf",
+        "options": ["auf", "über", "für"],
+        "explanation": "„auf“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welche Lösung passt in den Text?",
+        "answer": "formuliere",
+        "options": ["formuliere", "formiere", "fotografiere"],
+        "explanation": "„formuliere“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welche Lösung passt in den Text?",
+        "answer": "achte",
+        "options": ["achte", "warte", "hoffe"],
+        "explanation": "„achte“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-11",
+        "prompt": "Lücke 11: Welche Lösung passt in den Text?",
+        "answer": "angeben",
+        "options": ["angeben", "abgeben", "aufgeben"],
+        "explanation": "„angeben“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-12",
+        "prompt": "Lücke 12: Welche Lösung passt in den Text?",
+        "answer": "geholfen",
+        "options": ["geholfen", "gehalten", "gehört"],
+        "explanation": "„geholfen“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-13",
+        "prompt": "Lücke 13: Welche Lösung passt in den Text?",
+        "answer": "Gespräch",
+        "options": ["Gespräch", "Gericht", "Getränk"],
+        "explanation": "„Gespräch“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-14",
+        "prompt": "Lücke 14: Welche Lösung passt in den Text?",
+        "answer": "Zeit",
+        "options": ["Zeit", "Termin", "Zeitung"],
+        "explanation": "„Zeit“ passt zur Grammatik und zum Zusammenhang des Textes."
+      },
+      {
+        "id": "gap-15",
+        "prompt": "Lücke 15: Welche Lösung passt in den Text?",
+        "answer": "einleben",
+        "options": ["einleben", "einladen", "einsteigen"],
+        "explanation": "„einleben“ passt zur Grammatik und zum Zusammenhang des Textes."
+      }
+    ]
+  }
+}

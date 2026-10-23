@@ -1,0 +1,85 @@
+{
+  "key": "de.b1-pruefung.e-mail-schreiben.verbinden-variieren",
+  "kind": "typed-production",
+  "data": {
+    "intro": "Verbinde Gedanken logisch und variiere deine Satzanfänge.",
+    "items": [
+      {
+        "id": "formulierung-01",
+        "label": "Grund · flexibel",
+        "prompt": "Begründe dein Fernbleiben damit, dass du krank bist.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Ich kann heute nicht kommen, weil ich krank bin."],
+        "pattern": "Hauptsatz, weil + Verb am Ende",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-02",
+        "label": "Folge · flexibel",
+        "prompt": "Leite daraus ab, dass du den Termin verschieben möchtest.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Deshalb möchte ich den Termin verschieben."],
+        "pattern": "Deshalb + Verb + Subjekt …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-03",
+        "label": "Gegensatz · flexibel",
+        "prompt": "Sage, dass du trotz wenig Zeit gern helfen möchtest.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Obwohl ich wenig Zeit habe, möchte ich gern helfen."],
+        "pattern": "Obwohl + Verb am Ende, Verb + Subjekt …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-04",
+        "label": "Einschränkung · flexibel",
+        "prompt": "Stelle den interessanten Kurs seinem hohen Preis gegenüber.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Der Kurs ist interessant, aber er ist leider sehr teuer."],
+        "pattern": "Hauptsatz, aber + Hauptsatz",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-05",
+        "label": "Ziel · halbformell",
+        "prompt": "Bitte um die Adresse, damit du den Weg finden kannst.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Bitte schicken Sie mir die Adresse, damit ich den Weg finden kann."
+        ],
+        "pattern": "Bitte …, damit + Verb am Ende",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-06",
+        "label": "Satzanfang variieren · halbformell",
+        "prompt": "Biete Hilfe beim Aufbau an, ohne den Satz mit „Ich“ zu beginnen.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Am Wochenende könnte ich Ihnen beim Aufbau helfen."],
+        "pattern": "Zeitangabe + Verb + Subjekt …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-07",
+        "label": "Reihenfolge · flexibel",
+        "prompt": "Sage, dass ihr danach gemeinsam essen gehen könntet.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Danach könnten wir gemeinsam etwas essen gehen."],
+        "pattern": "Danach + Verb + Subjekt …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-08",
+        "label": "Abschluss · halbformell",
+        "prompt": "Bedanke dich zum Schluss noch einmal höflich für die Hilfe.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Zum Schluss möchte ich mich noch einmal für Ihre Hilfe bedanken."
+        ],
+        "pattern": "Zum Schluss möchte ich …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      }
+    ]
+  }
+}

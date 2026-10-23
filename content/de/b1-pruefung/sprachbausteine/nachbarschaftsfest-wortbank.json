@@ -1,0 +1,235 @@
+{
+  "key": "de.b1-pruefung.sprachbausteine.nachbarschaftsfest-wortbank",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Plane ein gemeinsames Fest und setze jedes Wort nur einmal ein.",
+    "passage": "Unsere Hausgemeinschaft möchte im Innenhof ein Fest {{gap-01}}. Zuerst sammeln wir Ideen und verteilen die Aufgaben {{gap-02}}. Frau Berger kümmert sich {{gap-03}} die Musik, während ich Getränke bestelle. Damit alle Bescheid wissen, hängen wir morgen eine Einladung {{gap-04}} Eingang auf. Für Kinder soll es Spiele und einen kleinen Flohmarkt {{gap-05}}. Bei Regen können wir in den Gemeinschaftsraum {{gap-06}}. Jeder Haushalt bringt etwas zu essen {{gap-07}}. Wir beginnen um 15 Uhr, {{gap-08}} auch Familien mit kleinen Kindern teilnehmen können. Am Ende räumen wir den Hof gemeinsam {{gap-09}}. Hoffentlich lernen sich dabei viele Nachbarn besser {{gap-10}}.",
+    "bank": [
+      "organisieren",
+      "untereinander",
+      "um",
+      "am",
+      "geben",
+      "ausweichen",
+      "mit",
+      "damit",
+      "auf",
+      "kennen",
+      "gegen",
+      "seit",
+      "ohne"
+    ],
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welches Wort aus der Wortbank passt?",
+        "answer": "organisieren",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„organisieren“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welches Wort aus der Wortbank passt?",
+        "answer": "untereinander",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„untereinander“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welches Wort aus der Wortbank passt?",
+        "answer": "um",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„um“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welches Wort aus der Wortbank passt?",
+        "answer": "am",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„am“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welches Wort aus der Wortbank passt?",
+        "answer": "geben",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„geben“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welches Wort aus der Wortbank passt?",
+        "answer": "ausweichen",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„ausweichen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welches Wort aus der Wortbank passt?",
+        "answer": "mit",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„mit“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welches Wort aus der Wortbank passt?",
+        "answer": "damit",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„damit“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welches Wort aus der Wortbank passt?",
+        "answer": "auf",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„auf“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welches Wort aus der Wortbank passt?",
+        "answer": "kennen",
+        "options": [
+          "organisieren",
+          "untereinander",
+          "um",
+          "am",
+          "geben",
+          "ausweichen",
+          "mit",
+          "damit",
+          "auf",
+          "kennen",
+          "gegen",
+          "seit",
+          "ohne"
+        ],
+        "explanation": "„kennen“ passt hier grammatisch und inhaltlich."
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.dienstleistungen-reparaturen",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "dienstleistungen-reparaturen-handwerker",
+        "type": "noun",
+        "english": "tradesperson / repair worker",
+        "answers": ["der Handwerker"],
+        "context": "Der Handwerker kommt morgen zwischen acht und zehn Uhr."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-reparieren",
+        "type": "verb",
+        "english": "to repair",
+        "answers": ["reparieren"],
+        "context": "Können Sie meine Waschmaschine diese Woche reparieren?"
+      },
+      {
+        "id": "dienstleistungen-reparaturen-reparatur",
+        "type": "noun",
+        "english": "repair",
+        "answers": ["die Reparatur"],
+        "context": "Die Reparatur kostet ungefähr hundert Euro."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-melden",
+        "type": "verb",
+        "english": "to report",
+        "answers": ["melden"],
+        "context": "Den Schaden müssen Sie sofort der Versicherung melden."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-schaden",
+        "type": "noun",
+        "english": "damage",
+        "answers": ["der Schaden"],
+        "context": "Der starke Regen hat einen großen Schaden verursacht."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-vereinbaren",
+        "type": "verb",
+        "english": "to arrange / agree",
+        "answers": ["vereinbaren"],
+        "context": "Wir können telefonisch einen neuen Termin vereinbaren."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-garantie",
+        "type": "noun",
+        "english": "guarantee / warranty",
+        "answers": ["die Garantie"],
+        "context": "Auf das Gerät gibt es zwei Jahre Garantie."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-funktionieren",
+        "type": "verb",
+        "english": "to function / work",
+        "answers": ["funktionieren"],
+        "context": "Nach dem Neustart sollte das Gerät wieder funktionieren."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-ersatz",
+        "type": "noun",
+        "english": "replacement",
+        "answers": ["der Ersatz"],
+        "context": "Für das kaputte Teil brauche ich schnell Ersatz."
+      },
+      {
+        "id": "dienstleistungen-reparaturen-dienstleistung",
+        "type": "noun",
+        "english": "service",
+        "answers": ["die Dienstleistung"],
+        "context": "Mit dieser Dienstleistung bin ich sehr zufrieden."
+      }
+    ]
+  }
+}

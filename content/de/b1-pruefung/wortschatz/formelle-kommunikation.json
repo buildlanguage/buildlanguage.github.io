@@ -1,0 +1,120 @@
+{
+  "key": "de.b1-pruefung.wortschatz.formelle-kommunikation",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "formelle-kommunikation-anliegen",
+        "type": "noun",
+        "english": "request / concern",
+        "answers": ["das Anliegen"],
+        "context": "Mein Anliegen betrifft die Rechnung vom letzten Monat."
+      },
+      {
+        "id": "formelle-kommunikation-ruckmeldung",
+        "type": "noun",
+        "english": "reply / feedback",
+        "answers": ["die Rückmeldung"],
+        "context": "Vielen Dank für Ihre schnelle Rückmeldung."
+      },
+      {
+        "id": "formelle-kommunikation-auskunft",
+        "type": "noun",
+        "english": "information",
+        "answers": ["die Auskunft"],
+        "context": "Am Schalter bekomme ich eine genaue Auskunft."
+      },
+      {
+        "id": "formelle-kommunikation-frist",
+        "type": "noun",
+        "english": "deadline",
+        "answers": ["die Frist"],
+        "context": "Die Frist endet am kommenden Freitag."
+      },
+      {
+        "id": "formelle-kommunikation-vereinbarung",
+        "type": "noun",
+        "english": "agreement / arrangement",
+        "answers": ["die Vereinbarung"],
+        "context": "Unsere Vereinbarung gilt für sechs Monate."
+      },
+      {
+        "id": "formelle-kommunikation-verstandnis",
+        "type": "noun",
+        "english": "understanding",
+        "answers": ["das Verständnis"],
+        "context": "Ich bitte um Verständnis für meine Verspätung."
+      },
+      {
+        "id": "formelle-kommunikation-mitteilen",
+        "type": "verb",
+        "english": "to inform / notify",
+        "answers": ["mitteilen"],
+        "context": "Können Sie mir bitte den neuen Termin mitteilen?"
+      },
+      {
+        "id": "formelle-kommunikation-sich-erkundigen",
+        "type": "verb",
+        "english": "to enquire",
+        "answers": ["sich erkundigen"],
+        "context": "Ich möchte mich nach freien Plätzen erkundigen."
+      },
+      {
+        "id": "formelle-kommunikation-berucksichtigen",
+        "type": "verb",
+        "english": "to take into account",
+        "answers": ["berücksichtigen"],
+        "context": "Bitte berücksichtigen Sie meine Arbeitszeiten."
+      },
+      {
+        "id": "formelle-kommunikation-sich-entschuldigen",
+        "type": "verb",
+        "english": "to apologize",
+        "answers": ["sich entschuldigen"],
+        "context": "Ich möchte mich für die Verspätung entschuldigen."
+      },
+      {
+        "id": "formelle-kommunikation-betreff",
+        "type": "noun",
+        "english": "subject line",
+        "answers": ["der Betreff"],
+        "context": "Schreiben Sie einen kurzen Betreff für Ihre E-Mail."
+      },
+      {
+        "id": "formelle-kommunikation-anrede",
+        "type": "noun",
+        "english": "salutation",
+        "answers": ["die Anrede"],
+        "context": "Nach der Anrede beginnt die eigentliche Nachricht."
+      },
+      {
+        "id": "formelle-kommunikation-reihenfolge",
+        "type": "noun",
+        "english": "order / sequence",
+        "answers": ["die Reihenfolge"],
+        "context": "Bringen Sie die Punkte in eine passende Reihenfolge."
+      },
+      {
+        "id": "formelle-kommunikation-unterlage",
+        "type": "noun",
+        "english": "document / supporting paper",
+        "answers": ["die Unterlage"],
+        "context": "Bitte bringen Sie alle erforderlichen Unterlagen zum Termin mit."
+      },
+      {
+        "id": "formelle-kommunikation-zusenden",
+        "type": "verb",
+        "english": "to send to someone",
+        "answers": ["zusenden"],
+        "context": "Können Sie mir den Prospekt bitte zusenden?"
+      },
+      {
+        "id": "formelle-kommunikation-sich-interessieren-fur",
+        "type": "verb",
+        "english": "to be interested in",
+        "answers": ["sich interessieren für"],
+        "context": "Viele Gäste interessieren sich für dieses Urlaubsangebot."
+      }
+    ]
+  }
+}

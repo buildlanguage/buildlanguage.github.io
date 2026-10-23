@@ -1,0 +1,85 @@
+{
+  "key": "de.b1-pruefung.nomen-verb-verbindungen.argumentieren-loesen",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Erweitere deinen Ausdruck beim Argumentieren und Lösen von Problemen.",
+    "items": [
+      {
+        "id": "verbindung-01",
+        "prompt": "Welches Verb vervollständigt die Wendung für eine mögliche Option?",
+        "text": "Für den kleinen Innenhof sollten wir auch eine Begrünung in Betracht {{gap}}.",
+        "answer": "ziehen",
+        "options": ["ziehen", "nehmen", "stellen"],
+        "completedText": "Für den kleinen Innenhof sollten wir auch eine Begrünung in Betracht ziehen.",
+        "explanation": "„Etwas in Betracht ziehen“ bedeutet, eine Möglichkeit ernsthaft zu prüfen."
+      },
+      {
+        "id": "verbindung-02",
+        "prompt": "Welches Nomen ergänzt die Wendung für das Ansprechen eines Themas?",
+        "text": "Beim Elternabend will Herr Yilmaz die unsichere Verkehrssituation zur {{gap}} bringen.",
+        "answer": "Sprache",
+        "options": ["Sprache", "Frage", "Wahl"],
+        "completedText": "Beim Elternabend will Herr Yilmaz die unsichere Verkehrssituation zur Sprache bringen.",
+        "explanation": "„Etwas zur Sprache bringen“ heißt, ein Thema bewusst anzusprechen."
+      },
+      {
+        "id": "verbindung-03",
+        "prompt": "Welches Verb gehört zur Verbindung „Einfluss auf etwas …“?",
+        "text": "Die Beleuchtung {{gap}} großen Einfluss auf die Atmosphäre im Raum.",
+        "answer": "nimmt",
+        "options": ["nimmt", "macht", "stellt"],
+        "completedText": "Die Beleuchtung nimmt großen Einfluss auf die Atmosphäre im Raum.",
+        "explanation": "„Einfluss auf etwas nehmen“ bedeutet, dessen Entwicklung oder Wirkung mitzubestimmen."
+      },
+      {
+        "id": "verbindung-04",
+        "prompt": "Welches Nomen verbindet sich mit „üben“, wenn man etwas negativ beurteilt?",
+        "text": "Der Mieterbeirat übte deutliche {{gap}} an den hohen Nebenkosten.",
+        "answer": "Kritik",
+        "options": ["Kritik", "Folge", "Kenntnis"],
+        "completedText": "Der Mieterbeirat übte deutliche Kritik an den hohen Nebenkosten.",
+        "explanation": "„Kritik an etwas üben“ bedeutet, begründet auf Mängel hinzuweisen; „an“ steht mit Dativ."
+      },
+      {
+        "id": "verbindung-05",
+        "prompt": "Welches Verb zeigt, dass die Gäste ihre Bedenken ausgesprochen haben?",
+        "text": "Einige Gäste haben Zweifel an der Sicherheit des Balkons {{gap}}.",
+        "answer": "geäußert",
+        "options": ["geäußert", "erteilt", "ergriffen"],
+        "completedText": "Einige Gäste haben Zweifel an der Sicherheit des Balkons geäußert.",
+        "explanation": "„Zweifel äußern“ heißt, Unsicherheit oder Bedenken offen auszusprechen."
+      },
+      {
+        "id": "verbindung-06",
+        "prompt": "Was bedeutet es hier, „Konsequenzen zu ziehen“?",
+        "text": "Nach den wiederholten Lieferproblemen zog die Bäckerei Konsequenzen.",
+        "answer": "sie musste aus dem Fehler lernen und handeln",
+        "options": [
+          "sie musste aus dem Fehler lernen und handeln",
+          "sie musste die Entscheidung verschieben",
+          "sie musste eine Genehmigung beantragen"
+        ],
+        "completedText": "Nach den wiederholten Lieferproblemen zog die Bäckerei Konsequenzen.",
+        "explanation": "„Konsequenzen ziehen“ bedeutet, aus einer negativen Erfahrung zu lernen und entsprechend zu handeln."
+      },
+      {
+        "id": "verbindung-07",
+        "prompt": "Welches Verb vervollständigt die formelle Wendung zum Verweisen auf etwas?",
+        "text": "In meinem Schreiben {{gap}} ich Bezug auf unser Telefonat vom Dienstag.",
+        "answer": "nehme",
+        "options": ["nehme", "stelle", "übe"],
+        "completedText": "In meinem Schreiben nehme ich Bezug auf unser Telefonat vom Dienstag.",
+        "explanation": "„Bezug auf etwas nehmen“ bedeutet, ausdrücklich darauf zu verweisen; „auf“ verlangt Akkusativ."
+      },
+      {
+        "id": "verbindung-08",
+        "prompt": "Welches Nomen passt, wenn ein Problem erfolgreich behoben wird?",
+        "text": "Nach mehreren Versuchen konnte das Reparaturteam eine dauerhafte {{gap}} finden.",
+        "answer": "Lösung",
+        "options": ["Lösung", "Verfügung", "Maßnahme"],
+        "completedText": "Nach mehreren Versuchen konnte das Reparaturteam eine dauerhafte Lösung finden.",
+        "explanation": "„Eine Lösung finden“ bedeutet, einen geeigneten Weg zur Behebung eines Problems zu entdecken."
+      }
+    ]
+  }
+}

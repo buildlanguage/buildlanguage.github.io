@@ -1,0 +1,235 @@
+{
+  "key": "de.b1-pruefung.sprachbausteine.energieberatung-wortbank",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Ergänze eine sachliche Anfrage mit passenden Verbindungswörtern und Formen.",
+    "passage": "Sehr geehrte Damen und Herren, ich interessiere mich {{gap-01}} Ihre kostenlose Energieberatung. Unsere Heizkosten sind im letzten Jahr deutlich {{gap-02}}. Deshalb möchte ich wissen, {{gap-03}} wir den Verbrauch senken können. Bieten Sie Termine auch am Abend {{gap-04}}? Unter der Woche arbeite ich nämlich {{gap-05}} 18 Uhr. Außerdem wäre es hilfreich, wenn die Beratung bei uns zu Hause stattfinden {{gap-06}}. Dann könnte Ihre Fachkraft die alten Fenster direkt {{gap-07}}. Bitte teilen Sie mir mit, welche Unterlagen ich vorbereiten {{gap-08}}. Über einen Termin im kommenden Monat würde ich mich sehr {{gap-09}}. Besten Dank {{gap-10}}.",
+    "bank": [
+      "für",
+      "gestiegen",
+      "wie",
+      "an",
+      "bis",
+      "könnte",
+      "prüfen",
+      "soll",
+      "freuen",
+      "im Voraus",
+      "seit",
+      "während",
+      "gegen"
+    ],
+    "items": [
+      {
+        "id": "gap-01",
+        "prompt": "Lücke 1: Welches Wort aus der Wortbank passt?",
+        "answer": "für",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„für“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-02",
+        "prompt": "Lücke 2: Welches Wort aus der Wortbank passt?",
+        "answer": "gestiegen",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„gestiegen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-03",
+        "prompt": "Lücke 3: Welches Wort aus der Wortbank passt?",
+        "answer": "wie",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„wie“ fragt nach der Art und Weise, auf die der Verbrauch gesenkt werden kann."
+      },
+      {
+        "id": "gap-04",
+        "prompt": "Lücke 4: Welches Wort aus der Wortbank passt?",
+        "answer": "an",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„an“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-05",
+        "prompt": "Lücke 5: Welches Wort aus der Wortbank passt?",
+        "answer": "bis",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„bis“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-06",
+        "prompt": "Lücke 6: Welches Wort aus der Wortbank passt?",
+        "answer": "könnte",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„könnte“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-07",
+        "prompt": "Lücke 7: Welches Wort aus der Wortbank passt?",
+        "answer": "prüfen",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„prüfen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-08",
+        "prompt": "Lücke 8: Welches Wort aus der Wortbank passt?",
+        "answer": "soll",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„soll“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-09",
+        "prompt": "Lücke 9: Welches Wort aus der Wortbank passt?",
+        "answer": "freuen",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„freuen“ passt hier grammatisch und inhaltlich."
+      },
+      {
+        "id": "gap-10",
+        "prompt": "Lücke 10: Welches Wort aus der Wortbank passt?",
+        "answer": "im Voraus",
+        "options": [
+          "für",
+          "gestiegen",
+          "wie",
+          "an",
+          "bis",
+          "könnte",
+          "prüfen",
+          "soll",
+          "freuen",
+          "im Voraus",
+          "seit",
+          "während",
+          "gegen"
+        ],
+        "explanation": "„im Voraus“ passt hier grammatisch und inhaltlich."
+      }
+    ]
+  }
+}

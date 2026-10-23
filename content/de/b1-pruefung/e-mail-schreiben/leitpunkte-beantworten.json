@@ -1,0 +1,89 @@
+{
+  "key": "de.b1-pruefung.e-mail-schreiben.leitpunkte-beantworten",
+  "kind": "typed-production",
+  "data": {
+    "intro": "Beantworte typische Leitpunkte klar und vollständig.",
+    "items": [
+      {
+        "id": "formulierung-01",
+        "label": "Zusagen · informell",
+        "prompt": "Nimm die Einladung einer Freundin herzlich an.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Sehr gern komme ich zu deiner Feier."],
+        "pattern": "Sehr gern + Verb + Subjekt …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-02",
+        "label": "Absagen + Grund · informell",
+        "prompt": "Sage ab und begründe, dass du an diesem Tag arbeiten musst.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Leider kann ich nicht kommen, weil ich an diesem Tag arbeiten muss."
+        ],
+        "pattern": "Leider …, weil …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-03",
+        "label": "Entschuldigen · informell",
+        "prompt": "Entschuldige dich dafür, dass du so spät antwortest.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Es tut mir leid, dass ich dir so spät antworte."],
+        "pattern": "Es tut mir leid, dass …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-04",
+        "label": "Termin nennen · flexibel",
+        "prompt": "Sage konkret, dass du am Samstag ab 15 Uhr Zeit hast.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Am Samstag habe ich ab 15 Uhr Zeit."],
+        "pattern": "Zeitangabe + Verb + Subjekt …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-05",
+        "label": "Meinung + Grund · informell",
+        "prompt": "Bewerte den Vorschlag positiv und begründe, dass er Zeit spart.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Ich finde deinen Vorschlag gut, weil wir so Zeit sparen können."
+        ],
+        "pattern": "Ich finde …, weil …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-06",
+        "label": "Erfahrung + Folge · flexibel",
+        "prompt": "Verbinde drei Monate Deutschkurs mit dem Ergebnis, dass du jetzt mehr verstehst.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Seit drei Monaten besuche ich einen Deutschkurs, deshalb verstehe ich jetzt viel mehr."
+        ],
+        "pattern": "Seit …, deshalb …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-07",
+        "label": "Plan erklären · flexibel",
+        "prompt": "Erkläre, dass du den Kurs vor der Anmeldung ausprobieren möchtest.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": [
+          "Zuerst möchte ich den Kurs ausprobieren, bevor ich mich anmelde."
+        ],
+        "pattern": "Zuerst …, bevor …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      },
+      {
+        "id": "formulierung-08",
+        "label": "Weiteren Punkt ergänzen · halbformell",
+        "prompt": "Ergänze höflich, dass du beim Einkaufen und Aufbau helfen kannst.",
+        "context": "Formuliere einen vollständigen, passenden Satz auf Deutsch.",
+        "answers": ["Außerdem kann ich beim Einkaufen und beim Aufbau helfen."],
+        "pattern": "Außerdem + Verb + Subjekt …",
+        "tip": "Achte auf das Register, die Wortstellung und eine klare kommunikative Funktion."
+      }
+    ]
+  }
+}

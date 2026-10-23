@@ -1,0 +1,85 @@
+{
+  "key": "de.b1-pruefung.nomen-verb-verbindungen.planen-austausch",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Nutze feste Verbindungen zum Planen, Diskutieren und Einigen.",
+    "items": [
+      {
+        "id": "verbindung-01",
+        "prompt": "Welches Verb passt zum ersten Schritt eines Gesprächs?",
+        "text": "Nach der Begrüßung wird Fatma das Gespräch über die Raumplanung {{gap}}.",
+        "answer": "beginnen",
+        "options": ["beginnen", "nehmen", "üben"],
+        "completedText": "Nach der Begrüßung wird Fatma das Gespräch über die Raumplanung beginnen.",
+        "explanation": "„Ein Gespräch beginnen“ bedeutet, den Austausch mit einem Thema oder einer Frage zu eröffnen."
+      },
+      {
+        "id": "verbindung-02",
+        "prompt": "Welches Nomen gehört zur Wendung, mit der man eine Idee einbringt?",
+        "text": "Für den Ausflug möchte ich einen {{gap}} machen: Wir fahren gemeinsam mit dem Rad.",
+        "answer": "Vorschlag",
+        "options": ["Vorschlag", "Bescheid", "Einfluss"],
+        "completedText": "Für den Ausflug möchte ich einen Vorschlag machen: Wir fahren gemeinsam mit dem Rad.",
+        "explanation": "„Einen Vorschlag machen“ heißt, eine Idee zur gemeinsamen Prüfung anzubieten."
+      },
+      {
+        "id": "verbindung-03",
+        "prompt": "Welches Verb verwendet man, wenn man höflich eine Erklärung verlangt?",
+        "text": "Wenn der Ablauf unklar ist, dürfen Sie um eine Erklärung {{gap}}.",
+        "answer": "bitten",
+        "options": ["bitten", "stellen", "äußern"],
+        "completedText": "Wenn der Ablauf unklar ist, dürfen Sie um eine Erklärung bitten.",
+        "explanation": "„Um etwas bitten“ bedeutet, einen Wunsch höflich auszudrücken; „um“ steht mit Akkusativ."
+      },
+      {
+        "id": "verbindung-04",
+        "prompt": "Welches Nomen passt, wenn man sich verbindlich für eine Option festlegt?",
+        "text": "Nach dem Vergleich aller Angebote haben wir eine {{gap}} getroffen.",
+        "answer": "Entscheidung",
+        "options": ["Entscheidung", "Rücksicht", "Kritik"],
+        "completedText": "Nach dem Vergleich aller Angebote haben wir eine Entscheidung getroffen.",
+        "explanation": "„Eine Entscheidung treffen“ heißt, nach dem Abwägen eine Option verbindlich auszuwählen."
+      },
+      {
+        "id": "verbindung-05",
+        "prompt": "Was bedeutet „einen Kompromiss finden“ in dieser Situation?",
+        "text": "Die Hausgemeinschaft fand einen Kompromiss zur Nutzung des Gartens.",
+        "answer": "sie fanden eine Lösung, die beide akzeptieren können",
+        "options": [
+          "sie fanden eine Lösung, die beide akzeptieren können",
+          "sie brachen die Diskussion ab",
+          "sie legten formell Widerspruch ein"
+        ],
+        "completedText": "Die Hausgemeinschaft fand einen Kompromiss zur Nutzung des Gartens.",
+        "explanation": "Bei einem Kompromiss einigen sich die Beteiligten auf eine Lösung, die alle akzeptieren können."
+      },
+      {
+        "id": "verbindung-06",
+        "prompt": "Welches Verb zeigt, dass gemeinsame Regeln verbindlich festgelegt wurden?",
+        "text": "Vor Beginn der Wohngemeinschaft haben wir eine klare Vereinbarung {{gap}}.",
+        "answer": "getroffen",
+        "options": ["getroffen", "genommen", "gezogen"],
+        "completedText": "Vor Beginn der Wohngemeinschaft haben wir eine klare Vereinbarung getroffen.",
+        "explanation": "„Eine Vereinbarung treffen“ bedeutet, sich gemeinsam auf verbindliche Regeln zu einigen."
+      },
+      {
+        "id": "verbindung-07",
+        "prompt": "Welches Verb vervollständigt die Wendung für einen achtsamen Umgang?",
+        "text": "Bei der Aufgabenverteilung sollten wir auf unterschiedliche Arbeitszeiten Rücksicht {{gap}}.",
+        "answer": "nehmen",
+        "options": ["nehmen", "machen", "führen"],
+        "completedText": "Bei der Aufgabenverteilung sollten wir auf unterschiedliche Arbeitszeiten Rücksicht nehmen.",
+        "explanation": "„Rücksicht auf etwas nehmen“ bedeutet, Bedürfnisse oder Umstände anderer zu beachten."
+      },
+      {
+        "id": "verbindung-08",
+        "prompt": "Welches Nomen ergänzt die Wendung für eine öffentliche Meinung?",
+        "text": "Zu den geplanten Änderungen möchte die Nachbarschaftsvertretung {{gap}} nehmen.",
+        "answer": "Stellung",
+        "options": ["Stellung", "Bezug", "Folge"],
+        "completedText": "Zu den geplanten Änderungen möchte die Nachbarschaftsvertretung Stellung nehmen.",
+        "explanation": "„Zu etwas Stellung nehmen“ bedeutet, die eigene Meinung dazu klar auszudrücken."
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.familie-soziale-kontakte",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "familie-soziale-kontakte-familie",
+        "type": "noun",
+        "english": "family",
+        "answers": ["die Familie"],
+        "context": "Meine Familie wohnt in drei verschiedenen Städten."
+      },
+      {
+        "id": "familie-soziale-kontakte-sich-treffen",
+        "type": "verb",
+        "english": "to meet",
+        "answers": ["sich treffen"],
+        "context": "Am Wochenende möchten wir uns im Park treffen."
+      },
+      {
+        "id": "familie-soziale-kontakte-freund",
+        "type": "noun",
+        "english": "friend",
+        "answers": ["der Freund"],
+        "context": "Mein bester Freund hilft mir beim Umzug."
+      },
+      {
+        "id": "familie-soziale-kontakte-einladen",
+        "type": "verb",
+        "english": "to invite",
+        "answers": ["einladen"],
+        "context": "Ich möchte meine Nachbarn zum Abendessen einladen."
+      },
+      {
+        "id": "familie-soziale-kontakte-beziehung",
+        "type": "noun",
+        "english": "relationship",
+        "answers": ["die Beziehung"],
+        "context": "Eine gute Beziehung braucht Zeit und Vertrauen."
+      },
+      {
+        "id": "familie-soziale-kontakte-sich-kummern",
+        "type": "verb",
+        "english": "to take care of",
+        "answers": ["sich kümmern"],
+        "context": "Am Wochenende muss ich mich um meine Oma kümmern."
+      },
+      {
+        "id": "familie-soziale-kontakte-unterstutzung",
+        "type": "noun",
+        "english": "support",
+        "answers": ["die Unterstützung"],
+        "context": "Danke für deine Unterstützung bei der Prüfung."
+      },
+      {
+        "id": "familie-soziale-kontakte-helfen",
+        "type": "verb",
+        "english": "to help",
+        "answers": ["helfen"],
+        "context": "Kannst du mir bitte mit den Kisten helfen?"
+      },
+      {
+        "id": "familie-soziale-kontakte-kontakt",
+        "type": "noun",
+        "english": "contact",
+        "answers": ["der Kontakt"],
+        "context": "Nach dem Kurs bleiben wir in Kontakt."
+      },
+      {
+        "id": "familie-soziale-kontakte-nachbarschaft",
+        "type": "noun",
+        "english": "neighbourhood",
+        "answers": ["die Nachbarschaft"],
+        "context": "In unserer Nachbarschaft kennen sich viele Menschen."
+      }
+    ]
+  }
+}

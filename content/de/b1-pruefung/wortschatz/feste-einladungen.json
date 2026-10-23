@@ -1,0 +1,78 @@
+{
+  "key": "de.b1-pruefung.wortschatz.feste-einladungen",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "feste-einladungen-einladung",
+        "type": "noun",
+        "english": "invitation",
+        "answers": ["die Einladung"],
+        "context": "Vielen Dank für die Einladung zu deiner Feier."
+      },
+      {
+        "id": "feste-einladungen-feiern",
+        "type": "verb",
+        "english": "to celebrate",
+        "answers": ["feiern"],
+        "context": "Wir möchten meinen Geburtstag im Garten feiern."
+      },
+      {
+        "id": "feste-einladungen-feier",
+        "type": "noun",
+        "english": "celebration / party",
+        "answers": ["die Feier"],
+        "context": "Die Feier beginnt am Samstag um acht Uhr."
+      },
+      {
+        "id": "feste-einladungen-zusagen",
+        "type": "verb",
+        "english": "to accept an invitation",
+        "answers": ["zusagen"],
+        "context": "Für deine Hochzeit kann ich gern zusagen."
+      },
+      {
+        "id": "feste-einladungen-geburtstag",
+        "type": "noun",
+        "english": "birthday",
+        "answers": ["der Geburtstag"],
+        "context": "Zu meinem Geburtstag lade ich zehn Freunde ein."
+      },
+      {
+        "id": "feste-einladungen-absagen",
+        "type": "verb",
+        "english": "to cancel",
+        "answers": ["absagen"],
+        "context": "Wegen meiner Krankheit muss ich den Termin absagen."
+      },
+      {
+        "id": "feste-einladungen-geschenk",
+        "type": "noun",
+        "english": "gift",
+        "answers": ["das Geschenk"],
+        "context": "Das Geschenk ist für meine kleine Schwester."
+      },
+      {
+        "id": "feste-einladungen-mitbringen",
+        "type": "verb",
+        "english": "to bring along",
+        "answers": ["mitbringen"],
+        "context": "Kannst du bitte einen Salat mitbringen?"
+      },
+      {
+        "id": "feste-einladungen-absage",
+        "type": "noun",
+        "english": "cancellation",
+        "answers": ["die Absage"],
+        "context": "Ihre kurzfristige Absage hat mich überrascht."
+      },
+      {
+        "id": "feste-einladungen-vorschlag",
+        "type": "noun",
+        "english": "suggestion",
+        "answers": ["der Vorschlag"],
+        "context": "Dein Vorschlag für den Ausflug gefällt mir."
+      }
+    ]
+  }
+}

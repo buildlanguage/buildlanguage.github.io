@@ -1,0 +1,85 @@
+{
+  "key": "de.b1-pruefung.nomen-verb-verbindungen.alltag-gesundheit",
+  "kind": "cloze-choice",
+  "data": {
+    "intro": "Übe feste Nomen-Verb-Verbindungen aus Alltag, Gesundheit und Reise.",
+    "items": [
+      {
+        "id": "verbindung-01",
+        "prompt": "Welches Verb verbindet man mit „einen Termin“, wenn man Zeitpunkt und Datum festlegt?",
+        "text": "Für die Fahrradinspektion will ich heute einen Termin {{gap}}.",
+        "answer": "vereinbaren",
+        "options": ["vereinbaren", "unternehmen", "betreiben"],
+        "completedText": "Für die Fahrradinspektion will ich heute einen Termin vereinbaren.",
+        "explanation": "„Einen Termin vereinbaren“ bedeutet, einen verbindlichen Zeitpunkt abzusprechen."
+      },
+      {
+        "id": "verbindung-02",
+        "prompt": "Welches Nomen ergänzt die feste Verbindung mit „treiben“?",
+        "text": "Nach der Arbeit treibt Okan im Verein regelmäßig {{gap}}.",
+        "answer": "Sport",
+        "options": ["Sport", "Pause", "Ruhe"],
+        "completedText": "Nach der Arbeit treibt Okan im Verein regelmäßig Sport.",
+        "explanation": "Die übliche Verbindung lautet „Sport treiben“; sie bedeutet, körperlich aktiv zu sein."
+      },
+      {
+        "id": "verbindung-03",
+        "prompt": "Welches Verb passt zu ärztlich verschriebenen Medikamenten?",
+        "text": "Die verschriebenen Medikamente soll Frau Kern morgens {{gap}}.",
+        "answer": "nehmen",
+        "options": ["nehmen", "führen", "stellen"],
+        "completedText": "Die verschriebenen Medikamente soll Frau Kern morgens nehmen.",
+        "explanation": "„Medikamente nehmen“ bedeutet, sie in der vorgesehenen Dosis einzunehmen."
+      },
+      {
+        "id": "verbindung-04",
+        "prompt": "Was beantragt man beim Arbeitgeber für freie Arbeitstage?",
+        "text": "Für die Familienfeier möchte Paulo zwei Tage {{gap}} beantragen.",
+        "answer": "Urlaub",
+        "options": ["Urlaub", "Reise", "Freizeit"],
+        "completedText": "Für die Familienfeier möchte Paulo zwei Tage Urlaub beantragen.",
+        "explanation": "„Urlaub beantragen“ heißt, den Arbeitgeber offiziell um freie Tage zu bitten."
+      },
+      {
+        "id": "verbindung-05",
+        "prompt": "Was bedeutet „wertvolle Erfahrungen machen“ in diesem Satz?",
+        "text": "Bei ihrem Freiwilligendienst hat Noemi wertvolle Erfahrungen gemacht.",
+        "answer": "sie hat neue Erlebnisse gesammelt",
+        "options": [
+          "sie hat neue Erlebnisse gesammelt",
+          "sie hat ein Praktikum abgeschlossen",
+          "sie hat Schwierigkeiten verursacht"
+        ],
+        "completedText": "Bei ihrem Freiwilligendienst hat Noemi wertvolle Erfahrungen gemacht.",
+        "explanation": "Wer „Erfahrungen macht“, sammelt durch eigenes Erleben neue Kenntnisse und Eindrücke."
+      },
+      {
+        "id": "verbindung-06",
+        "prompt": "Welches Verb zeigt, dass der Passant freiwillig helfen wollte?",
+        "text": "Als mein Auto nicht ansprang, hat ein Passant seine Hilfe {{gap}}.",
+        "answer": "angeboten",
+        "options": ["angeboten", "gestellt", "getroffen"],
+        "completedText": "Als mein Auto nicht ansprang, hat ein Passant seine Hilfe angeboten.",
+        "explanation": "„Hilfe anbieten“ bedeutet, von sich aus Unterstützung bereitzustellen."
+      },
+      {
+        "id": "verbindung-07",
+        "prompt": "Was kann man „knüpfen“, wenn man neue Menschen kennenlernt?",
+        "text": "Bei der offenen Werkstatt konnte Dana schnell neue {{gap}} knüpfen.",
+        "answer": "Kontakte",
+        "options": ["Kontakte", "Gespräche", "Anträge"],
+        "completedText": "Bei der offenen Werkstatt konnte Dana schnell neue Kontakte knüpfen.",
+        "explanation": "„Kontakte knüpfen“ bedeutet, Beziehungen zu bisher unbekannten Menschen aufzubauen."
+      },
+      {
+        "id": "verbindung-08",
+        "prompt": "Welches Verb bildet mit „eine Reise“ eine geläufige Verbindung?",
+        "text": "In den Winterferien wollen wir eine Reise an die Nordsee {{gap}}.",
+        "answer": "machen",
+        "options": ["machen", "treiben", "erteilen"],
+        "completedText": "In den Winterferien wollen wir eine Reise an die Nordsee machen.",
+        "explanation": "„Eine Reise machen“ bezeichnet, dass man für eine gewisse Zeit an einen anderen Ort fährt."
+      }
+    ]
+  }
+}

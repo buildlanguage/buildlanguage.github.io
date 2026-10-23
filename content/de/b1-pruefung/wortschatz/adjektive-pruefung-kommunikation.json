@@ -1,0 +1,71 @@
+{
+  "key": "de.b1-pruefung.wortschatz.adjektive-pruefung-kommunikation",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "adjektive-pruefung-kommunikation-moglich",
+        "type": "adjective",
+        "english": "possible",
+        "answers": ["möglich"],
+        "context": "Ein späterer Termin ist am Freitag möglich."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-punktlich",
+        "type": "adjective",
+        "english": "punctual / on time",
+        "answers": ["pünktlich"],
+        "context": "Der Zug ist heute pünktlich angekommen."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-angenehm",
+        "type": "adjective",
+        "english": "pleasant",
+        "answers": ["angenehm"],
+        "context": "Das Gespräch mit der neuen Kollegin war sehr angenehm."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-anstrengend",
+        "type": "adjective",
+        "english": "tiring / demanding",
+        "answers": ["anstrengend"],
+        "context": "Die lange Zugfahrt war für die Kinder anstrengend."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-beliebt",
+        "type": "adjective",
+        "english": "popular",
+        "answers": ["beliebt"],
+        "context": "Dieser Sprachkurs ist bei jungen Erwachsenen sehr beliebt."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-bequem",
+        "type": "adjective",
+        "english": "comfortable / convenient",
+        "answers": ["bequem"],
+        "context": "Die neuen Sitze im Regionalzug sind bequem."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-gefahrlich",
+        "type": "adjective",
+        "english": "dangerous",
+        "answers": ["gefährlich"],
+        "context": "Bei starkem Verkehr kann dieser Fahrradweg gefährlich sein."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-gesund",
+        "type": "adjective",
+        "english": "healthy",
+        "answers": ["gesund"],
+        "context": "Regelmäßige Bewegung ist für den Körper gesund."
+      },
+      {
+        "id": "adjektive-pruefung-kommunikation-ruhig",
+        "type": "adjective",
+        "english": "quiet / calm",
+        "answers": ["ruhig"],
+        "context": "Am Abend ist unsere Straße angenehm ruhig."
+      }
+    ]
+  }
+}
