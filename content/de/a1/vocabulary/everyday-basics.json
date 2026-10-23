@@ -1,0 +1,113 @@
+{
+  "key": "de.a1.vocabulary.everyday-basics",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "family",
+        "type": "noun",
+        "english": "family",
+        "answer": "die Familie",
+        "context": "Meine Familie wohnt in Berlin."
+      },
+      {
+        "id": "friend",
+        "type": "noun",
+        "english": "friend (male)",
+        "answer": "der Freund",
+        "context": "Das ist mein Freund Paul."
+      },
+      {
+        "id": "apartment",
+        "type": "noun",
+        "english": "apartment",
+        "answer": "die Wohnung",
+        "context": "Die Wohnung ist klein."
+      },
+      {
+        "id": "breakfast",
+        "type": "noun",
+        "english": "breakfast",
+        "answer": "das Frühstück",
+        "context": "Das Frühstück ist um acht Uhr."
+      },
+      {
+        "id": "ticket",
+        "type": "noun",
+        "english": "ticket",
+        "answer": "die Fahrkarte",
+        "context": "Ich kaufe eine Fahrkarte."
+      },
+      {
+        "id": "weather",
+        "type": "noun",
+        "english": "weather",
+        "answer": "das Wetter",
+        "context": "Das Wetter ist heute schön."
+      },
+      {
+        "id": "learn",
+        "type": "verb",
+        "english": "to learn",
+        "answer": "lernen",
+        "context": "Ich lerne jeden Tag Deutsch."
+      },
+      {
+        "id": "help",
+        "type": "verb",
+        "english": "to help",
+        "answer": "helfen",
+        "context": "Kannst du mir bitte helfen?"
+      },
+      {
+        "id": "pay",
+        "type": "verb",
+        "english": "to pay",
+        "answer": "bezahlen",
+        "context": "Ich bezahle mit Karte."
+      },
+      {
+        "id": "get-up",
+        "type": "verb",
+        "english": "to get up",
+        "answer": "aufstehen",
+        "context": "Ich stehe um sieben Uhr auf."
+      },
+      {
+        "id": "arrive",
+        "type": "verb",
+        "english": "to arrive",
+        "answer": "ankommen",
+        "context": "Der Zug kommt um neun Uhr an."
+      },
+      {
+        "id": "friendly",
+        "type": "adjective",
+        "english": "friendly",
+        "answer": "freundlich",
+        "context": "Die Verkäuferin ist sehr freundlich."
+      },
+      {
+        "id": "affordable",
+        "type": "adjective",
+        "english": "affordable",
+        "answer": "günstig",
+        "context": "Das Brot ist heute günstig."
+      },
+      {
+        "id": "healthy",
+        "type": "adjective",
+        "english": "healthy",
+        "answer": "gesund",
+        "context": "Gemüse ist gesund."
+      },
+      {
+        "id": "quiet",
+        "type": "adjective",
+        "english": "quiet",
+        "answer": "ruhig",
+        "context": "Am Morgen ist es hier ruhig."
+      }
+    ]
+  }
+}
