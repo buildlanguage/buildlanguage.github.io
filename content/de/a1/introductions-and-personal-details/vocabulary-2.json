@@ -1,0 +1,85 @@
+{
+  "key": "de.a1.introductions-and-personal-details.vocabulary-2",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "i-am-mia",
+        "type": "sentence",
+        "english": "I am Mia.",
+        "answers": ["Ich bin Mia."],
+        "context": "Hallo, ich heiße Mia."
+      },
+      {
+        "id": "i-am-28",
+        "type": "sentence",
+        "english": "I am 28 years old.",
+        "answers": ["Ich bin 28 Jahre alt."],
+        "context": "Ich bin 28."
+      },
+      {
+        "id": "from-germany",
+        "type": "sentence",
+        "english": "I come from Germany.",
+        "answers": ["Ich komme aus Deutschland."],
+        "context": "Deutschland ist ein Land."
+      },
+      {
+        "id": "from-spain",
+        "type": "sentence",
+        "english": "I come from Spain.",
+        "answers": ["Ich komme aus Spanien."],
+        "context": "Ich spreche Spanisch."
+      },
+      {
+        "id": "from-greece",
+        "type": "sentence",
+        "english": "I come from Greece.",
+        "answers": ["Ich komme aus Griechenland."],
+        "context": "Ich spreche Griechisch."
+      },
+      {
+        "id": "speak-german",
+        "type": "sentence",
+        "english": "I speak German.",
+        "answers": ["Ich spreche Deutsch."],
+        "context": "Deutsch ist eine Sprache."
+      },
+      {
+        "id": "speak-spanish",
+        "type": "sentence",
+        "english": "I speak Spanish.",
+        "answers": ["Ich spreche Spanisch."],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "speak-greek",
+        "type": "sentence",
+        "english": "I speak Greek.",
+        "answers": ["Ich spreche Griechisch."],
+        "context": "Ich komme aus Griechenland."
+      },
+      {
+        "id": "live-in-berlin",
+        "type": "sentence",
+        "english": "I live in Berlin.",
+        "answers": ["Ich wohne in Berlin."],
+        "context": "Meine Adresse ist Sonnenweg 5."
+      },
+      {
+        "id": "my-phone-number",
+        "type": "sentence",
+        "english": "My phone number is 030 123456.",
+        "answers": ["Meine Telefonnummer ist 030 123456."],
+        "context": "Die Telefonnummer ist wichtig."
+      },
+      {
+        "id": "my-email-address",
+        "type": "sentence",
+        "english": "My email address is mia@example.de.",
+        "answers": ["Meine E-Mail-Adresse ist mia@example.de."],
+        "context": "Die E-Mail-Adresse ist neu."
+      }
+    ]
+  }
+}

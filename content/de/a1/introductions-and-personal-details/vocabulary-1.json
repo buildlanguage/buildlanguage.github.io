@@ -1,0 +1,113 @@
+{
+  "key": "de.a1.introductions-and-personal-details.vocabulary-1",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "hello",
+        "type": "sentence",
+        "english": "Hello!",
+        "answers": ["Hallo!"],
+        "context": "Hallo! Ich heiße Mia."
+      },
+      {
+        "id": "good-morning",
+        "type": "sentence",
+        "english": "Good morning!",
+        "answers": ["Guten Morgen!"],
+        "context": "Guten Morgen! Ich bin Ben."
+      },
+      {
+        "id": "goodbye",
+        "type": "sentence",
+        "english": "Goodbye!",
+        "answers": ["Auf Wiedersehen!"],
+        "context": "Auf Wiedersehen! Bis morgen."
+      },
+      {
+        "id": "name",
+        "type": "noun",
+        "english": "name",
+        "answers": ["der Name"],
+        "context": "Mein Name ist Omar."
+      },
+      {
+        "id": "country",
+        "type": "noun",
+        "english": "country",
+        "answers": ["das Land"],
+        "context": "Deutschland ist ein Land."
+      },
+      {
+        "id": "language",
+        "type": "noun",
+        "english": "language",
+        "answers": ["die Sprache"],
+        "context": "Deutsch ist eine Sprache."
+      },
+      {
+        "id": "age",
+        "type": "noun",
+        "english": "age",
+        "answers": ["das Alter"],
+        "context": "Das Alter steht im Formular."
+      },
+      {
+        "id": "address",
+        "type": "noun",
+        "english": "address",
+        "answers": ["die Adresse"],
+        "context": "Meine Adresse ist Sonnenweg 5."
+      },
+      {
+        "id": "phone-number",
+        "type": "noun",
+        "english": "phone number",
+        "answers": ["die Telefonnummer"],
+        "context": "Meine Telefonnummer ist neu."
+      },
+      {
+        "id": "email-address",
+        "type": "noun",
+        "english": "email address",
+        "answers": ["die E-Mail-Adresse"],
+        "context": "Meine E-Mail-Adresse ist mia@example.de."
+      },
+      {
+        "id": "to-be-called",
+        "type": "verb",
+        "english": "to be called",
+        "answers": ["heißen"],
+        "context": "Ich heiße Sofia."
+      },
+      {
+        "id": "to-come",
+        "type": "verb",
+        "english": "to come",
+        "answers": ["kommen"],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "to-speak",
+        "type": "verb",
+        "english": "to speak",
+        "answers": ["sprechen"],
+        "context": "Ich spreche Deutsch."
+      },
+      {
+        "id": "to-live",
+        "type": "verb",
+        "english": "to live",
+        "answers": ["wohnen"],
+        "context": "Ich wohne in Berlin."
+      },
+      {
+        "id": "old",
+        "type": "adjective",
+        "english": "old",
+        "answers": ["alt"],
+        "context": "Ich bin 28 Jahre alt."
+      }
+    ]
+  }
+}

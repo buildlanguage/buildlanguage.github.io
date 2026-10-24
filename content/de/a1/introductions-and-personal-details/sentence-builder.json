@@ -1,0 +1,92 @@
+{
+  "key": "de.a1.introductions-and-personal-details.sentence-builder",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "introduce-mia",
+        "type": "sentence",
+        "english": "Hello, I am Mia.",
+        "answers": ["Hallo, ich bin Mia."],
+        "context": "Ich heiße Mia."
+      },
+      {
+        "id": "name-ben",
+        "type": "sentence",
+        "english": "My name is Ben.",
+        "answers": ["Ich heiße Ben."],
+        "context": "Mein Name ist Ben."
+      },
+      {
+        "id": "age-28",
+        "type": "sentence",
+        "english": "I am 28 years old.",
+        "answers": ["Ich bin 28 Jahre alt."],
+        "context": "Ich bin 28."
+      },
+      {
+        "id": "from-spain",
+        "type": "sentence",
+        "english": "I come from Spain.",
+        "answers": ["Ich komme aus Spanien."],
+        "context": "Ich spreche Spanisch."
+      },
+      {
+        "id": "speak-spanish",
+        "type": "sentence",
+        "english": "I speak Spanish.",
+        "answers": ["Ich spreche Spanisch."],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "live-berlin",
+        "type": "sentence",
+        "english": "I live in Berlin.",
+        "answers": ["Ich wohne in Berlin."],
+        "context": "Meine Adresse ist Sonnenweg 5."
+      },
+      {
+        "id": "ask-name-informal",
+        "type": "sentence",
+        "english": "What is your name? (informal)",
+        "answers": ["Wie heißt du?"],
+        "context": "Ich heiße Ben."
+      },
+      {
+        "id": "ask-origin-formal",
+        "type": "sentence",
+        "english": "Where are you from? (formal)",
+        "answers": ["Woher kommen Sie?"],
+        "context": "Ich komme aus Deutschland."
+      },
+      {
+        "id": "ask-language-informal",
+        "type": "sentence",
+        "english": "What language do you speak? (informal)",
+        "answers": ["Welche Sprache sprichst du?"],
+        "context": "Ich spreche Deutsch."
+      },
+      {
+        "id": "ask-age-informal",
+        "type": "sentence",
+        "english": "How old are you? (informal)",
+        "answers": ["Wie alt bist du?"],
+        "context": "Ich bin 28 Jahre alt."
+      },
+      {
+        "id": "ask-home-informal",
+        "type": "sentence",
+        "english": "Where do you live? (informal)",
+        "answers": ["Wo wohnst du?"],
+        "context": "Ich wohne in Berlin."
+      },
+      {
+        "id": "formal-name",
+        "type": "sentence",
+        "english": "What is your name? (formal)",
+        "answers": ["Wie heißen Sie?"],
+        "context": "Ich heiße Sofia."
+      }
+    ]
+  }
+}
