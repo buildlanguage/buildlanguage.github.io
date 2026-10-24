@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.nouns-and-articles.homework-3",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "homework-3-friend-lives",
+        "type": "sentence",
+        "english": "The friend lives here.",
+        "answers": ["Der Freund wohnt hier."],
+        "context": "Der Freund ist gut."
+      },
+      {
+        "id": "homework-3-friend-good",
+        "type": "sentence",
+        "english": "The friend is good.",
+        "answers": ["Der Freund ist gut."],
+        "context": "Der Freund ist wichtig."
+      },
+      {
+        "id": "homework-3-friend-important",
+        "type": "sentence",
+        "english": "The friend is important.",
+        "answers": ["Der Freund ist wichtig."],
+        "context": "Der Freund wohnt hier."
+      },
+      {
+        "id": "homework-3-this-friend",
+        "type": "sentence",
+        "english": "This is the friend.",
+        "answers": ["Das ist der Freund."],
+        "context": "Der Freund ist gut."
+      },
+      {
+        "id": "homework-3-table-new",
+        "type": "sentence",
+        "english": "The table is new.",
+        "answers": ["Der Tisch ist neu."],
+        "context": "Der Tisch ist klein."
+      },
+      {
+        "id": "homework-3-table-small",
+        "type": "sentence",
+        "english": "The table is small.",
+        "answers": ["Der Tisch ist klein."],
+        "context": "Der Tisch ist neu."
+      },
+      {
+        "id": "homework-3-table-good",
+        "type": "sentence",
+        "english": "The table is good.",
+        "answers": ["Der Tisch ist gut."],
+        "context": "Der Tisch ist wichtig."
+      },
+      {
+        "id": "homework-3-table-important",
+        "type": "sentence",
+        "english": "The table is important.",
+        "answers": ["Der Tisch ist wichtig."],
+        "context": "Der Tisch ist klein."
+      },
+      {
+        "id": "homework-3-this-table",
+        "type": "sentence",
+        "english": "This is the table.",
+        "answers": ["Das ist der Tisch."],
+        "context": "Der Tisch ist neu."
+      },
+      {
+        "id": "homework-3-friend-here",
+        "type": "sentence",
+        "english": "The friend is here.",
+        "answers": ["Der Freund ist hier."],
+        "context": "Der Freund wohnt hier."
+      }
+    ]
+  }
+}

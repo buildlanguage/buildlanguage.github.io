@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.nouns-and-articles.homework-7",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "homework-7-this-friend",
+        "type": "sentence",
+        "english": "This is the friend.",
+        "answers": ["Das ist der Freund."],
+        "context": "Der Freund ist gut."
+      },
+      {
+        "id": "homework-7-this-table",
+        "type": "sentence",
+        "english": "This is the table.",
+        "answers": ["Das ist der Tisch."],
+        "context": "Der Tisch ist klein."
+      },
+      {
+        "id": "homework-7-this-apartment",
+        "type": "sentence",
+        "english": "This is the apartment.",
+        "answers": ["Das ist die Wohnung."],
+        "context": "Die Wohnung ist neu."
+      },
+      {
+        "id": "homework-7-this-work",
+        "type": "sentence",
+        "english": "This is the work.",
+        "answers": ["Das ist die Arbeit."],
+        "context": "Die Arbeit ist wichtig."
+      },
+      {
+        "id": "homework-7-this-breakfast",
+        "type": "sentence",
+        "english": "This is the breakfast.",
+        "answers": ["Das ist das Frühstück."],
+        "context": "Das Frühstück ist gut."
+      },
+      {
+        "id": "homework-7-this-water",
+        "type": "sentence",
+        "english": "This is the water.",
+        "answers": ["Das ist das Wasser."],
+        "context": "Das Wasser ist wichtig."
+      },
+      {
+        "id": "homework-7-friend-lives",
+        "type": "sentence",
+        "english": "The friend lives here.",
+        "answers": ["Der Freund wohnt hier."],
+        "context": "Der Freund ist wichtig."
+      },
+      {
+        "id": "homework-7-table-small",
+        "type": "sentence",
+        "english": "The table is small.",
+        "answers": ["Der Tisch ist klein."],
+        "context": "Der Tisch ist neu."
+      },
+      {
+        "id": "homework-7-apartment-new",
+        "type": "sentence",
+        "english": "The apartment is new.",
+        "answers": ["Die Wohnung ist neu."],
+        "context": "Die Wohnung ist klein."
+      },
+      {
+        "id": "homework-7-work-important",
+        "type": "sentence",
+        "english": "The work is important.",
+        "answers": ["Die Arbeit ist wichtig."],
+        "context": "Die Arbeit ist gut."
+      }
+    ]
+  }
+}

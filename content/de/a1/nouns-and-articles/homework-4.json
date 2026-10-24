@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.nouns-and-articles.homework-4",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "homework-4-apartment-new",
+        "type": "sentence",
+        "english": "The apartment is new.",
+        "answers": ["Die Wohnung ist neu."],
+        "context": "Die Wohnung ist klein."
+      },
+      {
+        "id": "homework-4-apartment-small",
+        "type": "sentence",
+        "english": "The apartment is small.",
+        "answers": ["Die Wohnung ist klein."],
+        "context": "Die Wohnung ist neu."
+      },
+      {
+        "id": "homework-4-apartment-good",
+        "type": "sentence",
+        "english": "The apartment is good.",
+        "answers": ["Die Wohnung ist gut."],
+        "context": "Die Wohnung ist wichtig."
+      },
+      {
+        "id": "homework-4-apartment-important",
+        "type": "sentence",
+        "english": "The apartment is important.",
+        "answers": ["Die Wohnung ist wichtig."],
+        "context": "Die Wohnung ist hier."
+      },
+      {
+        "id": "homework-4-apartment-here",
+        "type": "sentence",
+        "english": "The apartment is here.",
+        "answers": ["Die Wohnung ist hier."],
+        "context": "Die Wohnung ist klein."
+      },
+      {
+        "id": "homework-4-this-apartment",
+        "type": "sentence",
+        "english": "This is the apartment.",
+        "answers": ["Das ist die Wohnung."],
+        "context": "Die Wohnung ist neu."
+      },
+      {
+        "id": "homework-4-work-good",
+        "type": "sentence",
+        "english": "The work is good.",
+        "answers": ["Die Arbeit ist gut."],
+        "context": "Die Arbeit ist wichtig."
+      },
+      {
+        "id": "homework-4-work-important",
+        "type": "sentence",
+        "english": "The work is important.",
+        "answers": ["Die Arbeit ist wichtig."],
+        "context": "Die Arbeit ist gut."
+      },
+      {
+        "id": "homework-4-work-new",
+        "type": "sentence",
+        "english": "The work is new.",
+        "answers": ["Die Arbeit ist neu."],
+        "context": "Die Arbeit ist wichtig."
+      },
+      {
+        "id": "homework-4-this-work",
+        "type": "sentence",
+        "english": "This is the work.",
+        "answers": ["Das ist die Arbeit."],
+        "context": "Die Arbeit ist gut."
+      }
+    ]
+  }
+}

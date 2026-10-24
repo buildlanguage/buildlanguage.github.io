@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.nouns-and-articles.homework-6",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "homework-6-friend-lives",
+        "type": "sentence",
+        "english": "The friend lives here.",
+        "answers": ["Der Freund wohnt hier."],
+        "context": "Der Freund ist wichtig."
+      },
+      {
+        "id": "homework-6-table-small",
+        "type": "sentence",
+        "english": "The table is small.",
+        "answers": ["Der Tisch ist klein."],
+        "context": "Der Tisch ist neu."
+      },
+      {
+        "id": "homework-6-apartment-new",
+        "type": "sentence",
+        "english": "The apartment is new.",
+        "answers": ["Die Wohnung ist neu."],
+        "context": "Die Wohnung ist klein."
+      },
+      {
+        "id": "homework-6-work-important",
+        "type": "sentence",
+        "english": "The work is important.",
+        "answers": ["Die Arbeit ist wichtig."],
+        "context": "Die Arbeit ist gut."
+      },
+      {
+        "id": "homework-6-breakfast-good",
+        "type": "sentence",
+        "english": "The breakfast is good.",
+        "answers": ["Das Frühstück ist gut."],
+        "context": "Das Frühstück ist wichtig."
+      },
+      {
+        "id": "homework-6-water-important",
+        "type": "sentence",
+        "english": "The water is important.",
+        "answers": ["Das Wasser ist wichtig."],
+        "context": "Das Wasser ist gut."
+      },
+      {
+        "id": "homework-6-this-friend",
+        "type": "sentence",
+        "english": "This is the friend.",
+        "answers": ["Das ist der Freund."],
+        "context": "Der Freund wohnt hier."
+      },
+      {
+        "id": "homework-6-this-apartment",
+        "type": "sentence",
+        "english": "This is the apartment.",
+        "answers": ["Das ist die Wohnung."],
+        "context": "Die Wohnung ist neu."
+      },
+      {
+        "id": "homework-6-this-breakfast",
+        "type": "sentence",
+        "english": "This is the breakfast.",
+        "answers": ["Das ist das Frühstück."],
+        "context": "Das Frühstück ist gut."
+      },
+      {
+        "id": "homework-6-this-work",
+        "type": "sentence",
+        "english": "This is the work.",
+        "answers": ["Das ist die Arbeit."],
+        "context": "Die Arbeit ist wichtig."
+      }
+    ]
+  }
+}
