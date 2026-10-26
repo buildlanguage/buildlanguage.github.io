@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.introductions-and-personal-details.homework-7",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "mastery-full-greeting",
+        "type": "sentence",
+        "english": "Good morning, I am Sofia.",
+        "answers": ["Guten Morgen, ich bin Sofia."],
+        "context": "Mein Name ist Sofia."
+      },
+      {
+        "id": "mastery-name-statement",
+        "type": "sentence",
+        "english": "My name is Jonas.",
+        "answers": ["Ich heiße Jonas.", "Mein Name ist Jonas."],
+        "context": "Ich bin 29 Jahre alt."
+      },
+      {
+        "id": "mastery-age-statement",
+        "type": "sentence",
+        "english": "I am 29 years old.",
+        "answers": ["Ich bin 29 Jahre alt."],
+        "context": "Ich heiße Jonas."
+      },
+      {
+        "id": "mastery-origin-statement",
+        "type": "sentence",
+        "english": "I come from Spain.",
+        "answers": ["Ich komme aus Spanien."],
+        "context": "Ich spreche Spanisch."
+      },
+      {
+        "id": "mastery-language-statement",
+        "type": "sentence",
+        "english": "I speak German.",
+        "answers": ["Ich spreche Deutsch."],
+        "context": "Ich wohne in Leipzig."
+      },
+      {
+        "id": "mastery-home-statement",
+        "type": "sentence",
+        "english": "I live in Leipzig.",
+        "answers": ["Ich wohne in Leipzig."],
+        "context": "Ich komme aus Deutschland."
+      },
+      {
+        "id": "mastery-informal-name-question",
+        "type": "sentence",
+        "english": "What is your name? (informal)",
+        "answers": ["Wie heißt du?"],
+        "context": "Ich heiße Lena."
+      },
+      {
+        "id": "mastery-formal-language-question",
+        "type": "sentence",
+        "english": "What language do you speak? (formal)",
+        "answers": ["Welche Sprache sprechen Sie?"],
+        "context": "Ich spreche Griechisch."
+      },
+      {
+        "id": "mastery-contact-email",
+        "type": "sentence",
+        "english": "My email address is jonas@example.de.",
+        "answers": ["Meine E-Mail-Adresse ist jonas@example.de."],
+        "context": "Meine Telefonnummer ist 0341 778899."
+      },
+      {
+        "id": "mastery-formal-home-question",
+        "type": "sentence",
+        "english": "Where do you live? (formal)",
+        "answers": ["Wo wohnen Sie?"],
+        "context": "Ich wohne in Hamburg."
+      }
+    ]
+  }
+}

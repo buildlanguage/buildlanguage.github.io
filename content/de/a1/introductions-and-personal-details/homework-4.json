@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.introductions-and-personal-details.homework-4",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "formal-ask-name",
+        "type": "sentence",
+        "english": "What is your name? (formal)",
+        "answers": ["Wie heißen Sie?"],
+        "context": "Ich heiße Sofia."
+      },
+      {
+        "id": "formal-ask-age",
+        "type": "sentence",
+        "english": "How old are you? (formal)",
+        "answers": ["Wie alt sind Sie?"],
+        "context": "Ich bin 35 Jahre alt."
+      },
+      {
+        "id": "formal-ask-origin",
+        "type": "sentence",
+        "english": "Where are you from? (formal)",
+        "answers": ["Woher kommen Sie?"],
+        "context": "Ich komme aus Deutschland."
+      },
+      {
+        "id": "formal-ask-language",
+        "type": "sentence",
+        "english": "What language do you speak? (formal)",
+        "answers": ["Welche Sprache sprechen Sie?"],
+        "context": "Ich spreche Griechisch."
+      },
+      {
+        "id": "formal-ask-home",
+        "type": "sentence",
+        "english": "Where do you live? (formal)",
+        "answers": ["Wo wohnen Sie?"],
+        "context": "Ich wohne in München."
+      },
+      {
+        "id": "formal-morning-ask-name",
+        "type": "sentence",
+        "english": "Good morning, what is your name? (formal)",
+        "answers": ["Guten Morgen, wie heißen Sie?"],
+        "context": "Mein Name ist Omar."
+      },
+      {
+        "id": "formal-hello-ask-origin",
+        "type": "sentence",
+        "english": "Hello, where are you from? (formal)",
+        "answers": ["Hallo, woher kommen Sie?"],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "formal-morning-ask-language",
+        "type": "sentence",
+        "english": "Good morning, what language do you speak? (formal)",
+        "answers": ["Guten Morgen, welche Sprache sprechen Sie?"],
+        "context": "Ich spreche Deutsch."
+      },
+      {
+        "id": "formal-hello-ask-home",
+        "type": "sentence",
+        "english": "Hello, where do you live? (formal)",
+        "answers": ["Hallo, wo wohnen Sie?"],
+        "context": "Ich wohne in Köln."
+      },
+      {
+        "id": "formal-morning-ask-age",
+        "type": "sentence",
+        "english": "Good morning, how old are you? (formal)",
+        "answers": ["Guten Morgen, wie alt sind Sie?"],
+        "context": "Ich bin 42 Jahre alt."
+      }
+    ]
+  }
+}

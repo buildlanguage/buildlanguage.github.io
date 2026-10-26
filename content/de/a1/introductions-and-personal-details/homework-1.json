@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.introductions-and-personal-details.homework-1",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "identity-greeting-lena",
+        "type": "sentence",
+        "english": "Hello, I am Lena.",
+        "answers": ["Hallo, ich bin Lena."],
+        "context": "Ich heiße Lena."
+      },
+      {
+        "id": "identity-name-paul",
+        "type": "sentence",
+        "english": "My name is Paul.",
+        "answers": ["Ich heiße Paul.", "Mein Name ist Paul."],
+        "context": "Hallo, ich bin Paul."
+      },
+      {
+        "id": "identity-name-sara",
+        "type": "sentence",
+        "english": "My name is Sara.",
+        "answers": ["Mein Name ist Sara.", "Ich heiße Sara."],
+        "context": "Hallo, ich bin Sara."
+      },
+      {
+        "id": "identity-age-eighteen",
+        "type": "sentence",
+        "english": "I am 18 years old.",
+        "answers": ["Ich bin 18 Jahre alt."],
+        "context": "Mein Name ist Lena."
+      },
+      {
+        "id": "identity-age-thirty-two",
+        "type": "sentence",
+        "english": "I am 32 years old.",
+        "answers": ["Ich bin 32 Jahre alt."],
+        "context": "Ich heiße Paul."
+      },
+      {
+        "id": "identity-home-berlin",
+        "type": "sentence",
+        "english": "I live in Berlin.",
+        "answers": ["Ich wohne in Berlin."],
+        "context": "Ich bin 24 Jahre alt."
+      },
+      {
+        "id": "identity-home-hamburg",
+        "type": "sentence",
+        "english": "I live in Hamburg.",
+        "answers": ["Ich wohne in Hamburg."],
+        "context": "Mein Name ist Sara."
+      },
+      {
+        "id": "identity-morning-omar",
+        "type": "sentence",
+        "english": "Good morning, I am Omar.",
+        "answers": ["Guten Morgen, ich bin Omar."],
+        "context": "Ich heiße Omar."
+      },
+      {
+        "id": "identity-name-mia",
+        "type": "sentence",
+        "english": "I am Mia.",
+        "answers": ["Ich bin Mia."],
+        "context": "Mein Name ist Mia."
+      },
+      {
+        "id": "identity-goodbye",
+        "type": "sentence",
+        "english": "Goodbye!",
+        "answers": ["Auf Wiedersehen!"],
+        "context": "Mein Name ist Ben."
+      }
+    ]
+  }
+}

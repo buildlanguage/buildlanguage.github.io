@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.introductions-and-personal-details.homework-6",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "mixed-greet-and-name",
+        "type": "sentence",
+        "english": "Hello, my name is Mia.",
+        "answers": ["Hallo, ich heiße Mia.", "Hallo, mein Name ist Mia."],
+        "context": "Ich bin 25 Jahre alt."
+      },
+      {
+        "id": "mixed-informal-name-question",
+        "type": "sentence",
+        "english": "What is your name? (informal)",
+        "answers": ["Wie heißt du?"],
+        "context": "Mein Name ist Ben."
+      },
+      {
+        "id": "mixed-origin-answer",
+        "type": "sentence",
+        "english": "I come from Greece.",
+        "answers": ["Ich komme aus Griechenland."],
+        "context": "Ich spreche Griechisch."
+      },
+      {
+        "id": "mixed-formal-origin-question",
+        "type": "sentence",
+        "english": "Where are you from? (formal)",
+        "answers": ["Woher kommen Sie?"],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "mixed-language-answer",
+        "type": "sentence",
+        "english": "I speak Spanish.",
+        "answers": ["Ich spreche Spanisch."],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "mixed-informal-language-question",
+        "type": "sentence",
+        "english": "What language do you speak? (informal)",
+        "answers": ["Welche Sprache sprichst du?"],
+        "context": "Ich spreche Deutsch."
+      },
+      {
+        "id": "mixed-home-answer",
+        "type": "sentence",
+        "english": "I live in Dresden.",
+        "answers": ["Ich wohne in Dresden."],
+        "context": "Meine Adresse ist Sonnenweg 5."
+      },
+      {
+        "id": "mixed-formal-home-question",
+        "type": "sentence",
+        "english": "Where do you live? (formal)",
+        "answers": ["Wo wohnen Sie?"],
+        "context": "Ich wohne in Berlin."
+      },
+      {
+        "id": "mixed-phone-answer",
+        "type": "sentence",
+        "english": "My phone number is 030 445566.",
+        "answers": ["Meine Telefonnummer ist 030 445566."],
+        "context": "Meine E-Mail-Adresse ist mia@example.de."
+      },
+      {
+        "id": "mixed-formal-age-question",
+        "type": "sentence",
+        "english": "How old are you? (formal)",
+        "answers": ["Wie alt sind Sie?"],
+        "context": "Ich bin 30 Jahre alt."
+      }
+    ]
+  }
+}

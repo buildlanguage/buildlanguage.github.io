@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.introductions-and-personal-details.homework-5",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "contact-phone-berlin",
+        "type": "sentence",
+        "english": "My phone number is 030 765432.",
+        "answers": ["Meine Telefonnummer ist 030 765432."],
+        "context": "Ich wohne in Berlin."
+      },
+      {
+        "id": "contact-phone-hamburg",
+        "type": "sentence",
+        "english": "My phone number is 040 246810.",
+        "answers": ["Meine Telefonnummer ist 040 246810."],
+        "context": "Ich wohne in Hamburg."
+      },
+      {
+        "id": "contact-phone-munich",
+        "type": "sentence",
+        "english": "My phone number is 089 135790.",
+        "answers": ["Meine Telefonnummer ist 089 135790."],
+        "context": "Ich wohne in München."
+      },
+      {
+        "id": "contact-email-lena",
+        "type": "sentence",
+        "english": "My email address is lena@example.de.",
+        "answers": ["Meine E-Mail-Adresse ist lena@example.de."],
+        "context": "Ich heiße Lena."
+      },
+      {
+        "id": "contact-email-paul",
+        "type": "sentence",
+        "english": "My email address is paul@example.de.",
+        "answers": ["Meine E-Mail-Adresse ist paul@example.de."],
+        "context": "Mein Name ist Paul."
+      },
+      {
+        "id": "contact-email-sara",
+        "type": "sentence",
+        "english": "My email address is sara@example.de.",
+        "answers": ["Meine E-Mail-Adresse ist sara@example.de."],
+        "context": "Ich bin Sara."
+      },
+      {
+        "id": "contact-address-sun-path",
+        "type": "sentence",
+        "english": "My address is Sonnenweg 5.",
+        "answers": ["Meine Adresse ist Sonnenweg 5."],
+        "context": "Ich wohne in Berlin."
+      },
+      {
+        "id": "contact-home-cologne",
+        "type": "sentence",
+        "english": "I live in Cologne.",
+        "answers": ["Ich wohne in Köln."],
+        "context": "Meine Telefonnummer ist 0221 864200."
+      },
+      {
+        "id": "contact-name-omar",
+        "type": "sentence",
+        "english": "My name is Omar.",
+        "answers": ["Mein Name ist Omar.", "Ich heiße Omar."],
+        "context": "Meine E-Mail-Adresse ist omar@example.de."
+      },
+      {
+        "id": "contact-age-twenty-six",
+        "type": "sentence",
+        "english": "I am 26 years old.",
+        "answers": ["Ich bin 26 Jahre alt."],
+        "context": "Meine Telefonnummer ist 030 112233."
+      }
+    ]
+  }
+}

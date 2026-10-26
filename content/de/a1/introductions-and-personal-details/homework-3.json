@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.introductions-and-personal-details.homework-3",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "informal-ask-name",
+        "type": "sentence",
+        "english": "What is your name? (informal)",
+        "answers": ["Wie heißt du?"],
+        "context": "Ich heiße Mia."
+      },
+      {
+        "id": "informal-ask-age",
+        "type": "sentence",
+        "english": "How old are you? (informal)",
+        "answers": ["Wie alt bist du?"],
+        "context": "Ich bin 28 Jahre alt."
+      },
+      {
+        "id": "informal-ask-origin",
+        "type": "sentence",
+        "english": "Where are you from? (informal)",
+        "answers": ["Woher kommst du?"],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "informal-ask-language",
+        "type": "sentence",
+        "english": "What language do you speak? (informal)",
+        "answers": ["Welche Sprache sprichst du?"],
+        "context": "Ich spreche Deutsch."
+      },
+      {
+        "id": "informal-ask-home",
+        "type": "sentence",
+        "english": "Where do you live? (informal)",
+        "answers": ["Wo wohnst du?"],
+        "context": "Ich wohne in Berlin."
+      },
+      {
+        "id": "informal-hello-ask-name",
+        "type": "sentence",
+        "english": "Hello, what is your name? (informal)",
+        "answers": ["Hallo, wie heißt du?"],
+        "context": "Mein Name ist Ben."
+      },
+      {
+        "id": "informal-morning-ask-origin",
+        "type": "sentence",
+        "english": "Good morning, where are you from? (informal)",
+        "answers": ["Guten Morgen, woher kommst du?"],
+        "context": "Ich komme aus Griechenland."
+      },
+      {
+        "id": "informal-hello-ask-language",
+        "type": "sentence",
+        "english": "Hello, what language do you speak? (informal)",
+        "answers": ["Hallo, welche Sprache sprichst du?"],
+        "context": "Ich spreche Spanisch."
+      },
+      {
+        "id": "informal-morning-ask-home",
+        "type": "sentence",
+        "english": "Good morning, where do you live? (informal)",
+        "answers": ["Guten Morgen, wo wohnst du?"],
+        "context": "Ich wohne in Hamburg."
+      },
+      {
+        "id": "informal-hello-ask-age",
+        "type": "sentence",
+        "english": "Hello, how old are you? (informal)",
+        "answers": ["Hallo, wie alt bist du?"],
+        "context": "Ich bin 21 Jahre alt."
+      }
+    ]
+  }
+}

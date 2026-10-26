@@ -1,0 +1,78 @@
+{
+  "key": "de.a1.introductions-and-personal-details.homework-2",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "origin-germany-lena",
+        "type": "sentence",
+        "english": "I come from Germany.",
+        "answers": ["Ich komme aus Deutschland."],
+        "context": "Ich spreche Deutsch."
+      },
+      {
+        "id": "origin-spain-paul",
+        "type": "sentence",
+        "english": "I come from Spain.",
+        "answers": ["Ich komme aus Spanien."],
+        "context": "Ich spreche Spanisch."
+      },
+      {
+        "id": "origin-greece-sara",
+        "type": "sentence",
+        "english": "I come from Greece.",
+        "answers": ["Ich komme aus Griechenland."],
+        "context": "Ich spreche Griechisch."
+      },
+      {
+        "id": "language-german-omar",
+        "type": "sentence",
+        "english": "I speak German.",
+        "answers": ["Ich spreche Deutsch."],
+        "context": "Ich komme aus Deutschland."
+      },
+      {
+        "id": "language-spanish-mia",
+        "type": "sentence",
+        "english": "I speak Spanish.",
+        "answers": ["Ich spreche Spanisch."],
+        "context": "Ich komme aus Spanien."
+      },
+      {
+        "id": "language-greek-ben",
+        "type": "sentence",
+        "english": "I speak Greek.",
+        "answers": ["Ich spreche Griechisch."],
+        "context": "Ich komme aus Griechenland."
+      },
+      {
+        "id": "origin-germany-with-greeting",
+        "type": "sentence",
+        "english": "Hello, I come from Germany.",
+        "answers": ["Hallo, ich komme aus Deutschland."],
+        "context": "Ich spreche Deutsch."
+      },
+      {
+        "id": "origin-spain-with-greeting",
+        "type": "sentence",
+        "english": "Hello, I come from Spain.",
+        "answers": ["Hallo, ich komme aus Spanien."],
+        "context": "Ich spreche Spanisch."
+      },
+      {
+        "id": "language-greek-with-greeting",
+        "type": "sentence",
+        "english": "Good morning, I speak Greek.",
+        "answers": ["Guten Morgen, ich spreche Griechisch."],
+        "context": "Ich komme aus Griechenland."
+      },
+      {
+        "id": "language-german-with-greeting",
+        "type": "sentence",
+        "english": "Good morning, I speak German.",
+        "answers": ["Guten Morgen, ich spreche Deutsch."],
+        "context": "Ich komme aus Deutschland."
+      }
+    ]
+  }
+}
