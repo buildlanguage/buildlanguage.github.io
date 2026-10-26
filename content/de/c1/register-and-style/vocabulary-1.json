@@ -1,0 +1,134 @@
+{
+  "key": "de.c1.register-and-style.vocabulary-1",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "register",
+        "type": "noun",
+        "english": "register (language style)",
+        "answers": ["das Register"],
+        "context": "Das Register muss zur Zielgruppe passen."
+      },
+      {
+        "id": "wording",
+        "type": "noun",
+        "english": "wording; phrasing",
+        "answers": ["die Formulierung"],
+        "context": "Die Formulierung wirkt sachlich und klar."
+      },
+      {
+        "id": "target-audience",
+        "type": "noun",
+        "english": "target audience",
+        "answers": ["die Zielgruppe"],
+        "context": "Die Zielgruppe bestimmt Ton und Detailgrad."
+      },
+      {
+        "id": "analysis",
+        "type": "noun",
+        "english": "analysis",
+        "answers": ["die Analyse"],
+        "context": "Die Analyse berücksichtigt mehrere Faktoren."
+      },
+      {
+        "id": "implementation",
+        "type": "noun",
+        "english": "implementation",
+        "answers": ["die Umsetzung"],
+        "context": "Die Umsetzung des Plans beginnt im Mai."
+      },
+      {
+        "id": "recommendation",
+        "type": "noun",
+        "english": "recommendation",
+        "answers": ["die Empfehlung"],
+        "context": "Die Empfehlung beruht auf aktuellen Daten."
+      },
+      {
+        "id": "to-adapt",
+        "type": "verb",
+        "english": "to adapt",
+        "answers": ["anpassen"],
+        "context": "Wir passen die Formulierung an die Zielgruppe an."
+      },
+      {
+        "id": "to-point-out",
+        "type": "verb",
+        "english": "to point out",
+        "answers": ["darauf hinweisen"],
+        "context": "Der Bericht weist auf eine Einschränkung hin."
+      },
+      {
+        "id": "to-indicate",
+        "type": "verb",
+        "english": "to indicate; suggest",
+        "answers": ["darauf hindeuten"],
+        "context": "Die Daten deuten auf eine Veränderung hin."
+      },
+      {
+        "id": "to-recommend",
+        "type": "verb",
+        "english": "to recommend",
+        "answers": ["empfehlen"],
+        "context": "Das Team empfiehlt eine schrittweise Umsetzung."
+      },
+      {
+        "id": "appropriate",
+        "type": "adjective",
+        "english": "appropriate",
+        "answers": ["angemessen"],
+        "context": "Ein neutraler Ton ist hier angemessen."
+      },
+      {
+        "id": "likely",
+        "type": "adjective",
+        "english": "likely; probable",
+        "answers": ["wahrscheinlich"],
+        "context": "Eine Anpassung ist wahrscheinlich erforderlich."
+      },
+      {
+        "id": "conversational-send-data",
+        "type": "sentence",
+        "english": "Can you send me the data? (conversational)",
+        "answers": ["Kannst du mir die Daten schicken?"],
+        "context": "Dann sehe ich sie mir heute noch an."
+      },
+      {
+        "id": "professional-send-data",
+        "type": "sentence",
+        "english": "Please send me the data. (professional)",
+        "answers": ["Bitte senden Sie mir die Daten zu."],
+        "context": "Vielen Dank für Ihre Unterstützung."
+      },
+      {
+        "id": "academic-data-indicate",
+        "type": "sentence",
+        "english": "The data indicate a change. (academic)",
+        "answers": ["Die Daten deuten auf eine Veränderung hin."],
+        "context": "Weitere Analysen sind jedoch erforderlich."
+      },
+      {
+        "id": "public-please-note",
+        "type": "sentence",
+        "english": "Please note the changed times. (public information)",
+        "answers": ["Bitte beachten Sie die geänderten Zeiten."],
+        "context": "Die neuen Zeiten gelten ab Montag."
+      },
+      {
+        "id": "direct-we-analyse",
+        "type": "sentence",
+        "english": "We analyse the results.",
+        "answers": ["Wir analysieren die Ergebnisse."],
+        "context": "Danach formulieren wir eine Empfehlung."
+      },
+      {
+        "id": "impersonal-analysis-conducted",
+        "type": "sentence",
+        "english": "An analysis of the results is conducted.",
+        "answers": ["Es erfolgt eine Analyse der Ergebnisse."],
+        "context": "Die Schlussfolgerungen werden transparent dokumentiert."
+      }
+    ]
+  }
+}

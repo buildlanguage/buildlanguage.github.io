@@ -1,0 +1,112 @@
+{
+  "key": "de.b1.life-changes-and-plans.sentence-builder",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "move-for-training",
+        "type": "sentence",
+        "english": "I am moving to another city in order to complete further training.",
+        "answers": [
+          "Ich ziehe in eine andere Stadt um, um eine Weiterbildung zu machen."
+        ],
+        "context": "Der Umzug ist für September geplant."
+      },
+      {
+        "id": "training-for-professional-goal",
+        "type": "sentence",
+        "english": "She completes further training in order to achieve her professional goal.",
+        "answers": [
+          "Sie macht eine Weiterbildung, um ihr berufliches Ziel zu erreichen."
+        ],
+        "context": "Die neue Qualifikation eröffnet ihr Möglichkeiten."
+      },
+      {
+        "id": "plan-to-achieve-goal",
+        "type": "sentence",
+        "english": "We plan together in order to achieve our goal.",
+        "answers": ["Wir planen gemeinsam, um unser Ziel zu erreichen."],
+        "context": "Jeder übernimmt einen Schritt."
+      },
+      {
+        "id": "decision-for-professional-change",
+        "type": "sentence",
+        "english": "I am making this decision in order to change professionally.",
+        "answers": [
+          "Ich treffe diese Entscheidung, um mich beruflich zu verändern."
+        ],
+        "context": "Der Plan passt zu meinen Zielen."
+      },
+      {
+        "id": "move-for-relationship-time",
+        "type": "sentence",
+        "english": "He is moving in order to have more time for his relationship.",
+        "answers": ["Er zieht um, um mehr Zeit für seine Beziehung zu haben."],
+        "context": "Seine Zukunft plant er gemeinsam mit seiner Partnerin."
+      },
+      {
+        "id": "plan-for-more-time",
+        "type": "sentence",
+        "english": "We plan our future in order to have more time for each other.",
+        "answers": [
+          "Wir planen unsere Zukunft, um mehr Zeit füreinander zu haben."
+        ],
+        "context": "Unsere Beziehung ist uns wichtig."
+      },
+      {
+        "id": "support-so-goal-reached",
+        "type": "sentence",
+        "english": "I support my partner so that she can achieve her goal.",
+        "answers": [
+          "Ich unterstütze meine Partnerin, damit sie ihr Ziel erreichen kann."
+        ],
+        "context": "Sie beginnt bald ihre Weiterbildung."
+      },
+      {
+        "id": "plan-so-friend-finds-home",
+        "type": "sentence",
+        "english": "We plan the move together so that our friend finds an apartment.",
+        "answers": [
+          "Wir planen den Umzug gemeinsam, damit unser Freund eine Wohnung findet."
+        ],
+        "context": "Er zieht nächsten Monat in unsere Stadt."
+      },
+      {
+        "id": "training-so-partner-achieves-goal",
+        "type": "sentence",
+        "english": "She completes further training so that her partner can achieve their shared goal.",
+        "answers": [
+          "Sie macht eine Weiterbildung, damit ihr Partner ihr gemeinsames Ziel erreichen kann."
+        ],
+        "context": "Beide planen ihre Zukunft zusammen."
+      },
+      {
+        "id": "decision-so-relationship-has-future",
+        "type": "sentence",
+        "english": "I make this decision so that my relationship has a future.",
+        "answers": [
+          "Ich treffe diese Entscheidung, damit meine Beziehung eine Zukunft hat."
+        ],
+        "context": "Wir besprechen den Plan gemeinsam."
+      },
+      {
+        "id": "move-so-partner-has-time",
+        "type": "sentence",
+        "english": "He moves so that his partner has more time for the relationship.",
+        "answers": [
+          "Er zieht um, damit seine Partnerin mehr Zeit für die Beziehung hat."
+        ],
+        "context": "Beide wohnen dann in derselben Stadt."
+      },
+      {
+        "id": "plan-so-friends-support-move",
+        "type": "sentence",
+        "english": "We plan our future so that our friends can support us with the move.",
+        "answers": [
+          "Wir planen unsere Zukunft, damit unsere Freunde uns beim Umzug unterstützen können."
+        ],
+        "context": "Gemeinsam finden wir eine gute Lösung."
+      }
+    ]
+  }
+}

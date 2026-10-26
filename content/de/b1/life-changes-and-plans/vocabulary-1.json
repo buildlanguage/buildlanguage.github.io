@@ -1,0 +1,134 @@
+{
+  "key": "de.b1.life-changes-and-plans.vocabulary-1",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "move",
+        "type": "noun",
+        "english": "move (to a new home)",
+        "answers": ["der Umzug"],
+        "context": "Der Umzug ist für September geplant."
+      },
+      {
+        "id": "qualification",
+        "type": "noun",
+        "english": "qualification",
+        "answers": ["die Qualifikation"],
+        "context": "Die Qualifikation eröffnet neue Möglichkeiten."
+      },
+      {
+        "id": "further-training",
+        "type": "noun",
+        "english": "further training",
+        "answers": ["die Weiterbildung"],
+        "context": "Die Weiterbildung dauert sechs Monate."
+      },
+      {
+        "id": "relationship",
+        "type": "noun",
+        "english": "relationship",
+        "answers": ["die Beziehung"],
+        "context": "Eine gute Beziehung braucht Zeit."
+      },
+      {
+        "id": "goal",
+        "type": "noun",
+        "english": "goal",
+        "answers": ["das Ziel"],
+        "context": "Mein Ziel ist eine neue Stelle."
+      },
+      {
+        "id": "future",
+        "type": "noun",
+        "english": "future",
+        "answers": ["die Zukunft"],
+        "context": "Wir sprechen oft über unsere Zukunft."
+      },
+      {
+        "id": "decision",
+        "type": "noun",
+        "english": "decision",
+        "answers": ["die Entscheidung"],
+        "context": "Wir treffen die Entscheidung gemeinsam."
+      },
+      {
+        "id": "plan",
+        "type": "noun",
+        "english": "plan",
+        "answers": ["der Plan"],
+        "context": "Der Plan passt zu unseren Zielen."
+      },
+      {
+        "id": "to-decide",
+        "type": "verb",
+        "english": "to decide",
+        "answers": ["sich entscheiden"],
+        "context": "Ich entscheide mich nach dem Gespräch."
+      },
+      {
+        "id": "to-plan",
+        "type": "verb",
+        "english": "to plan",
+        "answers": ["planen"],
+        "context": "Wir planen den nächsten Schritt gemeinsam."
+      },
+      {
+        "id": "to-achieve",
+        "type": "verb",
+        "english": "to achieve",
+        "answers": ["erreichen"],
+        "context": "Mit Geduld kann sie ihr Ziel erreichen."
+      },
+      {
+        "id": "to-support",
+        "type": "verb",
+        "english": "to support",
+        "answers": ["unterstützen"],
+        "context": "Seine Freunde unterstützen ihn."
+      },
+      {
+        "id": "professional",
+        "type": "adjective",
+        "english": "professional; career-related",
+        "answers": ["beruflich"],
+        "context": "Sie möchte sich beruflich verändern."
+      },
+      {
+        "id": "together",
+        "type": "adjective",
+        "english": "together",
+        "answers": ["gemeinsam"],
+        "context": "Wir treffen die Entscheidung gemeinsam."
+      },
+      {
+        "id": "move-to-another-city",
+        "type": "sentence",
+        "english": "I am moving to another city.",
+        "answers": ["Ich ziehe in eine andere Stadt um."],
+        "context": "Dort beginne ich eine Weiterbildung."
+      },
+      {
+        "id": "complete-further-training",
+        "type": "sentence",
+        "english": "She completes further training.",
+        "answers": ["Sie macht eine Weiterbildung."],
+        "context": "Die neue Qualifikation ist ihr wichtig."
+      },
+      {
+        "id": "find-an-apartment",
+        "type": "sentence",
+        "english": "He finds an apartment.",
+        "answers": ["Er findet eine Wohnung."],
+        "context": "Der Umzug kann bald beginnen."
+      },
+      {
+        "id": "have-more-time",
+        "type": "sentence",
+        "english": "We have more time for each other.",
+        "answers": ["Wir haben mehr Zeit füreinander."],
+        "context": "Das tut unserer Beziehung gut."
+      }
+    ]
+  }
+}

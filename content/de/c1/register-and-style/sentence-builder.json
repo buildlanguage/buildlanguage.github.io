@@ -1,0 +1,92 @@
+{
+  "key": "de.c1.register-and-style.sentence-builder",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "conversational-request-data",
+        "type": "sentence",
+        "english": "Can you send me the data? (conversational)",
+        "answers": ["Kannst du mir die Daten schicken?"],
+        "context": "Ich sehe sie mir heute noch an."
+      },
+      {
+        "id": "professional-request-data",
+        "type": "sentence",
+        "english": "Please send me the data. (professional)",
+        "answers": ["Bitte senden Sie mir die Daten zu."],
+        "context": "Für Rückfragen stehe ich gern zur Verfügung."
+      },
+      {
+        "id": "academic-cautious-change",
+        "type": "sentence",
+        "english": "The data could indicate a change. (academic, cautious)",
+        "answers": ["Die Daten könnten auf eine Veränderung hindeuten."],
+        "context": "Eine weitere Analyse ist erforderlich."
+      },
+      {
+        "id": "public-changed-times",
+        "type": "sentence",
+        "english": "Please note the changed times. (public information)",
+        "answers": ["Bitte beachten Sie die geänderten Zeiten."],
+        "context": "Sie gelten ab Montag."
+      },
+      {
+        "id": "verbal-analyse-results",
+        "type": "sentence",
+        "english": "We analyse the results. (verbal style)",
+        "answers": ["Wir analysieren die Ergebnisse."],
+        "context": "Anschließend formulieren wir eine Empfehlung."
+      },
+      {
+        "id": "nominal-analysis-results",
+        "type": "sentence",
+        "english": "We conduct an analysis of the results. (nominal style, actor retained)",
+        "answers": ["Wir führen eine Analyse der Ergebnisse durch."],
+        "context": "Das Team dokumentiert das Verfahren."
+      },
+      {
+        "id": "verbal-implement-plan",
+        "type": "sentence",
+        "english": "We implement the plan in May. (verbal style)",
+        "answers": ["Wir setzen den Plan im Mai um."],
+        "context": "Die Vorbereitung ist abgeschlossen."
+      },
+      {
+        "id": "nominal-implementation-plan",
+        "type": "sentence",
+        "english": "The implementation of the plan begins in May. (nominal style)",
+        "answers": ["Die Umsetzung des Plans beginnt im Mai."],
+        "context": "Für jede Phase gibt es einen Zeitrahmen."
+      },
+      {
+        "id": "direct-check-details",
+        "type": "sentence",
+        "english": "We check the details. (direct wording)",
+        "answers": ["Wir prüfen die Angaben."],
+        "context": "Eine Kollegin bestätigt das Ergebnis."
+      },
+      {
+        "id": "impersonal-check-details",
+        "type": "sentence",
+        "english": "The details are checked. (impersonal wording)",
+        "answers": ["Die Angaben werden geprüft."],
+        "context": "Das Ergebnis liegt morgen vor."
+      },
+      {
+        "id": "probable-adjustment",
+        "type": "sentence",
+        "english": "An adjustment is probably necessary. (reasoned probability)",
+        "answers": ["Eine Anpassung ist wahrscheinlich erforderlich."],
+        "context": "Die endgültige Entscheidung folgt nach der Analyse."
+      },
+      {
+        "id": "recommend-adjustment",
+        "type": "sentence",
+        "english": "On this basis, we recommend an adjustment. (evidence-based recommendation)",
+        "answers": ["Auf dieser Grundlage empfehlen wir eine Anpassung."],
+        "context": "Die Empfehlung berücksichtigt die Zielgruppe."
+      }
+    ]
+  }
+}

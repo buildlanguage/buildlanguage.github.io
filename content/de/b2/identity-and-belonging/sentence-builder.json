@@ -1,0 +1,114 @@
+{
+  "key": "de.b2.identity-and-belonging.sentence-builder",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "community-supports-members",
+        "type": "sentence",
+        "english": "The community, which supports new members, strengthens the sense of belonging.",
+        "answers": [
+          "Die Gemeinschaft, die neue Mitglieder unterstützt, stärkt das Zugehörigkeitsgefühl."
+        ],
+        "context": "Alle können ihre Perspektive einbringen."
+      },
+      {
+        "id": "multilingualism-shapes-identity",
+        "type": "sentence",
+        "english": "Multilingualism, which shapes her identity, is part of her everyday life.",
+        "answers": [
+          "Die Mehrsprachigkeit, die ihre Identität prägt, gehört zu ihrem Alltag."
+        ],
+        "context": "Sie wächst mit mehreren Sprachen auf."
+      },
+      {
+        "id": "experiences-are-diverse",
+        "type": "sentence",
+        "english": "The experiences that shape us are diverse.",
+        "answers": ["Die Erfahrungen, die uns prägen, sind vielfältig."],
+        "context": "Jede Biografie setzt andere Schwerpunkte."
+      },
+      {
+        "id": "community-we-support",
+        "type": "sentence",
+        "english": "The community that we support brings together different perspectives.",
+        "answers": [
+          "Die Gemeinschaft, die wir unterstützen, bringt verschiedene Perspektiven zusammen."
+        ],
+        "context": "Das offene Treffen findet monatlich statt."
+      },
+      {
+        "id": "diversity-shapes-identity",
+        "type": "sentence",
+        "english": "The diversity that shapes her identity strengthens her sense of belonging.",
+        "answers": [
+          "Die Vielfalt, die ihre Identität prägt, stärkt ihr Zugehörigkeitsgefühl."
+        ],
+        "context": "In der Gruppe kann sie ihre Perspektive einbringen."
+      },
+      {
+        "id": "identity-shaped-by-experiences",
+        "type": "sentence",
+        "english": "The identity that diverse experiences shape has many sides.",
+        "answers": [
+          "Die Identität, die vielfältige Erfahrungen prägen, hat viele Seiten."
+        ],
+        "context": "Herkunft ist dabei nur ein Aspekt."
+      },
+      {
+        "id": "community-in-which-engaged",
+        "type": "sentence",
+        "english": "The community in which he is involved is multilingual.",
+        "answers": [
+          "Die Gemeinschaft, in der er sich engagiert, ist mehrsprachig."
+        ],
+        "context": "Ihre Mitglieder bringen vielfältige Erfahrungen mit."
+      },
+      {
+        "id": "people-to-whom-belonging-important",
+        "type": "sentence",
+        "english": "The people for whom a sense of belonging is important support the project.",
+        "answers": [
+          "Die Menschen, denen ein Zugehörigkeitsgefühl wichtig ist, unterstützen das Projekt."
+        ],
+        "context": "Sie gestalten die Gemeinschaft gemeinsam."
+      },
+      {
+        "id": "colleague-with-whom-discuss",
+        "type": "sentence",
+        "english": "The colleague with whom I discuss migration brings in a new perspective.",
+        "answers": [
+          "Die Kollegin, mit der ich über Migration spreche, bringt eine neue Perspektive ein."
+        ],
+        "context": "Wir hören einander aufmerksam zu."
+      },
+      {
+        "id": "person-whose-identity-shaped",
+        "type": "sentence",
+        "english": "The person whose identity is shaped by several languages grows up multilingual.",
+        "answers": [
+          "Die Person, deren Identität mehrere Sprachen prägen, wächst mehrsprachig auf."
+        ],
+        "context": "Sie beschreibt ihre Herkunft differenziert."
+      },
+      {
+        "id": "community-whose-members-multilingual",
+        "type": "sentence",
+        "english": "The community whose members grow up multilingual is diverse.",
+        "answers": [
+          "Die Gemeinschaft, deren Mitglieder mehrsprachig aufwachsen, ist vielfältig."
+        ],
+        "context": "Mehrsprachigkeit gehört für viele zum Alltag."
+      },
+      {
+        "id": "apposition-moderator",
+        "type": "sentence",
+        "english": "We speak with Mina, an experienced moderator, about identity and belonging.",
+        "answers": [
+          "Wir sprechen mit Mina, einer erfahrenen Moderatorin, über Identität und Zugehörigkeit."
+        ],
+        "context": "Sie achtet auf respektvolle Formulierungen."
+      }
+    ]
+  }
+}
