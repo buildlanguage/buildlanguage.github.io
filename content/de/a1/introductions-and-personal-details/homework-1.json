@@ -71,7 +71,7 @@
         "type": "sentence",
         "english": "Goodbye!",
         "answers": ["Auf Wiedersehen!"],
-        "context": "Mein Name ist Ben."
+        "context": "Auf Wiedersehen, bis morgen!"
       }
     ]
   }

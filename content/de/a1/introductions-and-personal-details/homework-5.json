@@ -55,7 +55,7 @@
       {
         "id": "contact-home-cologne",
         "type": "sentence",
-        "english": "I live in Cologne.",
+        "english": "I live in Cologne (Köln).",
         "answers": ["Ich wohne in Köln."],
         "context": "Meine Telefonnummer ist 0221 864200."
       },
