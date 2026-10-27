@@ -1,0 +1,80 @@
+{
+  "key": "de.c1.register-and-style.homework-1",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "conversational-adapt-wording",
+        "type": "sentence",
+        "english": "Can you adapt the wording to the target audience? (conversational)",
+        "answers": ["Kannst du die Formulierung an die Zielgruppe anpassen?"],
+        "context": "Dann passt das Register besser."
+      },
+      {
+        "id": "professional-point-out-limitation",
+        "type": "sentence",
+        "english": "Please point out the limitation in the report. (professional)",
+        "answers": ["Bitte weisen Sie im Bericht auf die Einschränkung hin."],
+        "context": "So kann das Team die Ergebnisse richtig einordnen."
+      },
+      {
+        "id": "academic-results-indicate-change",
+        "type": "sentence",
+        "english": "The results could indicate a change. (academic, cautious)",
+        "answers": ["Die Ergebnisse könnten auf eine Veränderung hindeuten."],
+        "context": "Eine weitere Analyse muss diese Annahme prüfen."
+      },
+      {
+        "id": "public-note-implementation",
+        "type": "sentence",
+        "english": "Please note that implementation begins in May. (public information)",
+        "answers": ["Bitte beachten Sie, dass die Umsetzung im Mai beginnt."],
+        "context": "Der genaue Zeitplan wird rechtzeitig veröffentlicht."
+      },
+      {
+        "id": "direct-team-adapts-wording",
+        "type": "sentence",
+        "english": "The team adapts the wording to the target audience. (direct wording)",
+        "answers": ["Das Team passt die Formulierung an die Zielgruppe an."],
+        "context": "Dadurch wirkt der Text angemessen."
+      },
+      {
+        "id": "nominal-team-analysis-data",
+        "type": "sentence",
+        "english": "The team conducts an analysis of the data. (nominal style, actor retained)",
+        "answers": ["Das Team führt eine Analyse der Daten durch."],
+        "context": "Anschließend bespricht es die Ergebnisse."
+      },
+      {
+        "id": "process-implementation-recommendation",
+        "type": "sentence",
+        "english": "The implementation of the recommendation begins in May. (process-centred)",
+        "answers": ["Die Umsetzung der Empfehlung beginnt im Mai."],
+        "context": "Bis dahin sind alle Vorbereitungen abgeschlossen."
+      },
+      {
+        "id": "evidence-recommend-gradual-implementation",
+        "type": "sentence",
+        "english": "On this basis, we recommend a gradual implementation. (evidence-based recommendation)",
+        "answers": [
+          "Auf dieser Grundlage empfehlen wir eine schrittweise Umsetzung."
+        ],
+        "context": "So lassen sich die Auswirkungen sorgfältig prüfen."
+      },
+      {
+        "id": "probable-further-analysis",
+        "type": "sentence",
+        "english": "A further analysis is probably necessary. (reasoned probability)",
+        "answers": ["Eine weitere Analyse ist wahrscheinlich erforderlich."],
+        "context": "Die vorhandenen Daten reichen noch nicht aus."
+      },
+      {
+        "id": "requirement-adapt-recommendation",
+        "type": "sentence",
+        "english": "The recommendation must be adapted to the target audience. (clear requirement)",
+        "answers": ["Die Empfehlung muss an die Zielgruppe angepasst werden."],
+        "context": "Nur dann ist die Formulierung angemessen."
+      }
+    ]
+  }
+}
