@@ -1,0 +1,80 @@
+{
+  "key": "de.c1.register-and-style.homework-2",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "conversational-adapt-recommendation",
+        "type": "sentence",
+        "english": "Can you adapt the recommendation to the target audience? (conversational)",
+        "answers": ["Kannst du die Empfehlung an die Zielgruppe anpassen?"],
+        "context": "Dann ist die Formulierung für alle verständlich."
+      },
+      {
+        "id": "professional-send-analysis",
+        "type": "sentence",
+        "english": "Please send me the analysis. (professional)",
+        "answers": ["Bitte senden Sie mir die Analyse zu."],
+        "context": "Ich prüfe die Ergebnisse noch heute."
+      },
+      {
+        "id": "academic-analysis-indicate-change",
+        "type": "sentence",
+        "english": "The analysis could indicate a change. (academic, cautious)",
+        "answers": ["Die Analyse könnte auf eine Veränderung hindeuten."],
+        "context": "Weitere Daten sind für eine sichere Bewertung nötig."
+      },
+      {
+        "id": "public-note-recommendation",
+        "type": "sentence",
+        "english": "Please note the recommendation. (public information)",
+        "answers": ["Bitte beachten Sie die Empfehlung."],
+        "context": "Sie gilt für die nächste Phase der Umsetzung."
+      },
+      {
+        "id": "verbal-team-implements-recommendation",
+        "type": "sentence",
+        "english": "The team implements the recommendation step by step. (verbal style)",
+        "answers": ["Das Team setzt die Empfehlung schrittweise um."],
+        "context": "Nach jeder Phase analysiert es die Ergebnisse."
+      },
+      {
+        "id": "nominal-recommendation-implementation",
+        "type": "sentence",
+        "english": "The recommendation is implemented step by step. (nominal style)",
+        "answers": ["Die Umsetzung der Empfehlung erfolgt schrittweise."],
+        "context": "Der Zeitplan bleibt dadurch flexibel."
+      },
+      {
+        "id": "direct-we-adapt-wording",
+        "type": "sentence",
+        "english": "We adapt the wording. (direct wording)",
+        "answers": ["Wir passen die Formulierung an."],
+        "context": "Die Zielgruppe erhält danach eine klarere Version."
+      },
+      {
+        "id": "impersonal-wording-adapted",
+        "type": "sentence",
+        "english": "The wording is adapted to the target audience. (impersonal wording)",
+        "answers": ["Die Formulierung wird an die Zielgruppe angepasst."],
+        "context": "Das Register wirkt dadurch angemessen."
+      },
+      {
+        "id": "probable-wording-adjustment",
+        "type": "sentence",
+        "english": "An adjustment to the wording is probably necessary. (reasoned probability)",
+        "answers": [
+          "Eine Anpassung der Formulierung ist wahrscheinlich erforderlich."
+        ],
+        "context": "Die Analyse der Zielgruppe liefert weitere Hinweise."
+      },
+      {
+        "id": "requirement-recommendation-appropriate",
+        "type": "sentence",
+        "english": "The recommendation must be appropriate for the target audience. (clear requirement)",
+        "answers": ["Die Empfehlung muss für die Zielgruppe angemessen sein."],
+        "context": "Das Team prüft deshalb jedes Detail."
+      }
+    ]
+  }
+}
