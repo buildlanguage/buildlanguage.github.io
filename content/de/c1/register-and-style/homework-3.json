@@ -1,0 +1,84 @@
+{
+  "key": "de.c1.register-and-style.homework-3",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "conversational-check-wording",
+        "type": "sentence",
+        "english": "Can you check whether the wording suits the target audience? (conversational)",
+        "answers": [
+          "Kannst du prüfen, ob die Formulierung zur Zielgruppe passt?"
+        ],
+        "context": "Dann können wir das Register bei Bedarf anpassen."
+      },
+      {
+        "id": "professional-point-out-results",
+        "type": "sentence",
+        "english": "Please point out the most important results in the analysis. (professional)",
+        "answers": [
+          "Bitte weisen Sie in der Analyse auf die wichtigsten Ergebnisse hin."
+        ],
+        "context": "So bleibt die Empfehlung nachvollziehbar."
+      },
+      {
+        "id": "academic-data-probably-indicate-change",
+        "type": "sentence",
+        "english": "The data probably indicate a change. (academic, calibrated)",
+        "answers": [
+          "Die Daten deuten wahrscheinlich auf eine Veränderung hin."
+        ],
+        "context": "Die Analyse berücksichtigt jedoch auch mögliche Einschränkungen."
+      },
+      {
+        "id": "public-note-adjusted-wording",
+        "type": "sentence",
+        "english": "Please note the adjusted wording. (public information)",
+        "answers": ["Bitte beachten Sie die angepasste Formulierung."],
+        "context": "Die neue Version ist ab heute verfügbar."
+      },
+      {
+        "id": "verbal-team-analyses-target-audience",
+        "type": "sentence",
+        "english": "The team analyses the target audience before implementation. (verbal style)",
+        "answers": ["Das Team analysiert vor der Umsetzung die Zielgruppe."],
+        "context": "Danach passt es die Formulierung an."
+      },
+      {
+        "id": "nominal-target-audience-analysis",
+        "type": "sentence",
+        "english": "The analysis of the target audience takes place before implementation. (nominal style)",
+        "answers": ["Die Analyse der Zielgruppe erfolgt vor der Umsetzung."],
+        "context": "Die Ergebnisse bestimmen das passende Register."
+      },
+      {
+        "id": "direct-team-recommends-adjustment",
+        "type": "sentence",
+        "english": "The team recommends an adjustment to the wording. (direct wording)",
+        "answers": ["Das Team empfiehlt eine Anpassung der Formulierung."],
+        "context": "Die Zielgruppe soll den Text leichter verstehen."
+      },
+      {
+        "id": "impersonal-adjustment-recommended",
+        "type": "sentence",
+        "english": "An adjustment to the wording is recommended. (impersonal wording)",
+        "answers": ["Eine Anpassung der Formulierung wird empfohlen."],
+        "context": "Die endgültige Entscheidung trifft das Team."
+      },
+      {
+        "id": "cautious-implementation-appropriate",
+        "type": "sentence",
+        "english": "A gradual implementation could be appropriate. (cautious possibility)",
+        "answers": ["Eine schrittweise Umsetzung könnte angemessen sein."],
+        "context": "Das Team prüft zunächst die vorhandenen Daten."
+      },
+      {
+        "id": "requirement-point-out-limitation",
+        "type": "sentence",
+        "english": "The analysis must point out the limitation. (clear requirement)",
+        "answers": ["Die Analyse muss auf die Einschränkung hinweisen."],
+        "context": "Nur so lässt sich die Empfehlung richtig einordnen."
+      }
+    ]
+  }
+}
