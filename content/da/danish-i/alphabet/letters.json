@@ -1,0 +1,298 @@
+{
+  "key": "da.danish-i.alphabet.letters",
+  "kind": "letters",
+  "data": {
+    "letters": [
+      {
+        "upper": "A",
+        "lower": "a",
+        "name": "a",
+        "sound": "a in cat",
+        "example": {
+          "word": "en and",
+          "translation": "duck"
+        }
+      },
+      {
+        "upper": "B",
+        "lower": "b",
+        "name": "be",
+        "sound": "b in boat",
+        "example": {
+          "word": "en bil",
+          "translation": "car"
+        }
+      },
+      {
+        "upper": "C",
+        "lower": "c",
+        "name": "se",
+        "sound": "k in cat or s in city",
+        "example": {
+          "word": "en café",
+          "translation": "café"
+        }
+      },
+      {
+        "upper": "D",
+        "lower": "d",
+        "name": "de",
+        "sound": "d in day; often softened",
+        "example": {
+          "word": "en dør",
+          "translation": "door"
+        }
+      },
+      {
+        "upper": "E",
+        "lower": "e",
+        "name": "e",
+        "sound": "e in bed",
+        "example": {
+          "word": "en elefant",
+          "translation": "elephant"
+        }
+      },
+      {
+        "upper": "F",
+        "lower": "f",
+        "name": "ef",
+        "sound": "f in fish",
+        "example": {
+          "word": "en fisk",
+          "translation": "fish"
+        }
+      },
+      {
+        "upper": "G",
+        "lower": "g",
+        "name": "ge",
+        "sound": "g in go; often softened",
+        "example": {
+          "word": "en gade",
+          "translation": "street"
+        }
+      },
+      {
+        "upper": "H",
+        "lower": "h",
+        "name": "hå",
+        "sound": "h in house",
+        "example": {
+          "word": "et hus",
+          "translation": "house"
+        }
+      },
+      {
+        "upper": "I",
+        "lower": "i",
+        "name": "i",
+        "sound": "ee in see",
+        "example": {
+          "word": "en is",
+          "translation": "ice cream"
+        }
+      },
+      {
+        "upper": "J",
+        "lower": "j",
+        "name": "jåd",
+        "sound": "y in yes",
+        "example": {
+          "word": "en jakke",
+          "translation": "jacket"
+        }
+      },
+      {
+        "upper": "K",
+        "lower": "k",
+        "name": "kå",
+        "sound": "k in kite",
+        "example": {
+          "word": "en kat",
+          "translation": "cat"
+        }
+      },
+      {
+        "upper": "L",
+        "lower": "l",
+        "name": "el",
+        "sound": "l in lamp",
+        "example": {
+          "word": "en lampe",
+          "translation": "lamp"
+        }
+      },
+      {
+        "upper": "M",
+        "lower": "m",
+        "name": "em",
+        "sound": "m in man",
+        "example": {
+          "word": "en mand",
+          "translation": "man"
+        }
+      },
+      {
+        "upper": "N",
+        "lower": "n",
+        "name": "en",
+        "sound": "n in no",
+        "example": {
+          "word": "en nøgle",
+          "translation": "key"
+        }
+      },
+      {
+        "upper": "O",
+        "lower": "o",
+        "name": "o",
+        "sound": "a rounded o sound",
+        "example": {
+          "word": "en ost",
+          "translation": "cheese"
+        }
+      },
+      {
+        "upper": "P",
+        "lower": "p",
+        "name": "pe",
+        "sound": "p in pen",
+        "example": {
+          "word": "en pige",
+          "translation": "girl"
+        }
+      },
+      {
+        "upper": "Q",
+        "lower": "q",
+        "name": "ku",
+        "sound": "k in kite, usually in qu",
+        "example": {
+          "word": "en quiz",
+          "translation": "quiz"
+        }
+      },
+      {
+        "upper": "R",
+        "lower": "r",
+        "name": "ær",
+        "sound": "the Danish throat r",
+        "example": {
+          "word": "en restaurant",
+          "translation": "restaurant"
+        }
+      },
+      {
+        "upper": "S",
+        "lower": "s",
+        "name": "es",
+        "sound": "s in sun",
+        "example": {
+          "word": "en sol",
+          "translation": "sun"
+        }
+      },
+      {
+        "upper": "T",
+        "lower": "t",
+        "name": "te",
+        "sound": "t in top",
+        "example": {
+          "word": "et tog",
+          "translation": "train"
+        }
+      },
+      {
+        "upper": "U",
+        "lower": "u",
+        "name": "u",
+        "sound": "a close rounded u sound",
+        "example": {
+          "word": "en uge",
+          "translation": "week"
+        }
+      },
+      {
+        "upper": "V",
+        "lower": "v",
+        "name": "ve",
+        "sound": "v in very",
+        "example": {
+          "word": "en ven",
+          "translation": "friend"
+        }
+      },
+      {
+        "upper": "W",
+        "lower": "w",
+        "name": "dobbelt-v",
+        "sound": "usually v in loanwords",
+        "example": {
+          "word": "en weekend",
+          "translation": "weekend"
+        }
+      },
+      {
+        "upper": "X",
+        "lower": "x",
+        "name": "eks",
+        "sound": "ks in box",
+        "example": {
+          "word": "en xylofon",
+          "translation": "xylophone"
+        }
+      },
+      {
+        "upper": "Y",
+        "lower": "y",
+        "name": "y",
+        "sound": "French u or German ü",
+        "example": {
+          "word": "en yoghurt",
+          "translation": "yogurt"
+        }
+      },
+      {
+        "upper": "Z",
+        "lower": "z",
+        "name": "sæt",
+        "sound": "s in sun",
+        "example": {
+          "word": "en zebra",
+          "translation": "zebra"
+        }
+      },
+      {
+        "upper": "Æ",
+        "lower": "æ",
+        "name": "æ",
+        "sound": "e in bed",
+        "example": {
+          "word": "et æble",
+          "translation": "apple"
+        }
+      },
+      {
+        "upper": "Ø",
+        "lower": "ø",
+        "name": "ø",
+        "sound": "German ö or French eu",
+        "example": {
+          "word": "en ø",
+          "translation": "island"
+        }
+      },
+      {
+        "upper": "Å",
+        "lower": "å",
+        "name": "å",
+        "sound": "aw in law",
+        "example": {
+          "word": "et år",
+          "translation": "year"
+        }
+      }
+    ]
+  }
+}
