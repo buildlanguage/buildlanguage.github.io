@@ -1,0 +1,82 @@
+{
+  "key": "de.c1.register-and-style.homework-4",
+  "kind": "vocabulary-production",
+  "data": {
+    "words": [
+      {
+        "id": "conversational-send-analysis",
+        "type": "sentence",
+        "english": "Can you send me the analysis today? (conversational)",
+        "answers": ["Kannst du mir die Analyse heute schicken?"],
+        "context": "Dann kann ich die Formulierung noch anpassen."
+      },
+      {
+        "id": "professional-adapt-wording",
+        "type": "sentence",
+        "english": "Please adapt the wording to the target audience. (professional)",
+        "answers": ["Bitte passen Sie die Formulierung an die Zielgruppe an."],
+        "context": "Das passende Register ist für die Wirkung entscheidend."
+      },
+      {
+        "id": "academic-data-could-indicate-change",
+        "type": "sentence",
+        "english": "The data could indicate a change. (academic, cautious)",
+        "answers": ["Die Daten könnten auf eine Veränderung hindeuten."],
+        "context": "Eine weitere Analyse muss diese Annahme prüfen."
+      },
+      {
+        "id": "public-note-gradual-implementation",
+        "type": "sentence",
+        "english": "Please note the gradual implementation. (public information)",
+        "answers": ["Bitte beachten Sie die schrittweise Umsetzung."],
+        "context": "Die erste Phase beginnt im Mai."
+      },
+      {
+        "id": "verbal-team-analyses-results",
+        "type": "sentence",
+        "english": "The team analyses the results before making a recommendation. (verbal style)",
+        "answers": [
+          "Das Team analysiert die Ergebnisse, bevor es eine Empfehlung ausspricht."
+        ],
+        "context": "Dabei berücksichtigt es die Zielgruppe."
+      },
+      {
+        "id": "nominal-analysis-before-recommendation",
+        "type": "sentence",
+        "english": "The analysis of the results takes place before the recommendation. (nominal style)",
+        "answers": ["Die Analyse der Ergebnisse erfolgt vor der Empfehlung."],
+        "context": "So bleibt die Entscheidung nachvollziehbar."
+      },
+      {
+        "id": "direct-we-recommend-adjustment",
+        "type": "sentence",
+        "english": "We recommend an adjustment to the wording. (direct wording)",
+        "answers": ["Wir empfehlen eine Anpassung der Formulierung."],
+        "context": "Die neue Version soll besser zur Zielgruppe passen."
+      },
+      {
+        "id": "impersonal-analysis-conducted",
+        "type": "sentence",
+        "english": "An analysis of the target audience is conducted. (impersonal wording)",
+        "answers": ["Es erfolgt eine Analyse der Zielgruppe."],
+        "context": "Die Ergebnisse bestimmen das Register."
+      },
+      {
+        "id": "probable-gradual-implementation",
+        "type": "sentence",
+        "english": "A gradual implementation will probably be necessary. (reasoned probability)",
+        "answers": [
+          "Eine schrittweise Umsetzung wird wahrscheinlich erforderlich sein."
+        ],
+        "context": "Das Team prüft zunächst die vorhandenen Daten."
+      },
+      {
+        "id": "requirement-point-out-limitation",
+        "type": "sentence",
+        "english": "The analysis must point out the limitation. (clear requirement)",
+        "answers": ["Die Analyse muss auf die Einschränkung hinweisen."],
+        "context": "Nur dann ist die Empfehlung angemessen formuliert."
+      }
+    ]
+  }
+}
