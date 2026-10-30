@@ -1,0 +1,64 @@
+{
+  "key": "da.danish-i.unit-01.conversation-recall",
+  "kind": "prompted-recall",
+  "data": {
+    "language": "da",
+    "direction": "English → Danish",
+    "answerLabel": "Your answer in Danish",
+    "answerHint": "Recall the complete phrase from the lesson. Punctuation at the end is optional only when listed as an accepted answer.",
+    "letters": ["æ", "ø", "å"],
+    "items": [
+      {
+        "id": "excuse-me",
+        "prompt": "Excuse me.",
+        "answers": ["Undskyld.", "Undskyld", "undskyld", "undskyld."],
+        "context": "Undskyld. Forstår du engelsk?"
+      },
+      {
+        "id": "understand-english-question",
+        "prompt": "Do you understand English?",
+        "answers": ["Forstår du engelsk?", "Forstår du engelsk"],
+        "context": "Forstår du engelsk?"
+      },
+      {
+        "id": "do-not-understand-english",
+        "prompt": "No, I don't understand English.",
+        "answers": [
+          "Nej, jeg forstår ikke engelsk.",
+          "Nej, jeg forstår ikke engelsk"
+        ],
+        "context": "Nej, jeg forstår ikke engelsk."
+      },
+      {
+        "id": "understand-little-danish",
+        "prompt": "I understand a little Danish.",
+        "answers": ["Jeg forstår lidt dansk.", "Jeg forstår lidt dansk"],
+        "context": "Jeg forstår lidt dansk."
+      },
+      {
+        "id": "american-question",
+        "prompt": "Are you American?",
+        "answers": ["Er du amerikansk?", "Er du amerikansk"],
+        "context": "Er du amerikansk? Ja."
+      },
+      {
+        "id": "yes",
+        "prompt": "Yes.",
+        "answers": ["Ja.", "Ja", "ja", "ja."],
+        "context": "Ja."
+      },
+      {
+        "id": "understand-danish",
+        "prompt": "You understand Danish.",
+        "answers": ["Du forstår dansk.", "Du forstår dansk"],
+        "context": "Du forstår dansk."
+      },
+      {
+        "id": "do-not-understand-danish",
+        "prompt": "I don't understand Danish.",
+        "answers": ["Jeg forstår ikke dansk.", "Jeg forstår ikke dansk"],
+        "context": "Jeg forstår ikke dansk."
+      }
+    ]
+  }
+}

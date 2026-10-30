@@ -1,0 +1,85 @@
+{
+  "key": "da.danish-i.unit-01.core-words",
+  "kind": "prompted-recall",
+  "data": {
+    "language": "da",
+    "direction": "English → Danish",
+    "answerLabel": "Your answer in Danish",
+    "answerHint": "Type the word or short expression from Unit 01.",
+    "letters": ["æ", "ø", "å"],
+    "items": [
+      {
+        "id": "excuse-me",
+        "prompt": "excuse me",
+        "answers": ["undskyld", "Undskyld"],
+        "context": "Undskyld."
+      },
+      {
+        "id": "english",
+        "prompt": "English",
+        "answers": ["engelsk"],
+        "context": "Forstår du engelsk?"
+      },
+      {
+        "id": "understand",
+        "prompt": "understand (present tense)",
+        "answers": ["forstår"],
+        "context": "Jeg forstår."
+      },
+      {
+        "id": "you",
+        "prompt": "you",
+        "answers": ["du"],
+        "context": "Du forstår."
+      },
+      {
+        "id": "no",
+        "prompt": "no",
+        "answers": ["nej"],
+        "context": "Nej, jeg forstår ikke."
+      },
+      {
+        "id": "i",
+        "prompt": "I",
+        "answers": ["jeg"],
+        "context": "Jeg forstår dansk."
+      },
+      {
+        "id": "not",
+        "prompt": "not",
+        "answers": ["ikke"],
+        "context": "Jeg forstår ikke engelsk."
+      },
+      {
+        "id": "danish",
+        "prompt": "Danish",
+        "answers": ["dansk"],
+        "context": "Forstår du dansk?"
+      },
+      {
+        "id": "a-little",
+        "prompt": "a little",
+        "answers": ["lidt"],
+        "context": "Jeg forstår lidt dansk."
+      },
+      {
+        "id": "american",
+        "prompt": "American",
+        "answers": ["amerikansk"],
+        "context": "Er du amerikansk?"
+      },
+      {
+        "id": "are",
+        "prompt": "are",
+        "answers": ["er"],
+        "context": "Du er amerikansk."
+      },
+      {
+        "id": "yes",
+        "prompt": "yes",
+        "answers": ["ja"],
+        "context": "Ja."
+      }
+    ]
+  }
+}
