@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="viewport-fit=cover, width=device-width, initial-scale=1.0, interactive-widget=resizes-content"
+    />
+    <title>Language Builder</title>
+    <meta
+      name="description"
+      content="Language Builder is a free app for learning languages, online or offline."
+    />
+    <link href="/assets/favicon-C3aH8cG9.ico" rel="icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Commissioner:wght@400..700&family=Literata:opsz,wght@7..72,400..700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      // Apply the saved theme (see src/theme.ts) before the first paint, so it doesn't flash.
+      try {
+        var theme = localStorage.getItem("theme");
+        if (
+          theme === "dark" ||
+          (theme !== "light" &&
+            matchMedia("(prefers-color-scheme: dark)").matches)
+        )
+          document.documentElement.classList.add("dark");
+      } catch (error) {}
+    </script>
+    <script type="module" crossorigin src="/assets/index-Cuzg1pWW.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Db2evHL9.css">
+  </head>
+  <body>
+    <!-- For crawlers that don't run the app, such as Google's OAuth homepage check. -->
+    <noscript>
+      <h1>Language Builder</h1>
+      <p>
+        Language Builder is a free app for learning languages, online or
+        offline. Signing in with Google is optional and backs up your progress
+        to a private app folder in your own Google Drive.
+      </p>
+      <p>
+        <a href="#/privacy">Privacy Policy</a>
+        <a href="#/terms">Terms of Service</a>
+      </p>
+    </noscript>
+    <div id="root"></div>
+  </body>
+</html>
